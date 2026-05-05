@@ -1,5 +1,5 @@
 {
-  "version": "3.7",
+  "version": "3.8",
   "channels": [
     {
       "id": "1",
@@ -15,7 +15,7 @@
       "user_agent": "",
       "referer": "",
       "clear_key": "",
-      "category": "رياضة"
+      "category": "ايرثلنك"
     },
     {
       "id": "2",
@@ -33,8 +33,44 @@
       "clear_key": "",
       "category": "رياضة"
     },
-    {
+            {
       "id": "3",
+      "name": "beIN Sports 3",
+      "description": "بين سبورت فقط للايرثلنك",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_720.m3u8",
+      "category": "ايرثلنك",
+      "qualities": [
+        {
+          "label": "1080p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8"
+        },
+        {
+          "label": "720p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_720.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "beIN Sports 4",
+      "description": "بين سبورت فقط للايرثلنك",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_720.m3u8",
+      "category": "ايرثلنك",
+      "qualities": [
+        {
+          "label": "1080p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8"
+        },
+        {
+          "label": "720p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_720.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "5",
       "name": "BeIN SPORTS 1 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
@@ -49,7 +85,7 @@
       "category": "ياسين تيفي TV"
     },
     {
-      "id": "4",
+      "id": "6",
       "name": "BeIN SPORTS 2 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
@@ -66,7 +102,7 @@
       "category": "ياسين تيفي TV"
     },
     {
-      "id": "5",
+      "id": "7",
       "name": "BeIN SPORTS 3 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
@@ -83,7 +119,7 @@
       "category": "ياسين تيفي TV"
     },
     {
-      "id": "6",
+      "id": "8",
       "name": "BeIN SPORTS 4 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
@@ -100,7 +136,7 @@
       "category": "ياسين تيفي TV"
     },
     {
-      "id": "7",
+      "id": "9",
       "name": "BeIN SPORTS 5 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
@@ -118,3 +154,6 @@
     }
   ]
 }
+
+
+ 
