@@ -1,5 +1,5 @@
 {
-  "version": "3.2",
+  "version": "3.3",
   "name": "ياسين تيفي",
   "channels": [
     {
@@ -48,6 +48,74 @@
       "referer": "",
       "clear_key": "",
       "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "4",
+      "name": "BeIN SPORTS 2 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8" },
+        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8" },
+        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/10011244/index.m3u8" },
+        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/4798998070/index.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
     }
+        {
+      "id": "5",
+      "name": "BeIN SPORTS 3 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8" },
+        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8" },
+        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/161988840/index.m3u8" },
+        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/551818447/index.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "6",
+      "name": "BeIN SPORTS 4 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8" },
+        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8" },
+        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/0103088447/index.m3u8" },
+        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/131326625/index.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "7",
+      "name": "BeIN SPORTS 5 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8" },
+        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8" },
+        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/115451004/index.m3u8" },
+        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    } 
   ]
 }
