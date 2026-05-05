@@ -1,5 +1,6 @@
 {
-  "version": "3.1",
+  "version": "3.2",
+  "name": "ياسين تيفي",
   "channels": [
     {
       "id": "1",
@@ -9,8 +10,8 @@
       "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
       "qualities": [
         { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8" },
-        { "label": "720p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8" },
-        { "label": "480p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_480.m3u8" }
+        { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8" },
+        { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_480.m3u8" }
       ],
       "user_agent": "",
       "referer": "",
@@ -25,13 +26,28 @@
       "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch2_1080.m3u",
       "qualities": [
         { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8" },
-        { "label": "720p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8" },
-        { "label": "480p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8" }
+        { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8" },
+        { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8" }
       ],
       "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "رياضة"
+    },
+    {
+      "id": "3",
+      "name": "BeIN SPORTS 1 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" },
+        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
     }
   ]
 }
