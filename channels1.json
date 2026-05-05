@@ -1,1 +1,39 @@
+{
+  "version": "4.1",
+  "channels": [
+    {
+      "id": "1",
+      "name": "beIN Sports 1",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
+      "qualities": [
+    { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8" },
+    { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8"  },
+    { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_480.m3u8"  }
+  ]
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "رياضة"
+    },
+    {
+      "id": "1",
+      "name": "beIN Sports 2",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch2_1080.m3u",
+      "qualities": [
+    { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8" },
+    { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8"  },
+    { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8"  }
+  ]
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "رياضة"
+    }
+  ]
+}
+
 
