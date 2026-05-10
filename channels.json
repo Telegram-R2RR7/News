@@ -1,5 +1,5 @@
 {
-  "version": "4.8",
+  "version": "4.9",
   "channels": [
     {
       "id": "1",
@@ -191,9 +191,9 @@
       "logo": "https://h.top4top.io/p_3782ujb4w0.jpg",
       "url": "http://76.flixip.icu/live/abdlkarimousrouty/4bklcb4icv/83628.ts",
       "qualities": [
-        { "label": "1080p", "url": "http://76.flixip.icu/live/abdlkarimousrouty/4bklcb4icv/83628.ts" },
+        { "label": "1080p", "url": "https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8" },
         { "label": "720p",  "url": "http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262" },
-        { "label": "480p",  "url": "" }
+        { "label": "480p",  "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VIvuyoMzQpz-z1sYzkeGpQn2BmTO1hguyp8hpJUmlzXlNQuu1Fo-fSI_5EtrHnaWNyNtV9svr-TArkimk7FM5g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
