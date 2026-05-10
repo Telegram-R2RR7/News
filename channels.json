@@ -1,15 +1,15 @@
 {
-  "version": "3.9",
+  "version": "4.0",
   "channels": [
     {
       "id": "1",
       "name": "beIN Sports 1",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/V0BB_PDlclPfIFCLOBTmONAtbZH6V66_HjPoi604QwFeDtHnfItU3XubznffU6rbEtusV9QOGSt8TyerP4iY6Q/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/V0BB_PDlclPfIFCLOBTmONAtbZH6V66_HjPoi604QwFeDtHnfItU3XubznffU6rbEtusV9QOGSt8TyerP4iY6Q/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live" },
-        { "label": "720p",  "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/V0BB_PDlclPfIFCLOBTmONAtbZH6V66_HjPoi604QwFeDtHnfItU3XubznffU6rbEtusV9QOGSt8TyerP4iY6Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live" },
+        { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8" },
+        { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8" },
         { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_480.m3u8" }
       ],
       "user_agent": "",
