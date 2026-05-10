@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
+  "version": "4.1",
   "channels": [
     {
       "id": "1",
@@ -183,6 +183,22 @@
       "logo": "https://l.top4top.io/p_37776kvwj0.jpeg",
       "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
       "category": "الكاس الرياضية"
+    }
+  {
+      "id": "14",
+      "name": "مباراة ريال مدريد ضد برشلونة",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262",
+      "qualities": [
+        { "label": "1080p", "url": "http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262" },
+        { "label": "720p",  "url": "http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262" },
+        { "label": "480p",  "url": "" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "للمباريات المهمة"
     }
   ]
 }
