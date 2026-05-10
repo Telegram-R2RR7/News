@@ -1,5 +1,5 @@
 {
-  "version": "4.6",
+  "version": "4.7",
   "channels": [
     {
       "id": "1",
@@ -214,7 +214,15 @@
       "referer": "",
       "clear_key": "",
       "category": "للمباريات المهمة"
-  }
+  },
+{
+      "id": "16",
+      "name": "ريال مدريد ضد برشلونة 2",
+      "description": "بث مباريات",
+      "logo": "https://h.top4top.io/p_3782ujb4w0.jpg",
+      "url": "http://orwruyf861536787q.ninth.lat/live/UL33K17/SYC4T9D/605100/652350?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
+      "category": "للمباريات المهمة"
+    },
   ]
 }
 
