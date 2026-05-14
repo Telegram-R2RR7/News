@@ -1,5 +1,5 @@
 {
-  "version": "5.0",
+  "version": "5.1",
   "channels": [
     {
       "id": "1",
@@ -186,14 +186,14 @@
     },
   {
       "id": "14",
-      "name": "مباراة  برشلونة FHD",
+      "name": "مباراة ريال مدريد ضد اوفيدو FHD",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "http://ibo1.3446807.xyz/live/2798995785/9134618783/569516.ts",
+      "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8" },
-        { "label": "720p",  "url": "http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262" },
-        { "label": "480p",  "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VIvuyoMzQpz-z1sYzkeGpQn2BmTO1hguyp8hpJUmlzXlNQuu1Fo-fSI_5EtrHnaWNyNtV9svr-TArkimk7FM5g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live" }
+        { "label": "1080p", "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" },
+        { "label": "720p",  "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" },
+        { "label": "480p",  "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
@@ -202,10 +202,10 @@
     },
   {
       "id": "15",
-      "name": "مباراة برشلونة ضد الافيس نت متوسط",
+      "name": "مباراة ريال مدريد جودة متوسطة",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8",
+      "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8",
       "qualities": [
         { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" },
         { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" }
