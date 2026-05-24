@@ -1,5 +1,5 @@
 {
-  "version": "5.2",
+  "version": "5.3",
   "channels": [
     {
       "id": "1",
@@ -74,10 +74,10 @@
       "name": "BeIN SPORTS 1 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
-      "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8",
+      "url": "http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=8bXJQlutRbSOLcvy_Zd2oQ&e=1779666505",
       "qualities": [
-        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" },
-        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" }
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=8bXJQlutRbSOLcvy_Zd2oQ&e=1779666505" },
+        { "label": "720p",  "url": "http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=msWen8_84tFs11LXu88CCg&e=1779666506" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
