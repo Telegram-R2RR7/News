@@ -1,5 +1,5 @@
 {
-  "version": "5.3",
+  "version": "5.4",
   "channels": [
     {
       "id": "1",
@@ -89,12 +89,9 @@
       "name": "BeIN SPORTS 2 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
-      "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8",
+      "url": "https://het4444.ycn-redirect.com/live/lb2/bs2-multi.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8" },
-        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8" },
-        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/10011244/index.m3u8" },
-        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/4798998070/index.m3u8" }
+        { "label": "1080p", "url": "https://het4444.ycn-redirect.com/live/lb2/bs2-multi.m3u8" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
@@ -106,12 +103,11 @@
       "name": "BeIN SPORTS 3 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
-      "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8",
+      "url": "http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=MUGvwi7fCqqt5izNVfSS5g&e=1779666505",
       "qualities": [
-        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8" },
-        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/645587700/index.m3u8" },
-        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/161988840/index.m3u8" },
-        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/551818447/index.m3u8" }
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=MUGvwi7fCqqt5izNVfSS5g&e=1779666505" },
+        { "label": "720p",  "url": "http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=dqJtM1gp2fYEfi87U0sdxA&e=1779666518" }
+  
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
@@ -123,12 +119,10 @@
       "name": "BeIN SPORTS 4 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
-      "url": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8",
+      "url": "http://het4444.ycn-redirect.com/live/9787488847/index.m3u8?t=HFRuAUv5RRKjrMNdUfsXLg&e=1779666504",
       "qualities": [
-        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8" },
-        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8" },
-        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/0103088447/index.m3u8" },
-        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/131326625/index.m3u8" }
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/9787488847/index.m3u8?t=HFRuAUv5RRKjrMNdUfsXLg&e=1779666504" },
+        { "label": "720p",  "url": "http://het136b.ycn-redirect.com/live/9787488847/index.m3u8?t=BMBSZeHkngtha-mMmDXbFw&e=1779666515" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
@@ -140,12 +134,10 @@
       "name": "BeIN SPORTS 5 — ياسين تيفي",
       "description": "بث مباشر للمباريات",
       "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
-      "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8",
+      "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=N820u16c9xCZfk5yrXo0XA&e=1779666513",
       "qualities": [
-        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8" },
-        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/610303030/index.m3u8" },
-        { "label": "360p",  "url": "http://het000.4rouwanda-shop.store/live/115451004/index.m3u8" },
-        { "label": "244p",  "url": "http://het000.4rouwanda-shop.store/live/181818444/index.m3u8" }
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=N820u16c9xCZfk5yrXo0XA&e=1779666513" },
+        { "label": "720p",  "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=riPF8WdalkDDQv411kKs2w&e=1779666533" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
