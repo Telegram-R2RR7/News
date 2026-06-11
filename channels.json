@@ -1,5 +1,5 @@
 {
-  "version": "5.5",
+  "version": "5.7",
   "channels": [
     {
       "id": "1",
@@ -330,7 +330,6 @@
       "clear_key": "",
       "category": "كاس العالم"
     },
-  ]
                          {
       "id": "25",
       "name": "FIFA MAX 5 LOW",
@@ -345,7 +344,6 @@
       "clear_key": "",
       "category": "كاس العالم"
     },
-  ]
   ]
 }
 
