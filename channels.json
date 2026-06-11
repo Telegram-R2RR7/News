@@ -1,5 +1,5 @@
 {
-  "version": "5.4",
+  "version": "5.5",
   "channels": [
     {
       "id": "1",
@@ -178,14 +178,12 @@
     },
   {
       "id": "14",
-      "name": "مباراة ريال مدريد ضد اشبيلية FHD",
+      "name": "test",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Npm4MoRHD3R8wqQMakaBJurTaRHg4Fdr_fohfK9N5Qd0EfXXIja6wceXjeR7onZRR_s15HIBhoun1MVrvV9Fzw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+      "url": "https://k2.marketplace-io-none-kode-steeeee.lol/bmax1080/index.m3u8?token=bd34659c7e9d47df05d0ba80fe6f423818a28f8c-a136d610bdf3fecb0bdc8a4e5faa5582-1781230635-1781219835&remote=178.210.226.139",
       "qualities": [
-        { "label": "1080p", "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" },
-        { "label": "720p",  "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" },
-        { "label": "480p",  "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" }
+        
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
