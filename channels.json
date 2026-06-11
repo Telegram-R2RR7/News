@@ -178,9 +178,9 @@
     },
   {
       "id": "14",
-      "name": "FIFA MAX 1",
+      "name": "FIFA MAX 1 FHD 4K",
       "description": "بث مباشر للمباريات",
-      "logo": "https://b.top4top.io/p_3814r571s0.png",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
       "url": "https://k2.marketplace-io-none-kode-steeeee.lol/bmax1080/index.m3u8?token=bd34659c7e9d47df05d0ba80fe6f423818a28f8c-a136d610bdf3fecb0bdc8a4e5faa5582-1781230635-1781219835&remote=178.210.226.139",
       "qualities": [
         
@@ -188,23 +188,164 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
       "clear_key": "",
-      "category": "للمباريات المهمة"
+      "category": "كاس العالم"
     },
   {
       "id": "15",
-      "name": "مباراة ريال مدريد جودة متوسطة",
+      "name": "FIFA MAX 1 HD",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "http://het000.4rouwanda-shop.store/live/69854211/index.m3u8",
+      "url": "https://bluesport.fun/live/blue_sport_1/index.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" },
-        { "label": "720p",  "url": "http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8" }
+        
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
       "clear_key": "",
-      "category": "للمباريات المهمة"
-  }
+      "category": "كاس العالم"
+    },
+    {
+      "id": "16",
+      "name": "FIFA MAX 1 LOW",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://streem.rodoye.com/live/rr/max1/index.m3u8",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+        {
+      "id": "17",
+      "name": "FIFA MAX 2 FHD",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://k2.marketplace-io-none-kode-steeeee.lol/bmax21080/index.m3u8?token=fb3e728e7d25c21eccd84da614c3273c54eaba00-78f579bc431f477dc6abf847eae0c349-1781231449-1781220649&remote=178.210.226.139",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+            {
+      "id": "18",
+      "name": "FIFA MAX 2 LOW",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://streem.rodoye.com/live/ff/max2/index.m3u8",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+             {
+      "id": "19",
+      "name": "FIFA MAX 3 LOW",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://streem.rodoye.com/live/fn/max3/index.m3u8",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+                 {
+      "id": "20",
+      "name": "FIFA MAX 4 FHD",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://k2.marketplace-io-none-kode-steeeee.lol/bmax4/index.m3u8?token=03c485468a46136b192ed22b199a6c48da407208-00039e7e167d6e314221e950791554bb-1781231931-1781221131&remote=178.210.226.139",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+                 {
+      "id": "21",
+      "name": "FIFA MAX 4 LOW",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://streem.rodoye.com/live/fn/max4/index.m3u8",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+                 {
+      "id": "22",
+      "name": "FIFA MAX 5 FHD",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://k2.marketplace-io-none-kode-steeeee.lol/bmax5/index.m3u8?token=5794a00864d8d18b3cc43e353c569b80296c867a-0178a61782205dca3abd182462500f59-1781232071-1781221271&remote=178.210.226.139",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+                     {
+      "id": "23",
+      "name": "FIFA MAX 5 LOW",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://streem.rodoye.com/live/fn/max5/index.m3u8",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+                         {
+      "id": "24",
+      "name": "FIFA MAX 6 FHD",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://k2.marketplace-io-none-kode-steeeee.lol/bmax6/index.m3u8?token=7dfe0da28ffa316ad138b75d5033af96a8829f46-81aa8a2efdfc4c7f06e7e04ac5ac3579-1781232189-1781221389&remote=178.210.226.139",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+  ]
+                         {
+      "id": "25",
+      "name": "FIFA MAX 5 LOW",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://streem.rodoye.com/live/fn/max6/index.m3u8",
+      "qualities": [
+        
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "كاس العالم"
+    },
+  ]
   ]
 }
 
