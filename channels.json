@@ -1,5 +1,5 @@
 {
-  "version": "5.8",
+  "version": "5.9",
   "channels": [
     {
       "id": "1",
@@ -332,7 +332,7 @@
     },
                          {
       "id": "25",
-      "name": "FIFA MAX 5 LOW",
+      "name": "FIFA MAX 6 LOW",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
       "url": "https://streem.rodoye.com/live/fn/max6/index.m3u8",
