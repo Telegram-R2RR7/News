@@ -1,24 +1,36 @@
 {
-  "version": "7.6",
+  "version": "9.0",
   "channels": [
     {
       "id": "1",
       "name": "beIN Sports 1",
       "description": "بث مباشر للمباريات",
-      "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
+      "logo": "https://i.imgur.com/Vtk2cGI.png",
+      "url": "http://h42.reelpush.online/live/918454578001/index.m3u8",
       "qualities": [
         {
-          "label": "1080p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8"
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/918454578001/index.m3u8"
         },
         {
-          "label": "720p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8"
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b1_480.m3u8"
         },
         {
-          "label": "480p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_480.m3u8"
+          "label": "PUB",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8"
+        },
+        {
+          "label": "Stream 8",
+          "url": "https://husa.wizgan2013.workers.dev?id=1424"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://194.76.0.163:80/gshAXQ2fQa/NZP6JGIxJO//652310?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         }
       ],
       "user_agent": "",
@@ -30,20 +42,28 @@
       "id": "2",
       "name": "beIN Sports 2",
       "description": "بث مباشر للمباريات",
-      "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch2_1080.m3u",
+      "logo": "https://i.imgur.com/vUJZSvs.png",
+      "url": "http://h42.reelpush.online/live/69854211/index.m3u8",
       "qualities": [
         {
-          "label": "1080p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8"
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/69854211/index.m3u8"
         },
         {
-          "label": "720p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8"
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b2_480.m3u8"
         },
         {
-          "label": "480p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8"
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8"
+        },
+        {
+          "label": "PUB",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://194.76.0.163:80/gshAXQ2fQa/NZP6JGIxJO//652311?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         }
       ],
       "user_agent": "",
@@ -55,37 +75,67 @@
       "id": "3",
       "name": "beIN Sports 3",
       "description": "بين سبورت فقط للايرثلنك",
-      "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_720.m3u8",
+      "logo": "https://i.imgur.com/UYSMao3.png",
+      "url": "http://h42.reelpush.online/live/645587700/index.m3u8",
       "category": "ايرثلنك",
       "qualities": [
         {
-          "label": "1080p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8"
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/645587700/index.m3u8"
         },
         {
-          "label": "720p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_720.m3u8"
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b3_480.m3u8"
+        },
+        {
+          "label": "PUB",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://194.76.0.163:80/gshAXQ2fQa/NZP6JGIxJO//652312?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         }
-      ]
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": ""
     },
     {
       "id": "4",
       "name": "beIN Sports 4",
       "description": "بين سبورت فقط للايرثلنك",
-      "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_720.m3u8",
+      "logo": "https://i.imgur.com/vwAgJNi.png",
+      "url": "http://h42.reelpush.online/live/9787488847/index.m3u8",
       "category": "ايرثلنك",
       "qualities": [
         {
-          "label": "1080p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8"
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/9787488847/index.m3u8"
         },
         {
-          "label": "720p",
-          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_720.m3u8"
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b4_480.m3u8"
+        },
+        {
+          "label": "PUB",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://194.76.0.163:80/gshAXQ2fQa/NZP6JGIxJO//652313?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         }
-      ]
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": ""
     },
     {
       "id": "5",
@@ -372,6 +422,4544 @@
       "referer": "",
       "clear_key": "",
       "category": "كاس العالم"
+    },
+    {
+      "id": "26",
+      "name": "beIN SPORTS 5",
+      "description": "",
+      "logo": "https://i.imgur.com/2Rha5aY.png",
+      "url": "http://h42.reelpush.online/live/610303030/index.m3u8",
+      "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/610303030/index.m3u8"
+        },
+        {
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b5_480.m3u8"
+        },
+        {
+          "label": "Stream 9",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "27",
+      "name": "beIN SPORTS 6",
+      "description": "",
+      "logo": "https://i.imgur.com/0wBdLYb.png",
+      "url": "http://h42.reelpush.online/live/1515000000/index.m3u8",
+      "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/1515000000/index.m3u8"
+        },
+        {
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b6_480.m3u8"
+        },
+        {
+          "label": "PUB",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "28",
+      "name": "beIN SPORTS 7",
+      "description": "",
+      "logo": "https://i.imgur.com/iODFwZi.png",
+      "url": "https://reezzzn.staticdev9.workers.dev/b7.m3u8",
+      "qualities": [
+        {
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b7.m3u8"
+        },
+        {
+          "label": "Server 9",
+          "url": "https://stm.linkip.org/live/1958_.m3u8"
+        },
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/33523510/index.m3u8"
+        },
+        {
+          "label": "Stream 7",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8"
+        },
+        {
+          "label": "earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "29",
+      "name": "beIN SPORTS 8",
+      "description": "",
+      "logo": "https://i.imgur.com/CaFEyVn.png",
+      "url": "https://reezzzn.staticdev9.workers.dev/b8.m3u8",
+      "qualities": [
+        {
+          "label": "Server 4",
+          "url": "https://reezzzn.staticdev9.workers.dev/b8.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "https://stm.linkip.org/live/1967_.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://dev-a-live.pantheonsite.io/A/popcdn.php?id=beINAR8"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/adaptive.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "30",
+      "name": "beIN SPORTS 9",
+      "description": "",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
+      "url": "https://reezzzn.staticdev9.workers.dev/b9.m3u8",
+      "qualities": [
+        {
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b9.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://streem.rodoye.com/live/b_9/index.m3u8"
+        },
+        {
+          "label": "VIP HD",
+          "url": "http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/659435.ts"
+        },
+        {
+          "label": "streamly",
+          "url": "http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=1016928&extension=ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "31",
+      "name": "beIN SPORTS QATAR",
+      "description": "",
+      "logo": "https://static.cdnlogo.com/logos/b/19/bein-sports.svg",
+      "url": "https://stm.linkip.org/live/1953_.m3u8",
+      "qualities": [
+        {
+          "label": "DLIVE",
+          "url": "https://stm.linkip.org/live/1953_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "32",
+      "name": "beIN SPORTS NEWS",
+      "description": "",
+      "logo": "https://i.imgur.com/ZNjQzR5.png",
+      "url": "https://stm.linkip.org/live/1952_.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://stm.linkip.org/live/1952_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "33",
+      "name": "beIN SPORTS AU 1",
+      "description": "",
+      "logo": "https://i.imgur.com/Vtk2cGI.png",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "34",
+      "name": "beIN SPORTS AU 2",
+      "description": "",
+      "logo": "https://i.imgur.com/vUJZSvs.png",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "35",
+      "name": "beIN SPORTS AU 3",
+      "description": "",
+      "logo": "https://i.imgur.com/UYSMao3.png",
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "36",
+      "name": "beIN SPORTS 1 France",
+      "description": "",
+      "logo": "https://i.imgur.com/Vtk2cGI.png",
+      "url": "http://99.27.51.147:8080/BeinSport/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://99.27.51.147:8080/BeinSport/index.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/795_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "37",
+      "name": "beIN SPORTS 2 France",
+      "description": "",
+      "logo": "https://i.imgur.com/vUJZSvs.png",
+      "url": "http://99.27.51.147:8080/BeinSport2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://99.27.51.147:8080/BeinSport2/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://145.239.5.177/549/mpegts"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://stm.linkip.org/live/794_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "38",
+      "name": "beIN SPORTS 3 France",
+      "description": "",
+      "logo": "https://i.imgur.com/UYSMao3.png",
+      "url": "http://99.27.51.147:8080/BeinSport3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://99.27.51.147:8080/BeinSport3/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://145.239.5.177/559/mpegts"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://stm.linkip.org/live/793_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "39",
+      "name": "beIN SPORTS MAX 4 France",
+      "description": "",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+      "url": "https://stm.linkip.org/live/792_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://stm.linkip.org/live/792_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "40",
+      "name": "beIN SPORTS MAX 5 France",
+      "description": "",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png",
+      "url": "http://41.205.70.146/BEINSPORT5/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://41.205.70.146/BEINSPORT5/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "41",
+      "name": "beIN SPORTS TR MAX 1",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+      "url": "http://37.27.230.251:8000/play/max1/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://37.27.230.251:8000/play/max1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "42",
+      "name": "beIN SPORTS TR MAX 2",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
+      "url": "http://37.27.230.251:8000/play/max2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://37.27.230.251:8000/play/max2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "43",
+      "name": "beIN SPORTS TR MAX 3",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+      "url": "http://37.27.230.251:8000/play/max3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://37.27.230.251:8000/play/max3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "44",
+      "name": "beIN SPORTS 1 Turkey",
+      "description": "",
+      "logo": "https://i.imgur.com/Vtk2cGI.png",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://wasitv-pro.site/beINSPORTS1TR/mono.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://37.27.230.251:8000/play/bein1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://mahsunsports10.xyz/",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "45",
+      "name": "beIN SPORTS 2 Turkey",
+      "description": "",
+      "logo": "https://i.imgur.com/vUJZSvs.png",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://wasitv-pro.site/beINSPORTS2TR/mono.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://37.27.230.251:8000/play/bein2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://mahsunsports10.xyz/",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "46",
+      "name": "beIN SPORTS 3 Turkey",
+      "description": "",
+      "logo": "https://i.imgur.com/UYSMao3.png",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://wasitv-pro.site/beINSPORTS3TR/mono.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://37.27.230.251:8000/play/bein3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://mahsunsports10.xyz/",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "47",
+      "name": "beIN SPORTS 4 Turkey",
+      "description": "",
+      "logo": "https://i.imgur.com/vwAgJNi.png",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://wasitv-pro.site/beINSPORTS4TR/mono.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://37.27.230.251:8000/play/bein4/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://mahsunsports10.xyz/",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "48",
+      "name": "beIN SPORTS 5 Turkey",
+      "description": "",
+      "logo": "https://i.imgur.com/2Rha5aY.png",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://wasitv-pro.site/beINSPORTS5TR/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://mahsunsports10.xyz/",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "49",
+      "name": "beIN SPORTS Haber",
+      "description": "",
+      "logo": "https://i.ibb.co/BfM21nC/beinhaber.png",
+      "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://deathlesstg.serv00.net/Youtube-Live/index.php?id=OypUpUTYAHI&m3u8"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://koprulu1.global.ssl.fastly.net/ythls?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
+        },
+        {
+          "label": "Stream 6",
+          "url": "https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
+        },
+        {
+          "label": "Stream 7",
+          "url": "https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
+        },
+        {
+          "label": "Stream 8",
+          "url": "https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "50",
+      "name": "beIN SPORTS XTRA 1",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",
+      "url": "http://live.alkatlantv.com:8888/Extra1/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://live.alkatlantv.com:8888/Extra1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "51",
+      "name": "beIN SPORTS XTRA 2",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",
+      "url": "http://live.alkatlantv.com:8888/Extra2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://live.alkatlantv.com:8888/Extra2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "52",
+      "name": "beIN SPORTS XTRA 3",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",
+      "url": "http://live.alkatlantv.com:8888/Extra3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://live.alkatlantv.com:8888/Extra3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "53",
+      "name": "beIN SPORTS XTRA 4",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png",
+      "url": "http://live.alkatlantv.com:8888/Extra4/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://live.alkatlantv.com:8888/Extra4/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "54",
+      "name": "beIN SPORTS XTRA 5",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_05_bein.com_.png",
+      "url": "http://live.alkatlantv.com:8888/Extra5/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://live.alkatlantv.com:8888/Extra5/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "55",
+      "name": "beIN SPORTS XTRA 6",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2025/01/beIN_SPORTS_XTRA_06_bein.com_.png",
+      "url": "http://live.alkatlantv.com:8888/Extra6/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://live.alkatlantv.com:8888/Extra6/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
+    },
+    {
+      "id": "56",
+      "name": "beIN SPORTS MAX 1",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+      "url": "http://h42.reelpush.online/live/610303030/index.m3u8",
+      "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/610303030/index.m3u8"
+        },
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k.m3u8"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_hd.m3u8"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_sd.m3u8"
+        },
+        {
+          "label": "ON MULTi 2",
+          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8"
+        },
+        {
+          "label": "ON MULTI",
+          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8"
+        },
+        {
+          "label": "Ostora FHD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158558/cat/7225/index.m3u8"
+        },
+        {
+          "label": "Ostora SD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158570/cat/7223/index.m3u8"
+        },
+        {
+          "label": "camcloud",
+          "url": "https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://rezzznvip.staticdev9.workers.dev/bmax1hd.m3u8"
+        },
+        {
+          "label": "MULTI blue",
+          "url": "https://bluesport.live/live/blue_sport_1/index.m3u8"
+        },
+        {
+          "label": "post",
+          "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
+        },
+        {
+          "label": "ON HD2",
+          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8"
+        },
+        {
+          "label": "Server 12",
+          "url": "http://fastshare1.com/live/kathiriya4300/kathiriya4300@123/744523.ts"
+        },
+        {
+          "label": "Syria1",
+          "url": "http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8"
+        },
+        {
+          "label": "SHN",
+          "url": "https://cdn.karwan.tv/shna-tv-3/index.m3u8"
+        },
+        {
+          "label": "Server 15",
+          "url": "http://starhub.pro/live/farhat-3379/67897-913379/744517.ts"
+        },
+        {
+          "label": "Server 20",
+          "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744517"
+        },
+        {
+          "label": "Server 21",
+          "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744523"
+        },
+        {
+          "label": "Server 27",
+          "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8"
+        },
+        {
+          "label": "Server 28",
+          "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8"
+        },
+        {
+          "label": "NEXT",
+          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
+        },
+        {
+          "label": "Koora",
+          "url": "https://as.roomtu.store/rook1.m3u8"
+        },
+        {
+          "label": "Server 25",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744523.ts"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax14k.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax1fhd.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "57",
+      "name": "beIN SPORTS MAX 2",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
+      "url": "http://h42.reelpush.online/live/1515000000/index.m3u8",
+      "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/1515000000/index.m3u8"
+        },
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_4k.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_hd.m3u8"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_sd.m3u8"
+        },
+        {
+          "label": "ON MULTI",
+          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8"
+        },
+        {
+          "label": "ON MULTi 2",
+          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8"
+        },
+        {
+          "label": "Ostora FHD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158559/cat/7225/index.m3u8"
+        },
+        {
+          "label": "Ostora SD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158571/cat/7223/index.m3u8"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://rezzznvip.staticdev9.workers.dev/bmax2hd.m3u8"
+        },
+        {
+          "label": "YCN SD",
+          "url": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=jk7tHjW7oa-BUuuZm6IG5g&e=1781923878"
+        },
+        {
+          "label": "post",
+          "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
+        },
+        {
+          "label": "Server 11",
+          "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8"
+        },
+        {
+          "label": "Server 12",
+          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255225.m3u8"
+        },
+        {
+          "label": "Server 13",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
+        },
+        {
+          "label": "Server 14",
+          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255237.m3u8"
+        },
+        {
+          "label": "Server 20",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax24k.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax2fhd.ts"
+        },
+        {
+          "label": "Server 18",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744524.ts"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "https://x.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "58",
+      "name": "beIN SPORTS MAX 3",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+      "url": "http://h42.reelpush.online/live/33523510/index.m3u8",
+      "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/33523510/index.m3u8"
+        },
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_4k.m3u8"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_hd.m3u8"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_sd.m3u8"
+        },
+        {
+          "label": "Ostora FHD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158560/cat/7225/index.m3u8"
+        },
+        {
+          "label": "Ostora SD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158572/cat/7223/index.m3u8"
+        },
+        {
+          "label": "camcloud",
+          "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://rezzznvip.staticdev9.workers.dev/bmax3hd.m3u8"
+        },
+        {
+          "label": "Server 7",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744525.ts"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax34k.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax3fhd.ts"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "https://x.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "59",
+      "name": "beIN SPORTS MAX 4",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_4k.m3u8",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_4k.m3u8"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_hd.m3u8"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_sd.m3u8"
+        },
+        {
+          "label": "ON HD",
+          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/max4.m3u8"
+        },
+        {
+          "label": "Ostora FHD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158561/cat/7225/index.m3u8"
+        },
+        {
+          "label": "Ostora SD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158573/cat/7223/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744526.ts"
+        },
+        {
+          "label": "YCN MULTI",
+          "url": "http://het4444.ycn-redirect.com/live/lb2/bm4-multi.m3u8"
+        },
+        {
+          "label": "Server 8",
+          "url": "https://stream.camcloud.stream/stream/0bbaffb363b7/playlist.m3u8"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax44k.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax4fhd.ts"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "https://x.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "60",
+      "name": "beIN SPORTS MAX 5",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
+      "url": "https://on-tvlive.online/EGYFILM/ost/main/158562/cat/7225/index.m3u8",
+      "qualities": [
+        {
+          "label": "Ostora FHD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158562/cat/7225/index.m3u8"
+        },
+        {
+          "label": "Ostora SD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/stream_info.php?id=158574&cat=7223"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744527.ts"
+        },
+        {
+          "label": "RZN ALPHA",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax54k.ts"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://het4444.ycn-redirect.com/live/lb2/bm5-multi.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "https://x.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "61",
+      "name": "beIN SPORTS MAX 6",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
+      "url": "https://on-tvlive.online/EGYFILM/ost/main/158563/cat/7225/index.m3u8",
+      "qualities": [
+        {
+          "label": "Ostora FHD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158563/cat/7225/index.m3u8"
+        },
+        {
+          "label": "Ostora SD",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/158575/cat/7223/index.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744528.ts"
+        },
+        {
+          "label": "RZN ALPHA",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax64k.ts"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://het4444.ycn-redirect.com/live/lb2/bm6-multi.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "https://x.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "62",
+      "name": "beIN SPORTS 4K HDR",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png",
+      "url": "http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts",
+      "qualities": [
+        {
+          "label": "Server 6",
+          "url": "http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts"
+        },
+        {
+          "label": "Server s",
+          "url": "http://asmr4k.pro/live/05347247405/3100934708/1246130.ts"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://rznmaxtest.staticdev9.workers.dev/get-stream?channel=bein1hd"
+        },
+        {
+          "label": "irib4K",
+          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "63",
+      "name": "M6",
+      "description": "",
+      "logo": "https://i.imgur.com/7GVp3fW.png",
+      "url": "http://151.80.18.177:86/M6_HD/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://151.80.18.177:86/M6_HD/index.m3u8"
+        },
+        {
+          "label": "DASH",
+          "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd"
+        },
+        {
+          "label": "Stream 9",
+          "url": "http://99.27.51.147:8080/M6/index.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/876_.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/8432.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "64",
+      "name": "W9",
+      "description": "",
+      "logo": "https://i.imgur.com/reYeMuE.png",
+      "url": "https://stm.linkip.org/live/866_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/866_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "65",
+      "name": "Rai 1",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+      "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://169.150.223.25/Rai1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "66",
+      "name": "Rai Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/6PEevOM.png",
+      "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "67",
+      "name": "La 1",
+      "description": "",
+      "logo": "https://i.imgur.com/1jDS9UC.png",
+      "url": "https://stm.linkip.org/live/595_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://stm.linkip.org/live/595_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "68",
+      "name": "LA 1 CANARIAS",
+      "description": "",
+      "logo": "https://i.imgur.com/RqUJ4oj.png",
+      "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "69",
+      "name": "La 1 Catalunya",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png",
+      "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "70",
+      "name": "La 2",
+      "description": "",
+      "logo": "https://i.imgur.com/iwDi3ND.png",
+      "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "71",
+      "name": "LA 2 CANARIAS",
+      "description": "",
+      "logo": "https://i.imgur.com/iwDi3ND.png",
+      "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "72",
+      "name": "La 2 Catalunya",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png",
+      "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "73",
+      "name": "ZDF",
+      "description": "",
+      "logo": "https://i.imgur.com/rtLb6m9.png",
+      "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ZDF/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_HD.ism/playlist.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "74",
+      "name": "Das Erste",
+      "description": "",
+      "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/5/59/Das_Erste_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180210215607",
+      "url": "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "75",
+      "name": "TELEMUNDO",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png",
+      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "76",
+      "name": "TRT 4K",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/1280px-TRT_4K_logo.svg.png",
+      "url": "https://4k.tooncd.workers.dev/trt4k",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://4k.tooncd.workers.dev/trt4k"
+        },
+        {
+          "label": "Server 1",
+          "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "77",
+      "name": "TRT Spor",
+      "description": "",
+      "logo": "https://i.imgur.com/6tv0zxh.png",
+      "url": "http://cdn.tv-rds.workers.dev/TRTSPOR.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/TRTSPOR.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "78",
+      "name": "TRT 1",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "79",
+      "name": "UNITE8 SPORTS 1",
+      "description": "",
+      "logo": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/bmi/media/media_files/2026/06/02/unite8-sports-logo-2026-06-02-11-18-06.jpg",
+      "url": "http://103.204.43.87:8080/live/1/1/266.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://103.204.43.87:8080/live/1/1/266.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "80",
+      "name": "UNITE8 SPORTS 2",
+      "description": "",
+      "logo": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/bmi/media/media_files/2026/06/02/unite8-sports-logo-2026-06-02-11-18-06.jpg",
+      "url": "http://103.204.43.87:8080/live/1/1/264.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://103.204.43.87:8080/live/1/1/264.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://66.102.126.10:8000/play/a022/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "81",
+      "name": "IRIB 4K",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png",
+      "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "82",
+      "name": "Fox Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/LHtxKI8.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 4",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
+        },
+        {
+          "label": "SD",
+          "url": "https://tvpass.org/live/FoxSports2/sd"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://tvpass.org/live/FoxSports2/hd"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://23.237.104.106:8080/USA_FS2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "83",
+      "name": "TVP1",
+      "description": "",
+      "logo": "https://i.imgur.com/ewpSjBs.png",
+      "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8"
+        },
+        {
+          "label": "Multi",
+          "url": "https://estreams.tv.nej.cz/dash/CH_TVP1_HD.ism/playlist.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "84",
+      "name": "ERT Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/EsczO2H.png",
+      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "85",
+      "name": "ERT Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/b2SNQPi.png",
+      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "86",
+      "name": "Antena 1 HD",
+      "description": "",
+      "logo": "https://i.imgur.com/EPmwuuv.png",
+      "url": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://canale-tv.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "87",
+      "name": "CT Sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Multi",
+          "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "88",
+      "name": "itv1",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/3840px-ITV1_Logo_2022.svg.png",
+      "url": "https://mngbcg.b-cdn.net/iTV/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://mngbcg.b-cdn.net/iTV/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "89",
+      "name": "DAZN Mundial 1",
+      "description": "",
+      "logo": "https://i.imgur.com/xzDssLU.png",
+      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm1.m3u8",
+      "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm1.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/588_.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://stream4.oz-tv.store/es_dazn_mundial_fhd/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/243"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/244"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "90",
+      "name": "DAZN Mundial 2",
+      "description": "",
+      "logo": "https://i.imgur.com/xzDssLU.png",
+      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm2.m3u8",
+      "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "91",
+      "name": "DAZN Mundial 3",
+      "description": "",
+      "logo": "https://i.imgur.com/xzDssLU.png",
+      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm3.m3u8",
+      "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "92",
+      "name": "DAZN Mundial 4",
+      "description": "",
+      "logo": "https://i.imgur.com/xzDssLU.png",
+      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm4.m3u8",
+      "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "93",
+      "name": "joj sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Joj-sport-logo.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "94",
+      "name": "TSN SPORTS FHD",
+      "description": "",
+      "logo": "https://i.imgur.com/eRFE0jZ.png",
+      "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "95",
+      "name": "CIGNAL EN",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cignal.svg/1280px-Cignal.svg.png",
+      "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "96",
+      "name": "Tipik",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png",
+      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "97",
+      "name": "FUSSBALL 4K - 1",
+      "description": "",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
+      "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "98",
+      "name": "FUSSBALL 4K - 2",
+      "description": "",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
+      "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "99",
+      "name": "FUSSBALL 4K - 3",
+      "description": "",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
+      "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "100",
+      "name": "D SPORTS",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/960px-DSports_logo_2022.svg.png?_=20240702054322",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "101",
+      "name": "CAZE TV",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg",
+      "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "102",
+      "name": "FOX ONE 4K",
+      "description": "",
+      "logo": "https://i.pcmag.com/imagery/articles/046dPjkTRUP3IcJNTPyjgFP-1..v1747063479.webp",
+      "url": "http://84.17.50.102/fox/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "http://84.17.50.102/fox/index.m3u8"
+        },
+        {
+          "label": "Server 1",
+          "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "103",
+      "name": "Servus",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Servus_%28Zeitschrift%29_logo.svg",
+      "url": "https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1c7f3d4aadc504459a12bbd3bbd62944:efa707a9f828120b4c9807be11755e65",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "104",
+      "name": "ORF 1",
+      "description": "",
+      "logo": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
+      "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "105",
+      "name": "FOX Sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png",
+      "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://84.17.50.102/fox/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "106",
+      "name": "NBC Universo West",
+      "description": "",
+      "logo": "https://i.imgur.com/RZ8pIKe.png",
+      "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "107",
+      "name": "Programme National",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "https://x.com/",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "108",
+      "name": "Nova Sports 2 SK",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "109",
+      "name": "Match! RU",
+      "description": "",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6b/Match%21_2019.png/revision/latest/scale-to-width-down/284?cb=20250106202339",
+      "url": "http://cdntv.online/low/9mlxywika2/48.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "http://cdntv.online/low/9mlxywika2/48.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "110",
+      "name": "Arryadia TNT",
+      "description": "",
+      "logo": "https://i.imgur.com/XjzK3gZ.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "111",
+      "name": "Alwan Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/UibCHUN.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156588/cat/7193/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3461_.m3u8"
+        },
+        {
+          "label": "alpha",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport14k.ts"
+        },
+        {
+          "label": "Server 7",
+          "url": "http://kanwat1.xyz:8080/94748049499/625256262633/418111"
+        },
+        {
+          "label": "Server 10",
+          "url": "https://rzzznalpha.staticdev9.workers.dev/?server=server4&channelid=alwan1.m3u8"
+        },
+        {
+          "label": "Server 61",
+          "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8"
+        },
+        {
+          "label": "Server s5",
+          "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "112",
+      "name": "Alwan Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/Gl8AxBh.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156589/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://virtualdbxv.com:8080/alwan2hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3460_.m3u8"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport24k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "113",
+      "name": "Alwan Sports 3",
+      "description": "",
+      "logo": "https://i.imgur.com/c9cHkFP.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156590/cat/7193/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3459_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport34k.ts"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "114",
+      "name": "Alwan Sports 4",
+      "description": "",
+      "logo": "https://i.imgur.com/6JVw8Xf.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156591/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "http://virtualdbxv.com:8080/alwan4hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3458_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport44k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "115",
+      "name": "Alwan Sports 5",
+      "description": "",
+      "logo": "https://i.imgur.com/JJojLHs.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156592/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://virtualdbxv.com:8080/alwan5hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3457_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport54k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "116",
+      "name": "Alwan Sports 6",
+      "description": "",
+      "logo": "https://i.imgur.com/VZxazRS.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_6_4k.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_6_4k.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_6_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156592/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://virtualdbxv.com:8080/alwan6hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3456_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport64k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "117",
+      "name": "Alwan Sports 7",
+      "description": "",
+      "logo": "https://i.imgur.com/mECyQgn.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "118",
+      "name": "Alwan Sports 8",
+      "description": "",
+      "logo": "https://i.imgur.com/Ms4DPwn.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "119",
+      "name": "Alwan Sports 9",
+      "description": "",
+      "logo": "https://i.imgur.com/eMz1Lw4.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "120",
+      "name": "Alwan Sports 10",
+      "description": "",
+      "logo": "https://i.imgur.com/EO6RpBf.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts",
+      "qualities": [
+        {
+          "label": "Server 4",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "121",
+      "name": "Star Movies",
+      "description": "",
+      "logo": "https://images.seeklogo.com/logo-png/50/3/star-movies-2023-logo-png_seeklogo-501502.png",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4",
+      "category": "beIN Media"
+    },
+    {
+      "id": "122",
+      "name": "Baraem",
+      "description": "",
+      "logo": "https://i.imgur.com/7woV4Cz.png",
+      "url": "http://apk.arabic-ch.space/live/070/index.m3u8",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://apk.arabic-ch.space/live/070/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://stm.linkip.org/live/1917_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "123",
+      "name": "be Junior",
+      "description": "",
+      "logo": "https://i.imgur.com/xuId6Os.png",
+      "url": "http://apk.arabic-ch.space/live/082/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://apk.arabic-ch.space/live/082/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "124",
+      "name": "beIN DRAMA 1",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",
+      "url": "http://apk.arabic-ch.space/live/072/index.m3u8",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/072/index.m3u8"
+        },
+        {
+          "label": "Apollo",
+          "url": "https://stm.linkip.org/live/1932_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "125",
+      "name": "beIN GOURMET",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319683",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319683"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/074/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "126",
+      "name": "beIN MOVIES 1 PREMIERE",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319672",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319672"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/076/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "127",
+      "name": "beIN MOVIES 2 ACTION",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319673",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319673"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/077/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "128",
+      "name": "beIN MOVIES 3 DRAMA",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319674'",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319674'"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/078/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "129",
+      "name": "beIN MOVIES 4 FAMILY",
+      "description": "",
+      "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319675",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319675"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/079/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "130",
+      "name": "beIN SERIES 1",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Series_HD1.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319676",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319676"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://apk.arabic-ch.space/live/080/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "131",
+      "name": "beIN SERIES 2",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png",
+      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319677",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319677"
+        },
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "132",
+      "name": "Star World HD",
+      "description": "",
+      "logo": "https://i.imgur.com/TD8d1eQ.png",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce",
+      "category": "beIN Media"
+    },
+    {
+      "id": "133",
+      "name": "National Geographic Arabic",
+      "description": "",
+      "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+      "url": "https://stm.linkip.org/live/1918_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1918_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "134",
+      "name": "Jeem",
+      "description": "",
+      "logo": "https://i.imgur.com/dvCrNQ8.png",
+      "url": "http://apk.arabic-ch.space/live/075/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 4",
+          "url": "http://apk.arabic-ch.space/live/075/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://stm.linkip.org/live/1903_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Media"
+    },
+    {
+      "id": "135",
+      "name": "Star Action",
+      "description": "",
+      "logo": "https://i.imgur.com/FpoeEPm.png",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2",
+      "category": "beIN Media"
+    },
+    {
+      "id": "136",
+      "name": "CANAL+ Sport",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+      "url": "https://stm.linkip.org/live/843_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/843_.m3u8"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "CANAL+"
+    },
+    {
+      "id": "137",
+      "name": "Arena Premium 1",
+      "description": "",
+      "logo": "https://i.imgur.com/csv6YsL.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "138",
+      "name": "Arena Premium 2",
+      "description": "",
+      "logo": "https://i.imgur.com/ztOmQ7P.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "139",
+      "name": "Arena Premium 3",
+      "description": "",
+      "logo": "https://i.imgur.com/gpqemLf.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "140",
+      "name": "Arena Sport 1 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-1.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2991",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2991"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR1.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "141",
+      "name": "Arena Sport 2 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-2.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2992",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2992"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "142",
+      "name": "Arena Sport 3 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-3.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2993",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2993"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "143",
+      "name": "Arena Sport 4 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-4.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2994",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2994"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "144",
+      "name": "Arena Sport 5 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-05.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2995",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2995"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "145",
+      "name": "Arena Sport 6 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-06.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2996",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2996"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR6.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "146",
+      "name": "Arena Sport 7 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-07.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2997",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2997"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR7.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "147",
+      "name": "Arena Sport 8 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-08.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2998",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2998"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR8.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "148",
+      "name": "Arena Sport 9 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-09.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2999",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2999"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR9.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "149",
+      "name": "Arena Sport 10 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-10.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/3000",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/3000"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR10.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "150",
+      "name": "Blue Sport 1",
+      "description": "",
+      "logo": "https://i.imgur.com/tXBLmmS.jpeg",
+      "url": "https://bluesport.live/live/blue_sport_1/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bluesport.live/live/blue_sport_1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Blue Sport"
+    },
+    {
+      "id": "151",
+      "name": "Blue Sport 2",
+      "description": "",
+      "logo": "https://i.imgur.com/wl82x7s.jpeg",
+      "url": "https://bluesport.live/live/blue_sport_2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bluesport.live/live/blue_sport_2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Blue Sport"
+    },
+    {
+      "id": "152",
+      "name": "Blue Sport 3",
+      "description": "",
+      "logo": "https://i.imgur.com/hyQiqKe.jpeg",
+      "url": "https://bluesport.live/live/blue_sport_3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bluesport.live/live/blue_sport_3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Blue Sport"
+    },
+    {
+      "id": "153",
+      "name": "STARZPLAY SPORTS 1",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/livechannels/STARZPLAYSPORT01AVODY2025M/STARZPLAYSPORT01AVODY2025M-title-logo-en.png",
+      "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+      "category": "Starzplay"
+    },
+    {
+      "id": "154",
+      "name": "STARZPLAY SPORTS 2",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/livechannels/STARZPLAYSPORT02AVODY2025M/STARZPLAYSPORT02AVODY2025M-title-logo-en.png",
+      "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0",
+      "category": "Starzplay"
+    },
+    {
+      "id": "155",
+      "name": "STARZPLAY SPORTS 3",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-title-logo-en.png",
+      "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+      "qualities": [
+        {
+          "label": "MPD",
+          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+      "category": "Starzplay"
+    },
+    {
+      "id": "156",
+      "name": "MAX SPORT 1",
+      "description": "",
+      "logo": "https://i.imgur.com/0ohnpql.png",
+      "url": "http://77.46.130.252:99/maxsport1",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://77.46.130.252:99/maxsport1"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "157",
+      "name": "MAX SPORT 2",
+      "description": "",
+      "logo": "https://i.imgur.com/33m1wPN.png",
+      "url": "http://77.46.130.252:99/maxsport2",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://77.46.130.252:99/maxsport2"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "158",
+      "name": "MAX SPORT 3",
+      "description": "",
+      "logo": "https://i.imgur.com/eGiGgZ2.png",
+      "url": "http://77.46.130.252:99/maxsport3",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://77.46.130.252:99/maxsport3"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "159",
+      "name": "MAX SPORT 4",
+      "description": "",
+      "logo": "https://i.imgur.com/7IxXX6f.png",
+      "url": "http://77.46.130.252:99/maxsport4",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://77.46.130.252:99/maxsport4"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "160",
+      "name": "TNT SPORTS 1",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "161",
+      "name": "TNT SPORTS 2",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "162",
+      "name": "TNT SPORTS 3",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd"
+        },
+        {
+          "label": "Apollo",
+          "url": "http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "163",
+      "name": "TNT SPORTS 4",
+      "description": "",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd"
+        },
+        {
+          "label": "Apollo",
+          "url": "http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19054/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "164",
+      "name": "Premier Sports 1",
+      "description": "",
+      "logo": "https://iili.io/KWnCF1I.png",
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "165",
+      "name": "Premier Sports 2",
+      "description": "",
+      "logo": "https://iili.io/KWnCF1I.png",
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "166",
+      "name": "SKY SPORT 24 IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SkySport24-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "167",
+      "name": "SKY SPORT GOLF DE",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportGolfDE.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportGolfDE.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "168",
+      "name": "SKY SPORT GOLF IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SkySportGolfIT-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportGolfIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportGolfIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "169",
+      "name": "SKY SPORT MIX DE",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportMixDE.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportMixDE.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "170",
+      "name": "SKY SPORT MIX IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "171",
+      "name": "SKY SPORT MOTO GP IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/sky_sport_motogp_logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "172",
+      "name": "SKY SPORT TENNIS IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky-sport-tennis.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "173",
+      "name": "SKY SPORTS MAIN EVENT LIVE UK",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/sky-sports-main-event-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "174",
+      "name": "SKY SPORTS PREMIER LEAGUE UK",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/sky-sports-premier-league_logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "175",
+      "name": "Cosmote Sport 1 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-1.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "176",
+      "name": "Cosmote Sport 2 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-2.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "177",
+      "name": "Cosmote Sport 3 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-3.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport3.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "178",
+      "name": "Cosmote Sport 4 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-4.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport4.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "179",
+      "name": "Cosmote Sport 5 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-5.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "180",
+      "name": "Cosmote Sport 6 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-6.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "181",
+      "name": "Cosmote Sport 7 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-7.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "182",
+      "name": "Cosmote Sport 8 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-8.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "183",
+      "name": "Cosmote Sport 9 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-9.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "184",
+      "name": "Nova Sports Premier League GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-premier-league.png",
+      "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "185",
+      "name": "Nova Sports 1 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-1-gr.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "Novasport"
+    },
+    {
+      "id": "186",
+      "name": "Nova Sports 2 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-2-gr.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "Novasport"
+    },
+    {
+      "id": "187",
+      "name": "Nova Sports 3 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-3-gr.png",
+      "url": "https://agelis.voglempanis.online/premium633/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium633/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "188",
+      "name": "Nova Sports 4 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-4-gr.png",
+      "url": "https://agelis.voglempanis.online/premium634/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium634/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "189",
+      "name": "Nova Sports 5 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-5-gr.png",
+      "url": "https://agelis.voglempanis.online/premium635/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium635/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "190",
+      "name": "Nova Sports 6 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-6-gr.png",
+      "url": "https://agelis.voglempanis.online/premium636/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium636/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "191",
+      "name": "Nova Sports Start GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-start-gr.png",
+      "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSST.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSST.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "192",
+      "name": "Nova Sports Prime GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-prime-gr.png",
+      "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "193",
+      "name": "Nova Sports News GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-news-gr.png",
+      "url": "https://agelis.voglempanis.online/premium639/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium639/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "194",
+      "name": "Sport TV1 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-1-portugal.png",
+      "url": "https://stm.linkip.org/live/1097_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/1097_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV1.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156952.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "195",
+      "name": "Sport TV2 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-2-portugal.png",
+      "url": "https://stm.linkip.org/live/1096_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/1096_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV2.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156953.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "196",
+      "name": "Sport TV3 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-3-portugal.png",
+      "url": "https://stm.linkip.org/live/1095_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/1095_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV3.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156955.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "197",
+      "name": "Sport TV4 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-4-portugal.png",
+      "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156956.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156956.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV4.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT4"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "198",
+      "name": "Sport TV5 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-5-portugal.png",
+      "url": "https://stm.linkip.org/live/716_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/716_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV5.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv5&key=FfWDWDwd$$"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "199",
+      "name": "Sport TV6 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-6-portugal.png",
+      "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156958.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156958.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV6.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT6"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "200",
+      "name": "SportKlub 1 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-1-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "201",
+      "name": "SportKlub 2 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-2-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "202",
+      "name": "SportKlub 3 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-3-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "203",
+      "name": "SportKlub 4 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-4-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "204",
+      "name": "ZIGGO SPORT 2",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",
+      "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "205",
+      "name": "ZIGGO SPORT 3",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",
+      "url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "206",
+      "name": "ZIGGO SPORT NL",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",
+      "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621"
+        },
+        {
+          "label": "HD",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "207",
+      "name": "ZIGGO SPORT 4",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "208",
+      "name": "ZIGGO SPORT 5",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",
+      "url": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "209",
+      "name": "ZIGGO SPORT 6",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",
+      "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "210",
+      "name": "STC Sports 1",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74",
+      "category": "Shahid"
+    },
+    {
+      "id": "211",
+      "name": "STC Sports 2",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b",
+      "category": "Shahid"
+    },
+    {
+      "id": "212",
+      "name": "STC Sports 3",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC3/STC3.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC3/STC3.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8",
+      "category": "Shahid"
+    },
+    {
+      "id": "213",
+      "name": "STC Sports 4",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC4/STC4.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC4/STC4.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb",
+      "category": "Shahid"
+    },
+    {
+      "id": "214",
+      "name": "Shahid Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
+      "category": "Shahid"
+    },
+    {
+      "id": "215",
+      "name": "Shahid Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
+      "category": "Shahid"
+    },
+    {
+      "id": "216",
+      "name": "Shahid Sports 3",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "448128e485ef44d98024e7c5f3fa078b:a5759aeb79afae384819a20c481e2c4a",
+      "category": "Shahid"
+    },
+    {
+      "id": "217",
+      "name": "Shahid Sports 4",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
+      "category": "Shahid"
+    },
+    {
+      "id": "218",
+      "name": "Shahid Sports 5",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78",
+      "category": "Shahid"
+    },
+    {
+      "id": "219",
+      "name": "DD Sports",
+      "description": "",
+      "logo": "",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "220",
+      "name": "TEST - Sky Sports Main Event UK",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "221",
+      "name": "TEST - Sky Sports Premier League UK",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "222",
+      "name": "TEST - beIN Sports 3 Turkey",
+      "description": "",
+      "logo": "",
+      "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "referer": "https://www.selcuksportshd.is",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "223",
+      "name": "TEST - Cytavision Sports 3 Cyprus",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/Cyta3/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/Cyta3/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "224",
+      "name": "TEST - Arena Sport 1 Croatia",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "225",
+      "name": "TEST - Diema Sport 2 Bulgaria",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/DiemaSport2/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/DiemaSport2/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "226",
+      "name": "TEST - beIN Sports MENA 1",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/beINAR/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/beINAR/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "227",
+      "name": "TEST - Sport 1 Israel",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/SPORT1IL/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/SPORT1IL/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "228",
+      "name": "Bein turkey test",
+      "description": "",
+      "logo": "",
+      "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "referer": "https://www.selcuksportshd.is",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "229",
+      "name": "NILE Sports",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Upt8FppA-UwzshFX269HituK8xosTFCk2Q&s",
+      "url": "https://stream-lb.livemediamasr.com/nile-sport/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/nile-sport/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "230",
+      "name": "ON Sport",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
+      "url": "https://stream-lb.livemediamasr.com/on-sport/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stream-lb.livemediamasr.com/on-sport/hls/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol&id=on_time&key=EWii%23%40%5E%26HNDF2024"
+        },
+        {
+          "label": "Stream 2",
+          "url": "http://apk.arabic-ch.space/live/006900/index.m3u8"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "231",
+      "name": "ON sport MAX",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
+      "url": "https://stream-lb.livemediamasr.com/on-sport-max/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stream-lb.livemediamasr.com/on-sport-max/hls/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol%2F&id=on_time_max&key=EWii%23%40%5E%26HNDF2024"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://apk.arabic-ch.space/live/007000/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "232",
+      "name": "ON sport PLUS",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
+      "url": "https://stream-lb.livemediamasr.com/on-sport-plus/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/on-sport-plus/hls/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol&id=on_time_plus&key=EWii%23%40%5E%26HNDF2024"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://apk.arabic-ch.space/live/007000/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "233",
+      "name": "Zamalek Sports",
+      "description": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/zamalek_sports.jpg",
+      "url": "https://stream-lb.livemediamasr.com/zamalek-sports/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/zamalek-sports/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "234",
+      "name": "Iraqia Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/DrrlxTO.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "235",
+      "name": "Abu Dhabi Sports 1",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxg59zYTTefYh6JdK9INDBHoJHrwNVi7OICA&s",
+      "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "236",
+      "name": "Abu Dhabi Sports 2",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-title-logo-en.png",
+      "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "237",
+      "name": "Sharjah Sports",
+      "description": "",
+      "logo": "https://i.imgur.com/CsEElsJ.png",
+      "url": "https://stm.linkip.org/live/1438_.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://stm.linkip.org/live/1438_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "238",
+      "name": "KSA Sports 1",
+      "description": "",
+      "logo": "https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png",
+      "url": "http://176.65.146.100:8037/play/a04q/index.m3u8",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "http://176.65.146.100:8037/play/a04q/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "239",
+      "name": "KSA Sports 2",
+      "description": "",
+      "logo": "https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png",
+      "url": "http://176.65.146.100:8037/play/a04r/index.m3u8",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "http://176.65.146.100:8037/play/a04r/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
     }
   ]
 }
