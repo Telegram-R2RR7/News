@@ -1,5 +1,5 @@
 {
-  "version": "10.0",
+  "version": "8.0",
   "channels": [
     {
       "id": "1",
@@ -7148,6 +7148,1524 @@
       "referer": "https://donis.jimpenopisonline.online/",
       "clear_key": "",
       "category": "Novasport"
+    },
+    {
+      "id": "356",
+      "name": "CANAL+ Sport",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
+      "url": "https://stm.linkip.org/live/843_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/843_.m3u8"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "CANAL+"
+    },
+    {
+      "id": "357",
+      "name": "Arena Premium 1",
+      "description": "",
+      "logo": "https://i.imgur.com/csv6YsL.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "358",
+      "name": "Arena Premium 2",
+      "description": "",
+      "logo": "https://i.imgur.com/ztOmQ7P.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "359",
+      "name": "Arena Premium 3",
+      "description": "",
+      "logo": "https://i.imgur.com/gpqemLf.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "360",
+      "name": "Arena Sport 1 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-1.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2991",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2991"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR1.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "361",
+      "name": "Arena Sport 2 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-2.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2992",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2992"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "362",
+      "name": "Arena Sport 3 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-3.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2993",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2993"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "363",
+      "name": "Arena Sport 4 HR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/arena-sport-4.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2994",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2994"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "364",
+      "name": "Arena Sport 5 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-05.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2995",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2995"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "365",
+      "name": "Arena Sport 6 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-06.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2996",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2996"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR6.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "366",
+      "name": "Arena Sport 7 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-07.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2997",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2997"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR7.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "367",
+      "name": "Arena Sport 8 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-08.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2998",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2998"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR8.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "368",
+      "name": "Arena Sport 9 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-09.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2999",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/2999"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR9.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "369",
+      "name": "Arena Sport 10 HR",
+      "description": "",
+      "logo": "https://tvarenaprogram.com/files/img/icons/chanel-10.png",
+      "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/3000",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/3000"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR10.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Arena Sports"
+    },
+    {
+      "id": "370",
+      "name": "Blue Sport 1",
+      "description": "",
+      "logo": "https://i.imgur.com/tXBLmmS.jpeg",
+      "url": "https://bluesport.live/live/blue_sport_1/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bluesport.live/live/blue_sport_1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Blue Sport"
+    },
+    {
+      "id": "371",
+      "name": "Blue Sport 2",
+      "description": "",
+      "logo": "https://i.imgur.com/wl82x7s.jpeg",
+      "url": "https://bluesport.live/live/blue_sport_2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bluesport.live/live/blue_sport_2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Blue Sport"
+    },
+    {
+      "id": "372",
+      "name": "Blue Sport 3",
+      "description": "",
+      "logo": "https://i.imgur.com/hyQiqKe.jpeg",
+      "url": "https://bluesport.live/live/blue_sport_3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bluesport.live/live/blue_sport_3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Blue Sport"
+    },
+    {
+      "id": "373",
+      "name": "STARZPLAY SPORTS 1",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/livechannels/STARZPLAYSPORT01AVODY2025M/STARZPLAYSPORT01AVODY2025M-title-logo-en.png",
+      "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+      "category": "Starzplay"
+    },
+    {
+      "id": "374",
+      "name": "STARZPLAY SPORTS 2",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/livechannels/STARZPLAYSPORT02AVODY2025M/STARZPLAYSPORT02AVODY2025M-title-logo-en.png",
+      "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0",
+      "category": "Starzplay"
+    },
+    {
+      "id": "375",
+      "name": "STARZPLAY SPORTS 3",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-title-logo-en.png",
+      "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+      "qualities": [
+        {
+          "label": "MPD",
+          "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+      "category": "Starzplay"
+    },
+    {
+      "id": "376",
+      "name": "MAX SPORT 1",
+      "description": "",
+      "logo": "https://i.imgur.com/0ohnpql.png",
+      "url": "http://77.46.130.252:99/maxsport1",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://77.46.130.252:99/maxsport1"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "377",
+      "name": "MAX SPORT 2",
+      "description": "",
+      "logo": "https://i.imgur.com/33m1wPN.png",
+      "url": "http://77.46.130.252:99/maxsport2",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "http://77.46.130.252:99/maxsport2"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "378",
+      "name": "MAX SPORT 3",
+      "description": "",
+      "logo": "https://i.imgur.com/eGiGgZ2.png",
+      "url": "http://77.46.130.252:99/maxsport3",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://77.46.130.252:99/maxsport3"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "379",
+      "name": "MAX SPORT 4",
+      "description": "",
+      "logo": "https://i.imgur.com/7IxXX6f.png",
+      "url": "http://77.46.130.252:99/maxsport4",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://77.46.130.252:99/maxsport4"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Max Sports"
+    },
+    {
+      "id": "380",
+      "name": "TNT SPORTS 1",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "381",
+      "name": "TNT SPORTS 2",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
+        },
+        {
+          "label": "Fallback",
+          "url": "http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "382",
+      "name": "TNT SPORTS 3",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd"
+        },
+        {
+          "label": "Apollo",
+          "url": "http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "383",
+      "name": "TNT SPORTS 4",
+      "description": "",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd"
+        },
+        {
+          "label": "Apollo",
+          "url": "http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/19054/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "384",
+      "name": "Premier Sports 1",
+      "description": "",
+      "logo": "https://iili.io/KWnCF1I.png",
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "385",
+      "name": "Premier Sports 2",
+      "description": "",
+      "logo": "https://iili.io/KWnCF1I.png",
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "category": "TNT Sports"
+    },
+    {
+      "id": "386",
+      "name": "SKY SPORT 24 IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SkySport24-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySport24IT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "387",
+      "name": "SKY SPORT GOLF DE",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportGolfDE.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportGolfDE.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "388",
+      "name": "SKY SPORT GOLF IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SkySportGolfIT-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportGolfIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportGolfIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "389",
+      "name": "SKY SPORT MIX DE",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportMixDE.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportMixDE.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "390",
+      "name": "SKY SPORT MIX IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportMixIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "391",
+      "name": "SKY SPORT MOTO GP IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/sky_sport_motogp_logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportMotoGPIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "392",
+      "name": "SKY SPORT TENNIS IT",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/Sky-sport-tennis.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportTennisIT.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "393",
+      "name": "SKY SPORTS MAIN EVENT LIVE UK",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/sky-sports-main-event-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportsMainEvent.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "394",
+      "name": "SKY SPORTS PREMIER LEAGUE UK",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/sky-sports-premier-league_logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://cdn.tv-rds.workers.dev/SkySportsPremierLeague.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sky"
+    },
+    {
+      "id": "395",
+      "name": "Cosmote Sport 1 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-1.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "396",
+      "name": "Cosmote Sport 2 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-2.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "397",
+      "name": "Cosmote Sport 3 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-3.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport3.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "398",
+      "name": "Cosmote Sport 4 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-4.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport4.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "399",
+      "name": "Cosmote Sport 5 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-5.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "400",
+      "name": "Cosmote Sport 6 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-6.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "401",
+      "name": "Cosmote Sport 7 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-7.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport7.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "402",
+      "name": "Cosmote Sport 8 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-8.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "403",
+      "name": "Cosmote Sport 9 HD",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/cosmote-sport-9.png",
+      "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/CosmoteSport8.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Cosmote Sport"
+    },
+    {
+      "id": "404",
+      "name": "Nova Sports Premier League GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-premier-league.png",
+      "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "405",
+      "name": "Nova Sports 1 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-1-gr.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "Novasport"
+    },
+    {
+      "id": "406",
+      "name": "Nova Sports 2 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-2-gr.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "Novasport"
+    },
+    {
+      "id": "407",
+      "name": "Nova Sports 3 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-3-gr.png",
+      "url": "https://agelis.voglempanis.online/premium633/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium633/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "408",
+      "name": "Nova Sports 4 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-4-gr.png",
+      "url": "https://agelis.voglempanis.online/premium634/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium634/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "409",
+      "name": "Nova Sports 5 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-5-gr.png",
+      "url": "https://agelis.voglempanis.online/premium635/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium635/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "410",
+      "name": "Nova Sports 6 GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-6-gr.png",
+      "url": "https://agelis.voglempanis.online/premium636/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium636/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "411",
+      "name": "Nova Sports Start GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-start-gr.png",
+      "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSST.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSST.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "412",
+      "name": "Nova Sports Prime GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-prime-gr.png",
+      "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/NOVASPORTSPR.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Novasport"
+    },
+    {
+      "id": "413",
+      "name": "Sport TV1 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-1-portugal.png",
+      "url": "https://stm.linkip.org/live/1097_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/1097_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV1.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156952.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "414",
+      "name": "Sport TV2 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-2-portugal.png",
+      "url": "https://stm.linkip.org/live/1096_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/1096_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV2.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156953.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "415",
+      "name": "Sport TV3 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-3-portugal.png",
+      "url": "https://stm.linkip.org/live/1095_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/1095_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV3.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156955.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "416",
+      "name": "Sport TV4 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-4-portugal.png",
+      "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156956.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156956.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV4.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT4"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "417",
+      "name": "Sport TV5 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-5-portugal.png",
+      "url": "https://stm.linkip.org/live/716_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stm.linkip.org/live/716_.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV5.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fk1.marketplace-io-none-kode-steeeee.lol%2F&id=sport_tv5&key=FfWDWDwd$$"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "418",
+      "name": "Sport TV6 Portugal",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/sport-tv-6-portugal.png",
+      "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156958.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/156958.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SportTV6.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://dev-a-live.pantheonsite.io/A/popcdn.php?id=SPT6"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SPORT TV"
+    },
+    {
+      "id": "419",
+      "name": "SportKlub 1 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-1-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub1RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "420",
+      "name": "SportKlub 2 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-2-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub2RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "421",
+      "name": "SportKlub 3 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-3-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub3RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "422",
+      "name": "SportKlub 4 RS",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/SportKlub-4-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/SportKlub4RS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "SportKlub"
+    },
+    {
+      "id": "423",
+      "name": "ZIGGO SPORT 2",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",
+      "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "424",
+      "name": "ZIGGO SPORT 3",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",
+      "url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "425",
+      "name": "ZIGGO SPORT NL",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",
+      "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621"
+        },
+        {
+          "label": "HD",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "426",
+      "name": "ZIGGO SPORT 4",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",
+      "url": "http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8",
+      "qualities": [
+        {
+          "label": "HD",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "427",
+      "name": "ZIGGO SPORT 5",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",
+      "url": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "428",
+      "name": "ZIGGO SPORT 6",
+      "description": "",
+      "logo": "https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",
+      "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://cdn.tv-rds.workers.dev/ZiggoSport6.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d",
+      "category": "ZIGGO SPORT"
+    },
+    {
+      "id": "429",
+      "name": "STC Sports 1",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74",
+      "category": "Shahid"
+    },
+    {
+      "id": "430",
+      "name": "STC Sports 2",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b",
+      "category": "Shahid"
+    },
+    {
+      "id": "431",
+      "name": "STC Sports 3",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC3/STC3.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC3/STC3.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8",
+      "category": "Shahid"
+    },
+    {
+      "id": "432",
+      "name": "STC Sports 4",
+      "description": "",
+      "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC4/STC4.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/STC4/STC4.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb",
+      "category": "Shahid"
+    },
+    {
+      "id": "433",
+      "name": "Shahid Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9",
+      "category": "Shahid"
+    },
+    {
+      "id": "434",
+      "name": "Shahid Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714",
+      "category": "Shahid"
+    },
+    {
+      "id": "435",
+      "name": "Shahid Sports 3",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "448128e485ef44d98024e7c5f3fa078b:a5759aeb79afae384819a20c481e2c4a",
+      "category": "Shahid"
+    },
+    {
+      "id": "436",
+      "name": "Shahid Sports 4",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
+      "category": "Shahid"
+    },
+    {
+      "id": "437",
+      "name": "Shahid Sports 5",
+      "description": "",
+      "logo": "https://i.imgur.com/mbLH9Bz.png",
+      "url": "https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78",
+      "category": "Shahid"
     }
   ]
 }
