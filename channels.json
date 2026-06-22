@@ -1,5 +1,5 @@
 {
-  "version": "8.1",
+  "version": "10.0",
   "channels": [
     {
       "id": "1",
@@ -1094,15 +1094,15 @@
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k.ts"
         },
         {
           "label": "RZN NEO HD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_hd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_hd.ts"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_sd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_sd.ts"
         },
         {
           "label": "ON MULTi 2",
@@ -1123,10 +1123,6 @@
         {
           "label": "camcloud",
           "url": "https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8"
-        },
-        {
-          "label": "RZN HD",
-          "url": "https://rezzznvip.staticdev9.workers.dev/bmax1hd.m3u8"
         },
         {
           "label": "MULTI blue",
@@ -1211,7 +1207,7 @@
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_4k.ts"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_4k.m3u8"
         },
         {
           "label": "RZN NEO HD",
@@ -1236,10 +1232,6 @@
         {
           "label": "Ostora SD",
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158571/cat/7223/index.m3u8"
-        },
-        {
-          "label": "RZN HD",
-          "url": "https://rezzznvip.staticdev9.workers.dev/bmax2hd.m3u8"
         },
         {
           "label": "YCN SD",
@@ -1321,10 +1313,6 @@
         {
           "label": "camcloud",
           "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8"
-        },
-        {
-          "label": "RZN HD",
-          "url": "https://rezzznvip.staticdev9.workers.dev/bmax3hd.m3u8"
         },
         {
           "label": "Server 7",
@@ -1516,12 +1504,16 @@
           "url": "http://99.27.51.147:8080/M6/index.m3u8"
         },
         {
+          "label": "Server 5",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=fr:_m6_hd.ts"
+        },
+        {
           "label": "Server 3",
           "url": "https://stm.linkip.org/live/876_.m3u8"
         },
         {
-          "label": "Server 5",
-          "url": "http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/8432.ts"
+          "label": "4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=fr:_m6_4K.ts"
         }
       ],
       "user_agent": "",
@@ -2765,6 +2757,4397 @@
       "referer": "https://www.selcuksportshd.is",
       "clear_key": "",
       "category": "Test"
+    },
+    {
+      "id": "129",
+      "name": "POST 1",
+      "description": "",
+      "logo": "https://up6.cc/2026/06/178159107274521.png",
+      "url": "http://palestine.vibertv.cyou/post1/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "130",
+      "name": "POST 2",
+      "description": "",
+      "logo": "https://up6.cc/2026/06/178159107274521.png",
+      "url": "http://palestine.vibertv.cyou/post2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://palestine.vibertv.cyou/post2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "131",
+      "name": "POST 3",
+      "description": "",
+      "logo": "https://up6.cc/2026/06/178159107274521.png",
+      "url": "http://palestine.vibertv.cyou/post3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://palestine.vibertv.cyou/post3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "132",
+      "name": "POST 4",
+      "description": "",
+      "logo": "https://up6.cc/2026/06/178159107274521.png",
+      "url": "http://palestine.vibertv.cyou/post4/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://palestine.vibertv.cyou/post4/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "133",
+      "name": "POST 5",
+      "description": "",
+      "logo": "https://up6.cc/2026/06/178159107274521.png",
+      "url": "http://palestine.vibertv.cyou/post5/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://palestine.vibertv.cyou/post5/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "134",
+      "name": "POST 6",
+      "description": "",
+      "logo": "https://up6.cc/2026/06/178159107274521.png",
+      "url": "http://palestine.vibertv.cyou/post6/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://palestine.vibertv.cyou/post6/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "135",
+      "name": "Alwan Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/UibCHUN.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156588/cat/7193/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3461_.m3u8"
+        },
+        {
+          "label": "alpha",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport14k.ts"
+        },
+        {
+          "label": "Server 7",
+          "url": "http://kanwat1.xyz:8080/94748049499/625256262633/418111"
+        },
+        {
+          "label": "Server 10",
+          "url": "https://rzzznalpha.staticdev9.workers.dev/?server=server4&channelid=alwan1.m3u8"
+        },
+        {
+          "label": "Server 61",
+          "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8"
+        },
+        {
+          "label": "Server s5",
+          "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "136",
+      "name": "Alwan Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/Gl8AxBh.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156589/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://virtualdbxv.com:8080/alwan2hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3460_.m3u8"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport24k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "137",
+      "name": "Alwan Sports 3",
+      "description": "",
+      "logo": "https://i.imgur.com/c9cHkFP.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156590/cat/7193/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3459_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport34k.ts"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "138",
+      "name": "Alwan Sports 4",
+      "description": "",
+      "logo": "https://i.imgur.com/6JVw8Xf.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156591/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "http://virtualdbxv.com:8080/alwan4hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3458_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport44k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "139",
+      "name": "Alwan Sports 5",
+      "description": "",
+      "logo": "https://i.imgur.com/JJojLHs.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_4K.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156592/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://virtualdbxv.com:8080/alwan5hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3457_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport54k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "140",
+      "name": "Alwan Sports 6",
+      "description": "",
+      "logo": "https://i.imgur.com/VZxazRS.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_6_4k.ts",
+      "qualities": [
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_6_4k.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_6_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_sd.ts"
+        },
+        {
+          "label": "Multi",
+          "url": "https://on-tvlive.online/EGYFILM/ost/main/156592/cat/7193/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://virtualdbxv.com:8080/alwan6hd/index.m3u8"
+        },
+        {
+          "label": "SD",
+          "url": "https://stm.linkip.org/live/3456_.m3u8"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport64k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "141",
+      "name": "Alwan Sports 7",
+      "description": "",
+      "logo": "https://i.imgur.com/mECyQgn.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "142",
+      "name": "Alwan Sports 8",
+      "description": "",
+      "logo": "https://i.imgur.com/Ms4DPwn.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts",
+      "qualities": [
+        {
+          "label": "Stream 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "143",
+      "name": "Alwan Sports 9",
+      "description": "",
+      "logo": "https://i.imgur.com/eMz1Lw4.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "144",
+      "name": "Alwan Sports 10",
+      "description": "",
+      "logo": "https://i.imgur.com/EO6RpBf.png",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts",
+      "qualities": [
+        {
+          "label": "Server 4",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "145",
+      "name": "Fajer TV 1",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
+      "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153539&extension=m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153539&extension=m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "146",
+      "name": "Fajer TV 2",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
+      "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153540&extension=m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153540&extension=m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://cdn4-mejarhosting.cfd/ftv2_1080p/index.mpd"
+        }
+      ],
+      "user_agent": "MejarHosting",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "147",
+      "name": "Fajer TV 3",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
+      "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153541&extension=m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153541&extension=m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "148",
+      "name": "Fajer TV 4",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
+      "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153542&extension=m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153542&extension=m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "149",
+      "name": "Fajer TV 5",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
+      "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153543&extension=m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://v3tv.live/play/live.php?mac=00:1A:79:C2:01:8B&stream=153543&extension=m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Alwan"
+    },
+    {
+      "id": "150",
+      "name": "TOD 1",
+      "description": "",
+      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
+      "url": "http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460836.ts"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://match-now.site/hls/b1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TOD"
+    },
+    {
+      "id": "151",
+      "name": "TOD 2",
+      "description": "",
+      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
+      "url": "http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460837.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TOD"
+    },
+    {
+      "id": "152",
+      "name": "TOD 3",
+      "description": "",
+      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
+      "url": "http://gooon.tv:8080/play/link/93e79804-6c18-4efe-9610-d45e3a01bc64/eyJpdiI6IlNDaG80L0Zod2VXQWJMdEgrN2pIa1E9PSIsInZhbHVlIjoiVkNZejJKTWY5bm1RU3ArNEJPYnJ6NUtRT0U2RmxCdGU1WGg3R2ZhNVhFK1B2Qi9NOEJud1JEWHlNTEpaU0lDMCIsIm1hYyI6ImZhZWUyNzA0NmQ4NjdlOTc0Yjc2MDY2MDY3ZmFiM2QwYzU3NWZhM2IyYzkyZmE4ZWNhN2FhM2E4ZWZlYTAyOTciLCJ0YWciOiIifQ==.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://gooon.tv:8080/play/link/93e79804-6c18-4efe-9610-d45e3a01bc64/eyJpdiI6IlNDaG80L0Zod2VXQWJMdEgrN2pIa1E9PSIsInZhbHVlIjoiVkNZejJKTWY5bm1RU3ArNEJPYnJ6NUtRT0U2RmxCdGU1WGg3R2ZhNVhFK1B2Qi9NOEJud1JEWHlNTEpaU0lDMCIsIm1hYyI6ImZhZWUyNzA0NmQ4NjdlOTc0Yjc2MDY2MDY3ZmFiM2QwYzU3NWZhM2IyYzkyZmE4ZWNhN2FhM2E4ZWZlYTAyOTciLCJ0YWciOiIifQ==.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460838.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TOD"
+    },
+    {
+      "id": "153",
+      "name": "TOD 4",
+      "description": "",
+      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
+      "url": "http://gooon.tv:8080/play/link/2b458f9b-a0b8-46b9-8b4d-4c109026afcf/eyJpdiI6IlUyQ1BwaW43N3ordFpVaXpoQ1o1Rmc9PSIsInZhbHVlIjoiSC9iTU8vMnNhN25SajRPZldUeUJwUytzZGRrcWUrcDBkTlgxY2tKQXBoM2RENzRUTHk1YXlBY3o5azltd1FqSSIsIm1hYyI6IjlmNDhmOGJhYTViMTE5MTlmZmJmMjRkYWFhYWRhZDZiMGI1MTAxYjUQDvDUxFShoWWbHougyHjr0tFz3E38fX8e0bnTUpya-P0mXW==.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://gooon.tv:8080/play/link/2b458f9b-a0b8-46b9-8b4d-4c109026afcf/eyJpdiI6IlUyQ1BwaW43N3ordFpVaXpoQ1o1Rmc9PSIsInZhbHVlIjoiSC9iTU8vMnNhN25SajRPZldUeUJwUytzZGRrcWUrcDBkTlgxY2tKQXBoM2RENzRUTHk1YXlBY3o5azltd1FqSSIsIm1hYyI6IjlmNDhmOGJhYTViMTE5MTlmZmJmMjRkYWFhYWRhZDZiMGI1MTAxYjUQDvDUxFShoWWbHougyHjr0tFz3E38fX8e0bnTUpya-P0mXW==.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460839.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TOD"
+    },
+    {
+      "id": "154",
+      "name": "TOD 5",
+      "description": "",
+      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
+      "url": "http://gooon.tv:8080/play/link/5bc45278-5cae-4ffa-bdb8-72ac3a5599db/eyJpdiI6Im1GbjAyZnFYMWNSeTVEbWN1dmtRSHc9PSIsInZhbHVlIjoiV1M5UlVGc3FkbWowVFUzZFllMklKTUk5ZkZOTTBCeW1SQzJWL1FmMFRtRjMxVWsveGpnN05QVlV5NUh0ZDR5MyIsIm1hYyI6IjQxYTI1YzkwN2YyNDA4MDA0ZTZjZTdlMTA2YTU4YjY5OTM2NWY2OTk1YjBjNmMyYjI5NWFhODY1N2IxNjVmYjQiLCJ0YWciOiIifQ==.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://gooon.tv:8080/play/link/5bc45278-5cae-4ffa-bdb8-72ac3a5599db/eyJpdiI6Im1GbjAyZnFYMWNSeTVEbWN1dmtRSHc9PSIsInZhbHVlIjoiV1M5UlVGc3FkbWowVFUzZFllMklKTUk5ZkZOTTBCeW1SQzJWL1FmMFRtRjMxVWsveGpnN05QVlV5NUh0ZDR5MyIsIm1hYyI6IjQxYTI1YzkwN2YyNDA4MDA0ZTZjZTdlMTA2YTU4YjY5OTM2NWY2OTk1YjBjNmMyYjI5NWFhODY1N2IxNjVmYjQiLCJ0YWciOiIifQ==.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460840.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TOD"
+    },
+    {
+      "id": "155",
+      "name": "TOD 6",
+      "description": "",
+      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
+      "url": "http://gooon.tv:8080/play/link/6aa38f85-dafa-426e-bbd3-20ca86d89ac1/eyJpdiI6Ino0ZnNJZUs3UERoUmFqclBVVDRTUFE9PSIsInZhbHVlIjoiMEpDWlRPaDlXbktiR01IUmVVTitKNW45V1kxWkxKQlVXTGtJWHRRZU1QSnFieXpOSXVKaFd1MXBJV2l4ZjhuUCIsIm1hYyI6IjhhYTljM2E4NTUyZGExZWMxNGYwNGRhNzA4ZjY5MGZiYjBkNWZjYmVhMjQwNjdjZGMyOWI0YmNhN2MyMTQ0ZDciLCJ0YWciOiIifQ==.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://gooon.tv:8080/play/link/6aa38f85-dafa-426e-bbd3-20ca86d89ac1/eyJpdiI6Ino0ZnNJZUs3UERoUmFqclBVVDRTUFE9PSIsInZhbHVlIjoiMEpDWlRPaDlXbktiR01IUmVVTitKNW45V1kxWkxKQlVXTGtJWHRRZU1QSnFieXpOSXVKaFd1MXBJV2l4ZjhuUCIsIm1hYyI6IjhhYTljM2E4NTUyZGExZWMxNGYwNGRhNzA4ZjY5MGZiYjBkNWZjYmVhMjQwNjdjZGMyOWI0YmNhN2MyMTQ0ZDciLCJ0YWciOiIifQ==.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460841.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TOD"
+    },
+    {
+      "id": "156",
+      "name": "MBC 5",
+      "description": "",
+      "logo": "https://i.imgur.com/fRWaDyF.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+      "qualities": [
+        {
+          "label": "FHD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "157",
+      "name": "MBC Masr",
+      "description": "",
+      "logo": "https://i.imgur.com/o2elx0u.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://shls-live-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://masr-usa-enc.edgenextcdn.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8"
+        },
+        {
+          "label": "Stream 6",
+          "url": "https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "158",
+      "name": "MBC Masr 2",
+      "description": "",
+      "logo": "https://i.imgur.com/KHo7Gtn.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "159",
+      "name": "MBC Masr Drama",
+      "description": "",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8a/MBC_Maser_Drama.png/revision/latest/scale-to-width-down/1200?cb=20250711110045",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "160",
+      "name": "MBC Iraq",
+      "description": "",
+      "logo": "https://i.imgur.com/D0LxiPE.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "161",
+      "name": "MBC Action",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/vlqpeZEEiL70MsCVjCoQreKY4OHXe-rRJkRw8uuXGQYQ5RcgKFCkJEHBKy6_0K-2Yk_Cf7IFNeI=s900-c-k-c0x00ffffff-no-rj",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
+      "category": "MBC"
+    },
+    {
+      "id": "162",
+      "name": "MBC Drama",
+      "description": "",
+      "logo": "https://i.imgur.com/g5PWnqp.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "http://mytv.dothome.co.kr/ch/catv/26.php"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://mbcdrama-usa-enc.edgenextcdn.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "163",
+      "name": "MBC Drama Plus",
+      "description": "",
+      "logo": "https://i.ibb.co/xzdqq9y/mbcdrama.png",
+      "url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+      "qualities": [
+        {
+          "label": "SD",
+          "url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "164",
+      "name": "MBC Thaqafiya",
+      "description": "",
+      "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+      "url": "https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "165",
+      "name": "MBC 3",
+      "description": "",
+      "logo": "https://i.imgur.com/PVt8OPN.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "166",
+      "name": "MBC+ e&",
+      "description": "",
+      "logo": "https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.svg",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda",
+      "category": "MBC"
+    },
+    {
+      "id": "167",
+      "name": "MBC 1",
+      "description": "",
+      "logo": "https://i.imgur.com/CiA3plN.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "168",
+      "name": "MBC 2",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/960px-MBC2_Logo.svg.png",
+      "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd"
+        },
+        {
+          "label": "Stream 2",
+          "url": "http://185.9.2.18/chid_375/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
+      "category": "MBC"
+    },
+    {
+      "id": "169",
+      "name": "MBC 4",
+      "description": "",
+      "logo": "https://i.imgur.com/BcXASJp.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "170",
+      "name": "MBC Bollywood",
+      "description": "",
+      "logo": "https://i.imgur.com/TTAGFHG.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "171",
+      "name": "MBC Max",
+      "description": "",
+      "logo": "https://i.imgur.com/A02CptP.png",
+      "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
+      "category": "MBC"
+    },
+    {
+      "id": "172",
+      "name": "MBC Persia",
+      "description": "",
+      "logo": "https://i.imgur.com/4FXiyjn.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "173",
+      "name": "MBC Variety+",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Svg_mbc_variety_aaa60f39e8.svg/3840px-Svg_mbc_variety_aaa60f39e8.svg.png",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32",
+      "category": "MBC"
+    },
+    {
+      "id": "174",
+      "name": "MBC MOOD",
+      "description": "",
+      "logo": "https://play-lh.googleusercontent.com/c6nFOWxOU2PKueIzx40hvhnLlD37yeOiVDEE6N4hcIa8kYWl_dnT-98SAx5CDncKGw=w240-h480-rw",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "MBC"
+    },
+    {
+      "id": "175",
+      "name": "Medi 1 TV Arabic",
+      "description": "",
+      "logo": "https://i.imgur.com/3YsZPY6.jpeg",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "176",
+      "name": "Medi 1 TV Maghreb",
+      "description": "",
+      "logo": "https://i.imgur.com/F5OFQsp.jpeg",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "177",
+      "name": "Medi1TV Afrique",
+      "description": "",
+      "logo": "https://i.imgur.com/a20DHnj.png",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "178",
+      "name": "M24 TV",
+      "description": "",
+      "logo": "https://i.imgur.com/7uv5Feu.png",
+      "url": "https://stream-lb.livemedia.ma/m24maroc/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://stream-lb.livemedia.ma/m24maroc/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "179",
+      "name": "ENNAHAR TV",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/3840px-Ennahar_TV_%28logo_actuel%29.svg.png",
+      "url": "http://apk.arabic-ch.space/live/092/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 6",
+          "url": "http://apk.arabic-ch.space/live/092/index.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/ennahartv.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "180",
+      "name": "Al Ghad TV",
+      "description": "",
+      "logo": "https://i.imgur.com/ga6NXb9.png",
+      "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "181",
+      "name": "AlHadath Alyoum",
+      "description": "",
+      "logo": "https://i.ibb.co/sd2k94pS/Final-Hadath.png",
+      "url": "https://stream-lb.livemediamasr.com/alhadath-alyoum/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/alhadath-alyoum/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "182",
+      "name": "Extra Live",
+      "description": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/extra_live.jpg",
+      "url": "https://stream-lb.livemediamasr.com/extra-live/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/extra-live/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "183",
+      "name": "Al Alam",
+      "description": "",
+      "logo": "https://i.imgur.com/Zdi31dy.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "184",
+      "name": "Al Ayyam TV",
+      "description": "",
+      "logo": "https://i.postimg.cc/13Xv5SMK/alayyamtv.png",
+      "url": "http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "185",
+      "name": "Al Eshraq TV",
+      "description": "",
+      "logo": "https://i.imgur.com/SuACr3L.png",
+      "url": "http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "186",
+      "name": "Al Etejah TV",
+      "description": "",
+      "logo": "https://i.imgur.com/TkjdGhy.png",
+      "url": "http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "187",
+      "name": "Al Iraqia News",
+      "description": "",
+      "logo": "https://i.imgur.com/feQTXeZ.jpg",
+      "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "188",
+      "name": "Al Janoub TV",
+      "description": "",
+      "logo": "https://i.imgur.com/rxDh6W1.png",
+      "url": "http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "189",
+      "name": "Anwar TV2",
+      "description": "",
+      "logo": "https://i.imgur.com/yHZXPcn.png",
+      "url": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://odysee.com/",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "190",
+      "name": "Iraq 24",
+      "description": "",
+      "logo": "https://i.imgur.com/dsLW8ex.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "191",
+      "name": "Kurdistan 24",
+      "description": "",
+      "logo": "https://i.imgur.com/9QWs2ms.png",
+      "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "192",
+      "name": "Kurdsat News",
+      "description": "",
+      "logo": "https://i.postimg.cc/Kj94xjPP/kurdsatnews.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "193",
+      "name": "NRT TV",
+      "description": "",
+      "logo": "https://i.imgur.com/uGKGtbW.png",
+      "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "194",
+      "name": "Payam TV",
+      "description": "",
+      "logo": "https://i.postimg.cc/DZLrc9VV/payamtv.png",
+      "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "195",
+      "name": "Rudaw TV",
+      "description": "",
+      "logo": "https://i.imgur.com/Zo3IWOn.png",
+      "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "196",
+      "name": "Al Yaum TV",
+      "description": "",
+      "logo": "https://i.imgur.com/rBixF3P.png",
+      "url": "https://iko-live.akamaized.net/AlyuamTV/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://iko-live.akamaized.net/AlyuamTV/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "197",
+      "name": "CNBC Arabiya",
+      "description": "",
+      "logo": "https://i.imgur.com/opBXx1K.png",
+      "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "198",
+      "name": "Al Araby TV",
+      "description": "",
+      "logo": "https://i.imgur.com/YMqWEe4.png",
+      "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "199",
+      "name": "Al Jazeera",
+      "description": "",
+      "logo": "https://i.imgur.com/7bRVpnu.png",
+      "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://live-hls-apps-aja.getaj.net/AJA/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "200",
+      "name": "Al Jazeera English",
+      "description": "",
+      "logo": "https://i.imgur.com/7bRVpnu.png",
+      "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "201",
+      "name": "Al Jazeera Mubasher",
+      "description": "",
+      "logo": "https://i.imgur.com/X80DQvF.png",
+      "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "202",
+      "name": "Al Jazeera Mubasher 24",
+      "description": "",
+      "logo": "https://i.imgur.com/LMCcIZ2.png",
+      "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "203",
+      "name": "AL ALARABY",
+      "description": "",
+      "logo": "https://i.ibb.co/h27qpLJ/araby1.png",
+      "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://cdn1.iptvcdn.tv/mcnc/AL_ARABY_HD_ENCODED/playlist.m3u8?token=demo"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://stream.ads.ottera.tv/cl/250113cu2707e7g596f0blb9c0/1280x720_900000_1_f.m3u8?i=475_5616"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "204",
+      "name": "AL ALARABY 2",
+      "description": "",
+      "logo": "https://i.ibb.co/s107QNv/araby2.png",
+      "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://cdn1.iptvcdn.tv/mcnc/AL_ARABY_2_HD_ENCODED/playlist.m3u8?token=demo"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://stream.ads.ottera.tv/cl/250113cu26vu63iomqklmptvfg/1280x720_2000000_0_f.m3u8?i=475_5617"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "205",
+      "name": "Al Araby TV 2",
+      "description": "",
+      "logo": "https://i.imgur.com/Gp5mNea.png",
+      "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "206",
+      "name": "Al Jazeera Mubasher Broadcast 2",
+      "description": "",
+      "logo": "https://i.imgur.com/nJmi6G6.png",
+      "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "207",
+      "name": "Asharq News",
+      "description": "",
+      "logo": "https://i.imgur.com/bqRC3sl.png",
+      "url": "https://live-news.asharq.com/asharq.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://live-news.asharq.com/asharq.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "208",
+      "name": "Al Arabiya",
+      "description": "",
+      "logo": "https://i.imgur.com/NXFkYFj.png",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "209",
+      "name": "Al Arabiya Al Hadath",
+      "description": "",
+      "logo": "https://i.imgur.com/De4SEWE.png",
+      "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "210",
+      "name": "Al Saudiya Alaan",
+      "description": "",
+      "logo": "https://i.imgur.com/sEOjApe.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "211",
+      "name": "ALWifak News TV",
+      "description": "",
+      "logo": "https://i.imgur.com/1vqhmNz.png",
+      "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "212",
+      "name": "Red TV Lebanon",
+      "description": "",
+      "logo": "https://i.imgur.com/bWwY885.png",
+      "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "213",
+      "name": "UNews",
+      "description": "",
+      "logo": "https://www.lyngsat.com/logo/tv/uu/unews-lb.png",
+      "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "214",
+      "name": "Voice of Lebanon",
+      "description": "",
+      "logo": "https://i.imgur.com/f8WcqRY.png",
+      "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "215",
+      "name": "Al Masar TV",
+      "description": "",
+      "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+      "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://starmenajo.com/hls/almasar/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "216",
+      "name": "February Channel",
+      "description": "",
+      "logo": "https://i.imgur.com/WdMIpsA.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "217",
+      "name": "Alalam Syria",
+      "description": "",
+      "logo": "https://i.imgur.com/WQKYPKD.png",
+      "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live2.alalam.ir/live/Alalam/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "218",
+      "name": "Welat TV",
+      "description": "",
+      "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+      "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "http://stream.welattv.net:1935/welat/tv/.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "219",
+      "name": "Al Mamlaka TV",
+      "description": "",
+      "logo": "https://i.imgur.com/UeTseMV.png",
+      "url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "220",
+      "name": "Alhaqeqa Aldawlia",
+      "description": "",
+      "logo": "https://i.postimg.cc/DyZr1gsv/alhaqeqaaldawlia.png",
+      "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ghaasiflu.online/alhqeqa/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "221",
+      "name": "Altaghier TV",
+      "description": "",
+      "logo": "https://i.postimg.cc/Nf6K92Cs/altaghiertv.png",
+      "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "222",
+      "name": "Al Najah News",
+      "description": "",
+      "logo": "https://i.imgur.com/c2bwn4G.png",
+      "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "223",
+      "name": "Kolalnas TV",
+      "description": "",
+      "logo": "https://i.imgur.com/OyMxcRG.png",
+      "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://htvint.mada.ps/kolalnas/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "224",
+      "name": "Nablus TV",
+      "description": "",
+      "logo": "https://i.imgur.com/GoLhaDK.png",
+      "url": "https://htvint.mada.ps/nabluslive/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://htvint.mada.ps/nabluslive/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "225",
+      "name": "KTV 2",
+      "description": "",
+      "logo": "https://i.imgur.com/hB57mNh.png",
+      "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "226",
+      "name": "KTV News",
+      "description": "",
+      "logo": "https://i.imgur.com/erZ0Ol1.png",
+      "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "227",
+      "name": "Al Masirah",
+      "description": "",
+      "logo": "https://i.imgur.com/V055t5e.png",
+      "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "228",
+      "name": "Al Masirah Mubacher",
+      "description": "",
+      "logo": "https://i.imgur.com/0xHb3XM.jpg",
+      "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "229",
+      "name": "Adnkronos",
+      "description": "",
+      "logo": "https://i.imgur.com/mEoDAf1.png",
+      "url": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "230",
+      "name": "Class CNBC",
+      "description": "",
+      "logo": "https://i.imgur.com/3Ei5VHa.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "231",
+      "name": "Etna Espresso Channel",
+      "description": "",
+      "logo": "https://i.imgur.com/lSI5QgV.png",
+      "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "232",
+      "name": "èTv Marche",
+      "description": "",
+      "logo": "https://i.imgur.com/U6OW577.png",
+      "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "233",
+      "name": "èTv Rete 7",
+      "description": "",
+      "logo": "https://i.imgur.com/xYVI5OC.png",
+      "url": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "234",
+      "name": "LaC News 24",
+      "description": "",
+      "logo": "https://www.omnys.com/media/news/lac-news24-icona.png",
+      "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "235",
+      "name": "Lira TV",
+      "description": "",
+      "logo": "https://i.imgur.com/sC9ELuY.jpg",
+      "url": "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "236",
+      "name": "Minformo TV",
+      "description": "",
+      "logo": "https://i.imgur.com/9Oq6fLw.png",
+      "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "237",
+      "name": "Rai News 24",
+      "description": "",
+      "logo": "https://i.imgur.com/n2u57y3.png",
+      "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "238",
+      "name": "Telejato",
+      "description": "",
+      "logo": "https://i.imgur.com/2EJdCJO.png",
+      "url": "https://telejato.liberotratto.com/hls/0/stream.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://telejato.liberotratto.com/hls/0/stream.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "239",
+      "name": "tv9 Telemaremma",
+      "description": "",
+      "logo": "https://i.imgur.com/3WAyf6H.png",
+      "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "240",
+      "name": "Zerouno TV News",
+      "description": "",
+      "logo": "https://i.imgur.com/wYntmOt.png",
+      "url": "https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "241",
+      "name": "HRT 4",
+      "description": "",
+      "logo": "https://i.imgur.com/VcNrY0m.png",
+      "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "242",
+      "name": "TV Jadran",
+      "description": "",
+      "logo": "https://i.imgur.com/UWMHnOG.png",
+      "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "243",
+      "name": "RT DE",
+      "description": "",
+      "logo": "https://i.imgur.com/v1PIbB2.png",
+      "url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "244",
+      "name": "ZDFinfo",
+      "description": "",
+      "logo": "https://i.imgur.com/vtq1IWp.png",
+      "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "245",
+      "name": "ABC News",
+      "description": "",
+      "logo": "https://i.imgur.com/BrW7gk8.png",
+      "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8"
+        },
+        {
+          "label": "Stream 6",
+          "url": "https://livetv-fa.tubi.video/abc-news/index.m3u8"
+        },
+        {
+          "label": "Stream 7",
+          "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "246",
+      "name": "ABC News Live 9",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+      "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "247",
+      "name": "AccuWeather Now",
+      "description": "",
+      "logo": "https://i.imgur.com/M8wbVYK.png",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "248",
+      "name": "Bloomberg TV",
+      "description": "",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png",
+      "url": "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "249",
+      "name": "CNBC",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
+      "url": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
+      "qualities": [
+        {
+          "label": "SD",
+          "url": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://www.newslive.com/business/cnbc-live-free.html",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "250",
+      "name": "CNN",
+      "description": "",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "251",
+      "name": "Fox Business",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",
+      "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "252",
+      "name": "Fox News Channel",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+      "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
+      "qualities": [
+        {
+          "label": "SD",
+          "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+      "referer": "https://www.newslive.com/",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "253",
+      "name": "Fox Weather",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png",
+      "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://247wlive.foxweather.com/stream/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "254",
+      "name": "MSNBC",
+      "description": "",
+      "logo": "https://i.imgur.com/kGUR6NE.png",
+      "url": "http://41.205.93.154/MSNBC/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://41.205.93.154/MSNBC/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "255",
+      "name": "The First TV",
+      "description": "",
+      "logo": "https://i.imgur.com/rOSlp93.png",
+      "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://thefirst-oando.amagi.tv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "256",
+      "name": "The Weather Channel",
+      "description": "",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",
+      "url": "http://mytvstream.net:8080/live/bn80NG/909467/18926.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://mytvstream.net:8080/live/bn80NG/909467/18926.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "257",
+      "name": "UN Web TV",
+      "description": "",
+      "logo": "https://i.imgur.com/UcAwBep.png",
+      "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "258",
+      "name": "BBC Arabic",
+      "description": "",
+      "logo": "https://i.imgur.com/ScyTG6P.png",
+      "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "259",
+      "name": "BBC NEWS ARABIA",
+      "description": "",
+      "logo": "https://i.ibb.co/JcP5JHq/bbcaranw.png",
+      "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8",
+      "qualities": [
+        {
+          "label": "SD",
+          "url": "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://new.cache-stream.workers.dev/stream/UCelk6aHijZq-GJBBB9YpReA/live.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "260",
+      "name": "Afghanistan International",
+      "description": "",
+      "logo": "https://i.imgur.com/r8MmFRX.png",
+      "url": "https://hls.afintl.com/hls/stream.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://hls.afintl.com/hls/stream.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "261",
+      "name": "BBC News",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+      "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1_hevc.mpd"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8"
+        },
+        {
+          "label": "Stream 9",
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://vs-hls-pushb-ntham-gcomm-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.m3u8"
+        },
+        {
+          "label": "Stream 11",
+          "url": "https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        },
+        {
+          "label": "Stream 12",
+          "url": "https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "262",
+      "name": "BBC News Asia Pacific",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+      "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "263",
+      "name": "BBC News Europe",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+      "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "264",
+      "name": "BBC Persian",
+      "description": "",
+      "logo": "https://i.imgur.com/4uTMnPb.png",
+      "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "265",
+      "name": "BBC World News",
+      "description": "",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "266",
+      "name": "CGTN Europe",
+      "description": "",
+      "logo": "https://i.imgur.com/oz0FQsE.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "267",
+      "name": "CNBC Europe",
+      "description": "",
+      "logo": "https://i.imgur.com/B6sfpDa.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "268",
+      "name": "GB News",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
+      "url": "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
+        },
+        {
+          "label": "Stream 5",
+          "url": "https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8"
+        },
+        {
+          "label": "Stream 6",
+          "url": "https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "269",
+      "name": "Iran International",
+      "description": "",
+      "logo": "https://i.imgur.com/55RpaF3.png",
+      "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "270",
+      "name": "IraneFarda TV",
+      "description": "",
+      "logo": "https://i.imgur.com/ixgcgZY.png",
+      "url": "https://hls.iranfarda.live/hls/stream.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://hls.iranfarda.live/hls/stream.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "271",
+      "name": "24 TV",
+      "description": "",
+      "logo": "https://i.imgur.com/8FO41es.png",
+      "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "272",
+      "name": "Akit TV",
+      "description": "",
+      "logo": "https://i.imgur.com/oGto929.png",
+      "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "273",
+      "name": "Finans Turk TV",
+      "description": "",
+      "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+      "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "274",
+      "name": "Guney TV Tarsus",
+      "description": "",
+      "logo": "https://i.imgur.com/solQ9nj.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "275",
+      "name": "Guneydogu TV",
+      "description": "",
+      "logo": "https://i.imgur.com/JT5pp3Y.png",
+      "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "276",
+      "name": "Haber Global",
+      "description": "",
+      "logo": "https://i.postimg.cc/fbQQPsGB/haberglobal.png",
+      "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/haberglobal.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "277",
+      "name": "Haber61 TV",
+      "description": "",
+      "logo": "https://i.imgur.com/2a2XUKl.png",
+      "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "278",
+      "name": "Habertürk TV",
+      "description": "",
+      "logo": "https://i.imgur.com/6Tw3rUp.png",
+      "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "279",
+      "name": "Halk TV",
+      "description": "",
+      "logo": "https://i.imgur.com/xM0HA30.png",
+      "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "280",
+      "name": "Kudüs TV",
+      "description": "",
+      "logo": "https://i.imgur.com/lwRA84B.png",
+      "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "281",
+      "name": "TGRT Haber",
+      "description": "",
+      "logo": "https://i.imgur.com/PrxwKDw.png",
+      "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://canli.tgrthaber.com/tgrt.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "282",
+      "name": "TRT Arabi",
+      "description": "",
+      "logo": "https://i.imgur.com/dEfI2M9.png",
+      "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "283",
+      "name": "TRT Haber",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+      "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "284",
+      "name": "TRT World",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
+      "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "285",
+      "name": "BNN Bloomberg",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png",
+      "url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "286",
+      "name": "CBC News Network",
+      "description": "",
+      "logo": "https://i.imgur.com/SjTdhvJ.png",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "287",
+      "name": "CityNews Calgary",
+      "description": "",
+      "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+      "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "288",
+      "name": "CityNews Edmonton",
+      "description": "",
+      "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+      "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "289",
+      "name": "CityNews Toronto",
+      "description": "",
+      "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+      "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "290",
+      "name": "CityNews Vancouver",
+      "description": "",
+      "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+      "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "291",
+      "name": "Hamdard TV",
+      "description": "",
+      "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+      "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tv.hamdardtv.com/hamdard/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "292",
+      "name": "ICI RDI",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",
+      "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "293",
+      "name": "LCN",
+      "description": "",
+      "logo": "https://i.imgur.com/iKDLgOG.png",
+      "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "294",
+      "name": "Aaj Tak",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
+      "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "295",
+      "name": "ABP Sanjha",
+      "description": "",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "296",
+      "name": "First India News",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png",
+      "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "297",
+      "name": "WION",
+      "description": "",
+      "logo": "https://i.imgur.com/Wc5Z3iS.png",
+      "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "298",
+      "name": "Jovem Pan News",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
+      "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "299",
+      "name": "Plena TV",
+      "description": "",
+      "logo": "https://i.imgur.com/lH4RT7b.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "300",
+      "name": "Record News",
+      "description": "",
+      "logo": "https://i.imgur.com/HZDRG0K.png",
+      "url": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "301",
+      "name": "STZ TV",
+      "description": "",
+      "logo": "https://i.imgur.com/SeF2I7q.png",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "302",
+      "name": "Times Brasil",
+      "description": "",
+      "logo": "https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png",
+      "url": "https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "303",
+      "name": "TV A Folha",
+      "description": "",
+      "logo": "https://i.imgur.com/I7XGMhj.png",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "304",
+      "name": "TV Brusque",
+      "description": "",
+      "logo": "https://i.imgur.com/J2EAZPS.png",
+      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "305",
+      "name": "TV do Povo",
+      "description": "",
+      "logo": "https://i.imgur.com/58EQ5qX.png",
+      "url": "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "306",
+      "name": "TV Sim Cachoeiro",
+      "description": "",
+      "logo": "https://i.imgur.com/t5oUK3C.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "307",
+      "name": "TV Sim Colatina",
+      "description": "",
+      "logo": "https://i.imgur.com/t5oUK3C.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "308",
+      "name": "TV Sim São Mateus",
+      "description": "",
+      "logo": "https://i.imgur.com/t5oUK3C.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "309",
+      "name": "TVídeoNews",
+      "description": "",
+      "logo": "https://i.imgur.com/vstHOYx.png",
+      "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "310",
+      "name": "Cablenoticias",
+      "description": "",
+      "logo": "https://i.imgur.com/FfhOGR9.png",
+      "url": "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "311",
+      "name": "Ecotel TV",
+      "description": "",
+      "logo": "https://i.imgur.com/pVlZUSV.png",
+      "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "312",
+      "name": "Mario Pinto TV",
+      "description": "",
+      "logo": "https://i.imgur.com/9rU6yWo.jpg",
+      "url": "https://eu1.servers10.com:8081/8028/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://eu1.servers10.com:8081/8028/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "313",
+      "name": "NHK World-Japan",
+      "description": "",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
+      "url": "https://nhk.lls.pbs.org/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://nhk.lls.pbs.org/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "314",
+      "name": "ADN 40",
+      "description": "",
+      "logo": "https://i.imgur.com/Og17U9N.png",
+      "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "315",
+      "name": "AMX Noticias",
+      "description": "",
+      "logo": "https://i.imgur.com/snIU1UA.jpg",
+      "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "316",
+      "name": "Milenio Television",
+      "description": "",
+      "logo": "https://i.imgur.com/TG1T5Oh.png",
+      "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "317",
+      "name": "NRT México Internacional",
+      "description": "",
+      "logo": "https://i.imgur.com/W2E0fSy.png",
+      "url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24nrt/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24nrt/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "318",
+      "name": "NRT México Región Carbonífera",
+      "description": "",
+      "logo": "https://i.imgur.com/ZqFJhAk.jpg",
+      "url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal10nrt/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal10nrt/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "319",
+      "name": "NRT México Región Centro",
+      "description": "",
+      "logo": "https://i.imgur.com/yjNUzYD.jpg",
+      "url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal4mva_all/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal4mva_all/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "320",
+      "name": "NRT México Región Sureste",
+      "description": "",
+      "logo": "https://i.imgur.com/rxVVrZV.jpg",
+      "url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal6nrt_all/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal6nrt_all/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "321",
+      "name": "PSN Canal 45.2",
+      "description": "",
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "url": "https://srspsn2.live/live/livestream.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://srspsn2.live/live/livestream.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "322",
+      "name": "Super Express TV",
+      "description": "",
+      "logo": "https://i.imgur.com/HuIsALV.png",
+      "url": "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "323",
+      "name": "Telewizja Biznesowa",
+      "description": "",
+      "logo": "https://i.imgur.com/XC7i7ZL.png",
+      "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "324",
+      "name": "TVP Info",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png",
+      "url": "https://turbotv.tv/play/link/8e4dcd78-bdc3-4d41-b361-13c8e8ae0efc/eyJpdiI6IlJmaEs3c2orL2JvblhSeU9oNTh6QlE9PSIsInZhbHVlIjoiMm5JOWNzYll1MXc3Mk1PNnFsTk5MR3VrRUlPQXZNWDJaT3BKcTY3UThkVWZTQjdBZm03NklVVjhpS1lLN3E2VjBoT25MYzhPL09kdnRJUGRNR3EzWVpubHlDNXNGOWh2Mlk3Rzd2TGhLbVE9IiwibWFjIjoiZmY1MTNiYzc1MDkxOWIwYWM4NWU4Y2U4YTFiZmM1MzMwMDhhMDcwYmRhMWEwYWIwNDM5YjEwNGQ3ZmE1YTgyYyIsInRhZyI6IiJ9.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://turbotv.tv/play/link/8e4dcd78-bdc3-4d41-b361-13c8e8ae0efc/eyJpdiI6IlJmaEs3c2orL2JvblhSeU9oNTh6QlE9PSIsInZhbHVlIjoiMm5JOWNzYll1MXc3Mk1PNnFsTk5MR3VrRUlPQXZNWDJaT3BKcTY3UThkVWZTQjdBZm03NklVVjhpS1lLN3E2VjBoT25MYzhPL09kdnRJUGRNR3EzWVpubHlDNXNGOWh2Mlk3Rzd2TGhLbVE9IiwibWFjIjoiZmY1MTNiYzc1MDkxOWIwYWM4NWU4Y2U4YTFiZmM1MzMwMDhhMDcwYmRhMWEwYWIwNDM5YjEwNGQ3ZmE1YTgyYyIsInRhZyI6IiJ9.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/tvpinfo.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpinfo.m3u8"
+        },
+        {
+          "label": "Stream 4",
+          "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpin.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "325",
+      "name": "TVP World",
+      "description": "",
+      "logo": "https://i.imgur.com/lB4MgRI.png",
+      "url": "https://vs2142.vcdn.biz/2958f855a43f669a4282e5134a882554_megogo/live/hls/b/700_2490_4000/u_sid/0/o/150446381/rsid/7aae92a2-4034-476f-8fff-33bfc431e127/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid8883796453807134950-b4000000.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://vs2142.vcdn.biz/2958f855a43f669a4282e5134a882554_megogo/live/hls/b/700_2490_4000/u_sid/0/o/150446381/rsid/7aae92a2-4034-476f-8fff-33bfc431e127/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid8883796453807134950-b4000000.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "326",
+      "name": "NTN 24",
+      "description": "",
+      "logo": "https://i.imgur.com/UoKmSAP.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "327",
+      "name": "Universo",
+      "description": "",
+      "logo": "https://i.imgur.com/RZ8pIKe.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "328",
+      "name": "ART Cinema",
+      "description": "",
+      "logo": "https://www.artonline.tv/images/ART_Logo/cinema-logo.png",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670",
+      "category": "OSN TV"
+    },
+    {
+      "id": "329",
+      "name": "ART Aflam 1",
+      "description": "",
+      "logo": "https://www.artonline.tv/images/ART_Logo/ART_AFLAM_1w.png",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db",
+      "category": "OSN TV"
+    },
+    {
+      "id": "330",
+      "name": "ART Aflam 2",
+      "description": "",
+      "logo": "https://i.imgur.com/icE2WOw.png",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5",
+      "category": "OSN TV"
+    },
+    {
+      "id": "331",
+      "name": "ART Hekayat",
+      "description": "",
+      "logo": "https://www.artonline.tv/images/ART_Logo/art_hekayat.png",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53",
+      "category": "OSN TV"
+    },
+    {
+      "id": "332",
+      "name": "ART Hekayat 2",
+      "description": "",
+      "logo": "https://www.artonline.tv/images/ART_Logo/art_hekayat_2.png",
+      "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd",
+      "qualities": [
+        {
+          "label": "Apollo",
+          "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f",
+      "category": "OSN TV"
+    },
+    {
+      "id": "333",
+      "name": "Alfa Series",
+      "description": "",
+      "logo": "https://i.imgur.com/0WQgwLB.png",
+      "url": "https://stm.linkip.org/live/1821_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1821_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "334",
+      "name": "Nicktoons Arabic",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
+      "url": "https://stm.linkip.org/live/1822_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1822_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "335",
+      "name": "OSNTV Mezze",
+      "description": "",
+      "logo": "https://i.imgur.com/QUHWvuH.png",
+      "url": "https://stm.linkip.org/live/1823_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1823_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "336",
+      "name": "Nickelodeon Arabic",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg",
+      "url": "https://stm.linkip.org/live/1828_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1828_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "337",
+      "name": "OSNTV History 2",
+      "description": "",
+      "logo": "https://i.imgur.com/47vgnVK.png",
+      "url": "https://stm.linkip.org/live/1829_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1829_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "338",
+      "name": "Alfa Cinema 2",
+      "description": "",
+      "logo": "https://i.imgur.com/Re2LMab.png",
+      "url": "https://stm.linkip.org/live/1837_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1837_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "339",
+      "name": "Alfa Cinema 1",
+      "description": "",
+      "logo": "https://i.imgur.com/sfZVNMA.png",
+      "url": "https://stm.linkip.org/live/1838_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1838_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "340",
+      "name": "Alfa Alyoum",
+      "description": "",
+      "logo": "https://i.imgur.com/wd1Xh0X.png",
+      "url": "https://stm.linkip.org/live/1839_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1839_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "341",
+      "name": "OSNTV Showcase",
+      "description": "",
+      "logo": "https://i.imgur.com/7jG1YHn.png",
+      "url": "https://stm.linkip.org/live/1843_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1843_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "342",
+      "name": "OSNTV Comedy",
+      "description": "",
+      "logo": "https://i.imgur.com/bNmINah.png",
+      "url": "https://stm.linkip.org/live/1845_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1845_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "343",
+      "name": "OSNTV Movies Hollywood",
+      "description": "",
+      "logo": "https://i.imgur.com/lhDoGqs.png",
+      "url": "https://stm.linkip.org/live/1848_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1848_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "344",
+      "name": "OSNTV Movies Action",
+      "description": "",
+      "logo": "https://i.imgur.com/DWt5M7x.png",
+      "url": "https://stm.linkip.org/live/1849_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1849_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "345",
+      "name": "OSNTV Movies Premier",
+      "description": "",
+      "logo": "https://i.imgur.com/vCsMKCO.png",
+      "url": "https://stm.linkip.org/live/1851_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1851_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "346",
+      "name": "OSNTV Yahala Aflam",
+      "description": "",
+      "logo": "https://i.imgur.com/QG50Tdu.png",
+      "url": "https://stm.linkip.org/live/1852_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1852_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "347",
+      "name": "OSNTV Yahala",
+      "description": "",
+      "logo": "https://i.imgur.com/ygchMa0.png",
+      "url": "https://stm.linkip.org/live/1853_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1853_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "348",
+      "name": "OSNTV Now",
+      "description": "",
+      "logo": "https://i.imgur.com/52CAst5.png",
+      "url": "https://stm.linkip.org/live/1856_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1856_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "349",
+      "name": "OSNTV History",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
+      "url": "https://stm.linkip.org/live/1857_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1857_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "350",
+      "name": "OSNTV Discovery",
+      "description": "",
+      "logo": "https://i.imgur.com/PQaF1Qy.png",
+      "url": "https://stm.linkip.org/live/1860_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1860_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "351",
+      "name": "OSNTV Nat Geo Wild",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
+      "url": "https://stm.linkip.org/live/1862_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1862_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "352",
+      "name": "OSNTV Kids",
+      "description": "",
+      "logo": "https://i.imgur.com/qVKa0UO.png",
+      "url": "https://stm.linkip.org/live/1864_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1864_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "353",
+      "name": "Alfa Series 2",
+      "description": "",
+      "logo": "https://i.imgur.com/22xFOXj.png",
+      "url": "https://stm.linkip.org/live/1868_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1868_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "354",
+      "name": "OSNTV Movies Family",
+      "description": "",
+      "logo": "https://i.imgur.com/QYV7Fih.png",
+      "url": "https://stm.linkip.org/live/1869_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/1869_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "OSN TV"
+    },
+    {
+      "id": "355",
+      "name": "Nova Sports News GR",
+      "description": "",
+      "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-news-gr.png",
+      "url": "https://agelis.voglempanis.online/premium639/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://agelis.voglempanis.online/premium639/index.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36",
+      "referer": "https://donis.jimpenopisonline.online/",
+      "clear_key": "",
+      "category": "Novasport"
     }
   ]
 }
