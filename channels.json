@@ -1,5 +1,5 @@
 {
-  "version": "8.0",
+  "version": "11.0",
   "channels": [
     {
       "id": "1",
@@ -671,6 +671,10 @@
         {
           "label": "Server 3",
           "url": "https://stm.linkip.org/live/795_.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
         }
       ],
       "user_agent": "",
@@ -1094,15 +1098,15 @@
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k.ts"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k"
         },
         {
           "label": "RZN NEO HD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_hd.ts"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_hd"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_sd.ts"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_sd"
         },
         {
           "label": "ON MULTi 2",
@@ -1121,8 +1125,8 @@
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158570/cat/7223/index.m3u8"
         },
         {
-          "label": "camcloud",
-          "url": "https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8"
+          "label": "CC Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx1.m3u8"
         },
         {
           "label": "MULTI blue",
@@ -1141,10 +1145,6 @@
           "url": "http://fastshare1.com/live/kathiriya4300/kathiriya4300@123/744523.ts"
         },
         {
-          "label": "Syria1",
-          "url": "http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8"
-        },
-        {
           "label": "SHN",
           "url": "https://cdn.karwan.tv/shna-tv-3/index.m3u8"
         },
@@ -1161,20 +1161,12 @@
           "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744523"
         },
         {
-          "label": "Server 27",
-          "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8"
-        },
-        {
           "label": "Server 28",
           "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8"
         },
         {
           "label": "NEXT",
           "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
-        },
-        {
-          "label": "Koora",
-          "url": "https://as.roomtu.store/rook1.m3u8"
         },
         {
           "label": "Server 25",
@@ -1187,6 +1179,14 @@
         {
           "label": "alpha hd",
           "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax1fhd.ts"
+        },
+        {
+          "label": "tv123",
+          "url": "https://tv123.cc.cd/live.php?ch=5fca15b21355"
+        },
+        {
+          "label": "Server 24",
+          "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357"
         }
       ],
       "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
@@ -1207,15 +1207,15 @@
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_4k.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_4k"
         },
         {
           "label": "RZN NEO HD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_hd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_hd"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_sd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_sd"
         },
         {
           "label": "ON MULTI",
@@ -1234,6 +1234,10 @@
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158571/cat/7223/index.m3u8"
         },
         {
+          "label": "CC Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx2.m3u8"
+        },
+        {
           "label": "YCN SD",
           "url": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=jk7tHjW7oa-BUuuZm6IG5g&e=1781923878"
         },
@@ -1242,20 +1246,8 @@
           "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
         },
         {
-          "label": "Server 11",
-          "url": "http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8"
-        },
-        {
-          "label": "Server 12",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255225.m3u8"
-        },
-        {
           "label": "Server 13",
           "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
-        },
-        {
-          "label": "Server 14",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255237.m3u8"
         },
         {
           "label": "Server 20",
@@ -1272,6 +1264,14 @@
         {
           "label": "Server 18",
           "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744524.ts"
+        },
+        {
+          "label": "tv123",
+          "url": "https://tv123.cc.cd/live.php?ch=07eb6aa21356"
+        },
+        {
+          "label": "Server 18",
+          "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944358"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1292,15 +1292,15 @@
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_4k.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_4k"
         },
         {
           "label": "RZN NEO HD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_hd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_hd"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_sd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_sd"
         },
         {
           "label": "Ostora FHD",
@@ -1311,8 +1311,8 @@
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158572/cat/7223/index.m3u8"
         },
         {
-          "label": "camcloud",
-          "url": "https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8"
+          "label": "CC Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx3.m3u8"
         },
         {
           "label": "Server 7",
@@ -1325,6 +1325,10 @@
         {
           "label": "alpha hd",
           "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax3fhd.ts"
+        },
+        {
+          "label": "Server 12",
+          "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944359"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1337,19 +1341,23 @@
       "name": "beIN SPORTS MAX 4",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-      "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_4k.m3u8",
+      "url": "http://h42.reelpush.online/live/918454578001/index.m3u8",
       "qualities": [
         {
+          "label": "Server 13",
+          "url": "http://h42.reelpush.online/live/918454578001/index.m3u8"
+        },
+        {
           "label": "RZN NEO 4K",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_4k.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_4k"
         },
         {
           "label": "RZN NEO HD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_hd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_hd"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_sd.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_sd."
         },
         {
           "label": "ON HD",
@@ -1362,6 +1370,10 @@
         {
           "label": "Ostora SD",
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158573/cat/7223/index.m3u8"
+        },
+        {
+          "label": "CC Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx4.m3u8"
         },
         {
           "label": "Server 5",
@@ -1382,6 +1394,10 @@
         {
           "label": "alpha hd",
           "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax4fhd.ts"
+        },
+        {
+          "label": "tv123",
+          "url": "https://tv123.cc.cd/live.php?ch=49ff57ac1358"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1394,8 +1410,12 @@
       "name": "beIN SPORTS MAX 5",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
-      "url": "https://on-tvlive.online/EGYFILM/ost/main/158562/cat/7225/index.m3u8",
+      "url": "http://h42.reelpush.online/live/69854211/index.m3u8",
       "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/69854211/index.m3u8"
+        },
         {
           "label": "Ostora FHD",
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158562/cat/7225/index.m3u8"
@@ -1413,8 +1433,8 @@
           "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax54k.ts"
         },
         {
-          "label": "Server 3",
-          "url": "http://het4444.ycn-redirect.com/live/lb2/bm5-multi.m3u8"
+          "label": "tv123",
+          "url": "https://tv123.cc.cd/live.php?ch=3643b1631359"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1427,8 +1447,12 @@
       "name": "beIN SPORTS MAX 6",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
-      "url": "https://on-tvlive.online/EGYFILM/ost/main/158563/cat/7225/index.m3u8",
+      "url": "http://h42.reelpush.online/live/645587700/index.m3u8",
       "qualities": [
+        {
+          "label": "Server 6",
+          "url": "http://h42.reelpush.online/live/645587700/index.m3u8"
+        },
         {
           "label": "Ostora FHD",
           "url": "https://on-tvlive.online/EGYFILM/ost/main/158563/cat/7225/index.m3u8"
@@ -1446,8 +1470,8 @@
           "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax64k.ts"
         },
         {
-          "label": "Server 3",
-          "url": "http://het4444.ycn-redirect.com/live/lb2/bm6-multi.m3u8"
+          "label": "tv123",
+          "url": "https://tv123.cc.cd/live.php?ch=671d941a1360"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1471,12 +1495,16 @@
           "url": "http://asmr4k.pro/live/05347247405/3100934708/1246130.ts"
         },
         {
-          "label": "Server 4",
-          "url": "https://rznmaxtest.staticdev9.workers.dev/get-stream?channel=bein1hd"
+          "label": "Server 5",
+          "url": "https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8"
         },
         {
           "label": "irib4K",
           "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://www.r56mail.bingo:80/xasez13/aHnr65d/104974"
         }
       ],
       "user_agent": "",
@@ -2218,11 +2246,23 @@
       "name": "D SPORTS",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/960px-DSports_logo_2022.svg.png?_=20240702054322",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+      "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd"
+          "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://8.243.126.131:8000/play/a05a/index.m3u8"
         }
       ],
       "user_agent": "",
@@ -2235,11 +2275,11 @@
       "name": "CAZE TV",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg",
-      "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+      "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd"
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
         }
       ],
       "user_agent": "",
@@ -8666,6 +8706,2828 @@
       "referer": "",
       "clear_key": "e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78",
       "category": "Shahid"
+    },
+    {
+      "id": "438",
+      "name": "DD Sports",
+      "description": "",
+      "logo": "",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "439",
+      "name": "TEST - Sky Sports Main Event UK",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "440",
+      "name": "TEST - Sky Sports Premier League UK",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "441",
+      "name": "TEST - Cytavision Sports 3 Cyprus",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/Cyta3/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/Cyta3/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "442",
+      "name": "TEST - Arena Sport 1 Croatia",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "443",
+      "name": "TEST - Diema Sport 2 Bulgaria",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/DiemaSport2/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/DiemaSport2/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "444",
+      "name": "TEST - Sport 1 Israel",
+      "description": "",
+      "logo": "",
+      "url": "https://wasitv-pro.site/SPORT1IL/mono.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://wasitv-pro.site/SPORT1IL/mono.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://lovetier.bz/",
+      "clear_key": "",
+      "category": "Test"
+    },
+    {
+      "id": "445",
+      "name": "AL24 NEWS",
+      "description": "",
+      "logo": "https://i.imgur.com/vyVEXYL.png",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "446",
+      "name": "ECHOROUK NEWS",
+      "description": "",
+      "logo": "http://i.imgur.com/b2koAeh.png",
+      "url": "http://apk.arabic-ch.space/live/014/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 3",
+          "url": "http://apk.arabic-ch.space/live/014/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "447",
+      "name": "NILE Sports",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Upt8FppA-UwzshFX269HituK8xosTFCk2Q&s",
+      "url": "https://stream-lb.livemediamasr.com/nile-sport/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/nile-sport/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "448",
+      "name": "AL QAHERA NEWS",
+      "description": "",
+      "logo": "https://i.ibb.co/CMk8DS1/alqahera.png",
+      "url": "https://stream-lb.livemediamasr.com/al-qahera-news/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://stream-lb.livemediamasr.com/al-qahera-news/hls/master.m3u8"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "449",
+      "name": "ON Sport",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
+      "url": "https://stream-lb.livemediamasr.com/on-sport/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stream-lb.livemediamasr.com/on-sport/hls/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol&id=on_time&key=EWii%23%40%5E%26HNDF2024"
+        },
+        {
+          "label": "Stream 2",
+          "url": "http://apk.arabic-ch.space/live/006900/index.m3u8"
+        }
+      ],
+      "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "450",
+      "name": "ON sport MAX",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
+      "url": "https://stream-lb.livemediamasr.com/on-sport-max/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://stream-lb.livemediamasr.com/on-sport-max/hls/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol%2F&id=on_time_max&key=EWii%23%40%5E%26HNDF2024"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://apk.arabic-ch.space/live/007000/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "451",
+      "name": "ON sport PLUS",
+      "description": "",
+      "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
+      "url": "https://stream-lb.livemediamasr.com/on-sport-plus/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/on-sport-plus/hls/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol&id=on_time_plus&key=EWii%23%40%5E%26HNDF2024"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://apk.arabic-ch.space/live/007000/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "452",
+      "name": "Zamalek Sports",
+      "description": "",
+      "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/zamalek_sports.jpg",
+      "url": "https://stream-lb.livemediamasr.com/zamalek-sports/hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-lb.livemediamasr.com/zamalek-sports/hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "453",
+      "name": "AL SHARQIYA News",
+      "description": "",
+      "logo": "https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png",
+      "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "454",
+      "name": "INEWS IQ",
+      "description": "",
+      "logo": "https://i.ibb.co/m4tvbmp/inewsar.png",
+      "url": "https://live.i-news.tv/hls/stream.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.i-news.tv/hls/stream.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "455",
+      "name": "Iraqia Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/DrrlxTO.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "456",
+      "name": "Abu Dhabi Sports 1",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxg59zYTTefYh6JdK9INDBHoJHrwNVi7OICA&s",
+      "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "457",
+      "name": "Abu Dhabi Sports 2",
+      "description": "",
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-title-logo-en.png",
+      "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "458",
+      "name": "Sharjah Sports",
+      "description": "",
+      "logo": "https://i.imgur.com/CsEElsJ.png",
+      "url": "https://stm.linkip.org/live/1438_.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://stm.linkip.org/live/1438_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "459",
+      "name": "Zee Alwan",
+      "description": "",
+      "logo": "https://i.imgur.com/OLuCox7.png",
+      "url": "https://fastlyrwb-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/ZEL/ZEL.isml/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "f446c01f7438ae78bdc808aeec15881e:5786d43cd7b2d29d914ba30b220c190e",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "460",
+      "name": "KSA Sports 1",
+      "description": "",
+      "logo": "https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png",
+      "url": "http://176.65.146.100:8037/play/a04q/index.m3u8",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "http://176.65.146.100:8037/play/a04q/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "461",
+      "name": "KSA Sports 2",
+      "description": "",
+      "logo": "https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png",
+      "url": "http://176.65.146.100:8037/play/a04r/index.m3u8",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "http://176.65.146.100:8037/play/a04r/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "462",
+      "name": "MBC+  Drama",
+      "description": "",
+      "logo": "https://i.imgur.com/lxWdjXG.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "463",
+      "name": "OMAN SPORT",
+      "description": "",
+      "logo": "https://i.ibb.co/GJVSFNt/oman.png",
+      "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "464",
+      "name": "Oman Sports TV",
+      "description": "",
+      "logo": "https://i.imgur.com/1omi7p8.png",
+      "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "465",
+      "name": "Bahrain Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/ZEUsGNl.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "466",
+      "name": "Bahrain Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/ZEUsGNl.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "467",
+      "name": "LIBYA SPORT 2HD",
+      "description": "",
+      "logo": "https://i.imgur.com/PuslcKr.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "468",
+      "name": "HALAB TODAY",
+      "description": "",
+      "logo": "https://i.ibb.co/1JpfbVF6/halabtod.png",
+      "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "469",
+      "name": "Syria News",
+      "description": "",
+      "logo": "https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp",
+      "url": "https://stm.linkip.org/live/1346_.m3u8",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://stm.linkip.org/live/1346_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "470",
+      "name": "ROYA SPORTS",
+      "description": "",
+      "logo": "https://i.ibb.co/84HtHzK/Roya-TV.png",
+      "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "471",
+      "name": "Jordan Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/2EmrZPQ.png",
+      "url": "http://93.184.10.248/JordanSport/index.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "http://93.184.10.248/JordanSport/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "472",
+      "name": "Jordan Sport 2",
+      "description": "",
+      "logo": "https://static.jrtv.gov.jo/resize-width/380/content/D/yH/2972/Poster.png",
+      "url": "https://jrtv-live.ercdn.net/learning2/learning2.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://jrtv-live.ercdn.net/learning2/learning2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "473",
+      "name": "ROYA NEWS",
+      "description": "",
+      "logo": "https://i.ibb.co/84HtHzK/Roya-TV.png",
+      "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "474",
+      "name": "Palestine Today",
+      "description": "",
+      "logo": "https://i.imgur.com/BS8XXug.png",
+      "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "475",
+      "name": "KTV Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/R1hGX1d.png",
+      "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "476",
+      "name": "KTV Sport Plus",
+      "description": "",
+      "logo": "https://i.imgur.com/l4oX0gf.png",
+      "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "477",
+      "name": "Yemen Today TV",
+      "description": "",
+      "logo": "https://i.imgur.com/8TzcJu5.png",
+      "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://video.yementdy.tv/hls/yementoday.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "478",
+      "name": "RMC Sports 2",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/960px-Logo_RMC_Sport_2_2018.svg.png",
+      "url": "https://stm.linkip.org/live/802_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/802_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "479",
+      "name": "RMC Sports 1",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/3840px-Logo_RMC_Sport_1_2018.svg.png",
+      "url": "https://stm.linkip.org/live/803_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/803_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "480",
+      "name": "Eurosport 2",
+      "description": "",
+      "logo": "https://i.imgur.com/f56dHgR.png",
+      "url": "https://stm.linkip.org/live/786_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/786_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "481",
+      "name": "INFOSPORT",
+      "description": "",
+      "logo": "https://p7.hiclipart.com/preview/95/650/533/infosport-television-channel-logo-sky-news-sport-png.jpg",
+      "url": "http://212.102.60.80/Infosport/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://212.102.60.80/Infosport/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "482",
+      "name": "NewSignal",
+      "description": "",
+      "logo": "https://i.imgur.com/UnZoS95.png",
+      "url": "https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "483",
+      "name": "Sportitalia",
+      "description": "",
+      "logo": "https://i.imgur.com/0CJGGgd.png",
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "720p HD",
+          "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "484",
+      "name": "Sportitalia 24",
+      "description": "",
+      "logo": "https://i.imgur.com/RSwnoLn.png",
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "485",
+      "name": "Sportitalia Motori",
+      "description": "",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "486",
+      "name": "Sportitalia Solocalcio",
+      "description": "",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "487",
+      "name": "TR Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/ELXmaqg.png",
+      "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "488",
+      "name": "3Cat Exclusiu 1",
+      "description": "",
+      "logo": "https://i.imgur.com/YQvLPT1.png",
+      "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "489",
+      "name": "3Cat Exclusiu 2",
+      "description": "",
+      "logo": "https://i.imgur.com/YQvLPT1.png",
+      "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "490",
+      "name": "3Cat Exclusiu 3",
+      "description": "",
+      "logo": "https://i.imgur.com/YQvLPT1.png",
+      "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "491",
+      "name": "3CatInfo",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "492",
+      "name": "101tv Malaga",
+      "description": "",
+      "logo": "https://i.imgur.com/GzI3RC4.png",
+      "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://player.instantvideocloud.net/",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "493",
+      "name": "Actualidad 360",
+      "description": "",
+      "logo": "https://i.imgur.com/3YeTu0n.png",
+      "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "494",
+      "name": "Barca TV",
+      "description": "",
+      "logo": "https://i.imgur.com/d8x7c8i.png",
+      "url": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "495",
+      "name": "BDNCOM",
+      "description": "",
+      "logo": "https://i.imgur.com/ktasO33.png",
+      "url": "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "496",
+      "name": "Canal 1 Mar Menor-Torre Pacheco",
+      "description": "",
+      "logo": "https://i.imgur.com/MQOwCdZ.png",
+      "url": "https://directo.tuwebtv.es/canal1.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://directo.tuwebtv.es/canal1.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "General;News"
+    },
+    {
+      "id": "497",
+      "name": "Canal 24 Horas",
+      "description": "",
+      "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+      "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+        },
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "498",
+      "name": "Canal 24 Horas Canarias",
+      "description": "",
+      "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+      "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "499",
+      "name": "Canal 24 Horas Catalunya",
+      "description": "",
+      "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+      "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "500",
+      "name": "Canal Sur Noticias",
+      "description": "",
+      "logo": "https://i.imgur.com/A3JscwS.png",
+      "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Public"
+    },
+    {
+      "id": "501",
+      "name": "Esport3",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
+        },
+        {
+          "label": "Server 1",
+          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Public;Sports"
+    },
+    {
+      "id": "502",
+      "name": "FIFA+ Spain",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "503",
+      "name": "Gol Classics",
+      "description": "",
+      "logo": "https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",
+      "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "504",
+      "name": "M95 Televisión Marbella",
+      "description": "",
+      "logo": "https://i.imgur.com/RzAkP1V.png",
+      "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "505",
+      "name": "Mírame TV",
+      "description": "",
+      "logo": "https://i.imgur.com/LK4pLgT.png",
+      "url": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "506",
+      "name": "Olympic Channel",
+      "description": "",
+      "logo": "https://i.imgur.com/wPQVVtj.png",
+      "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "507",
+      "name": "Onda 15 TV",
+      "description": "",
+      "logo": "https://i.imgur.com/mUrZz9O.png",
+      "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Music;News"
+    },
+    {
+      "id": "508",
+      "name": "Onda Valencia",
+      "description": "",
+      "logo": "https://i.imgur.com/6HxLUQd.png",
+      "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Music;News"
+    },
+    {
+      "id": "509",
+      "name": "Realmadrid TV",
+      "description": "",
+      "logo": "https://i.imgur.com/5pMo7dL.png",
+      "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "510",
+      "name": "Red Bull TV ES",
+      "description": "",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
+      "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Outdoor;Sports"
+    },
+    {
+      "id": "511",
+      "name": "RNE para todos",
+      "description": "",
+      "logo": "https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://ztnr.rtve.es/ztnr/6688753.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "General"
+    },
+    {
+      "id": "512",
+      "name": "RT en Español",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
+      "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "https://odysee.com/",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "513",
+      "name": "Teledeporte",
+      "description": "",
+      "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+      "url": "http://92.176.119.180:2095/play/a16t",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://92.176.119.180:2095/play/a16t"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "514",
+      "name": "Art Sport 1",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
+      "url": "http://169.150.223.25/ArtSport1HD/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ArtSport1HD/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "515",
+      "name": "Art Sport 2",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
+      "url": "http://169.150.223.25/ArtSport2/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ArtSport2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "516",
+      "name": "Art Sport 3",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
+      "url": "http://169.150.223.25/ArtSport3/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ArtSport3/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "517",
+      "name": "Art Sport 4",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
+      "url": "http://169.150.223.25/ArtSport4/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ArtSport4/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "518",
+      "name": "Art Sport 5",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
+      "url": "http://169.150.223.25/ArtSport5/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ArtSport5/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "519",
+      "name": "Art Sport 6",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
+      "url": "http://169.150.223.25/ArtSport6/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://169.150.223.25/ArtSport6/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "520",
+      "name": "Sportdigital",
+      "description": "",
+      "logo": "https://i.imgur.com/NDbWxqF.png",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "521",
+      "name": "CBS SPORTS HQ",
+      "description": "",
+      "logo": "https://i1.sndcdn.com/artworks-000367577007-ikrm5a-t500x500.jpg",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y8csztrnlv/out/v1/e48799ec18b041eabdb969bcc780360a/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y8csztrnlv/out/v1/e48799ec18b041eabdb969bcc780360a/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "38860f7afdae191a91be6ec3de367010:9beffbfff68efb289f2a556070057a7e",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "522",
+      "name": "Adventure Sports TV",
+      "description": "",
+      "logo": "https://i.imgur.com/9oyc88J.png",
+      "url": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "523",
+      "name": "Altitude Sports",
+      "description": "",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png",
+      "url": "http://mytvstream.net:8080/live/bn80NG/909467/79545.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://mytvstream.net:8080/live/bn80NG/909467/79545.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "524",
+      "name": "Revry News",
+      "description": "",
+      "logo": "https://i.imgur.com/lKMYCkb.png",
+      "url": "https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://linear-44.frequency.stream/dist/24i/44/hls/master/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "525",
+      "name": "USA TODAY",
+      "description": "",
+      "logo": "https://i.ibb.co/nDJHCWt/Usatod.png",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://lnc-usa-today.tubi.video/playlist.m3u8"
+        },
+        {
+          "label": "Stream 3",
+          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "526",
+      "name": "Vice News",
+      "description": "",
+      "logo": "https://i.imgur.com/QWPJQnr.png",
+      "url": "https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "527",
+      "name": "Eleven Sports 2 PL",
+      "description": "",
+      "logo": "https://i.imgur.com/bTIRgqG.png",
+      "url": "http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/665105.ts",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/665105.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "528",
+      "name": "Eleven Sports 3 PL",
+      "description": "",
+      "logo": "https://i.imgur.com/bWjGol4.png",
+      "url": "http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/665104.ts",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/665104.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "529",
+      "name": "Eleven Sports 4 PL",
+      "description": "",
+      "logo": "https://i.imgur.com/SEKXaAW.png",
+      "url": "http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/665103.ts",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://power4kiptv.info:8080/live/Salvatoremannaro/mchSvuZeTt/665103.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "530",
+      "name": "talkSPORT",
+      "description": "",
+      "logo": "https://i.postimg.cc/G2n8bztd/talksport.png",
+      "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "531",
+      "name": "Alanya Posta TV",
+      "description": "",
+      "logo": "https://i.imgur.com/a3w9eFe.png",
+      "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "532",
+      "name": "Deniz Postası TV",
+      "description": "",
+      "logo": "https://i.imgur.com/Mm8hdfx.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "533",
+      "name": "Stingray Today's Latin Pop",
+      "description": "",
+      "logo": "https://i.imgur.com/Os3kRRP.png",
+      "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "534",
+      "name": "Today's Shopping Choice",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/512px-TSC_logo.svg.png",
+      "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "535",
+      "name": "Sony Sports Ten 2",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
+      "url": "http://66.102.120.18:8000/play/a01y/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://66.102.120.18:8000/play/a01y/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "536",
+      "name": "Sony Sports Ten 5",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+      "url": "http://66.102.120.18:8000/play/a010/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://66.102.120.18:8000/play/a010/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "537",
+      "name": "Star Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/E5jjKHI.png",
+      "url": "http://103.157.248.140:8000/play/a00g/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://103.157.248.140:8000/play/a00g/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "538",
+      "name": "Star Sports 2",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+      "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "539",
+      "name": "Star Sports 2 Hindi",
+      "description": "",
+      "logo": "https://i.imgur.com/kHerF19.png",
+      "url": "http://103.167.255.18:8085/play/a0kl/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://103.167.255.18:8085/play/a0kl/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "540",
+      "name": "Star Sports 3",
+      "description": "",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
+      "url": "http://103.167.255.18:8085/play/a0jm/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://103.167.255.18:8085/play/a0jm/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "541",
+      "name": "24/7 Canal de Noticias",
+      "description": "",
+      "logo": "https://i.imgur.com/4hDCB1M.png",
+      "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "542",
+      "name": "A24",
+      "description": "",
+      "logo": "https://i.imgur.com/LnXQkIU.png",
+      "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "543",
+      "name": "ATV Argentina",
+      "description": "",
+      "logo": "https://i.ibb.co/rMBVDmZ/atvargentina-x1.png",
+      "url": "https://tv.streaming.com.bo/atvargentina/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://tv.streaming.com.bo/atvargentina/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "544",
+      "name": "Canal 26",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "545",
+      "name": "Canal E",
+      "description": "",
+      "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
+      "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Business;News"
+    },
+    {
+      "id": "546",
+      "name": "Catamarca TV",
+      "description": "",
+      "logo": "https://i.imgur.com/CEuPoqG.png",
+      "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Culture;News"
+    },
+    {
+      "id": "547",
+      "name": "DirecTV Sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "548",
+      "name": "FIFA+ Hispanic America",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "url": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "549",
+      "name": "Multivision Federal",
+      "description": "",
+      "logo": "https://i.imgur.com/jX0lqy3.png",
+      "url": "https://panel.host-live.com:19360/8250/8250.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://panel.host-live.com:19360/8250/8250.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "550",
+      "name": "TN",
+      "description": "",
+      "logo": "https://i.imgur.com/vFwPhPS.png",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "551",
+      "name": "TyC Sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+      "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "552",
+      "name": "Premiere Sports 1",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "553",
+      "name": "Premiere Sports 2",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "554",
+      "name": "Premiere Sports 3",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "555",
+      "name": "Premiere Sports 4",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "556",
+      "name": "Premiere Sports 5",
+      "description": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "557",
+      "name": "Eleven Sports 1 PL",
+      "description": "",
+      "logo": "https://i.imgur.com/bTIRgqG.png",
+      "url": "http://192.168.100.9:8001/1:0:19:1:1:0:DCA2DA0:0:0:0:",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "http://192.168.100.9:8001/1:0:19:1:1:0:DCA2DA0:0:0:0:"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "558",
+      "name": "EURONEWS PL",
+      "description": "",
+      "logo": "https://i.ibb.co/VxLFYSj/euronews.png",
+      "url": "https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "559",
+      "name": "TVP Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/JUZDOCO.png",
+      "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "560",
+      "name": "ERT News HD",
+      "description": "",
+      "logo": "https://i.imgur.com/HXbsPfB.png",
+      "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "561",
+      "name": "Prima Sport 1",
+      "description": "",
+      "logo": "https://logo.m3uassets.com/primasport1.png",
+      "url": "https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+      "referer": "https://canale-tv.com/",
+      "clear_key": "",
+      "category": "Romania Sports"
+    },
+    {
+      "id": "562",
+      "name": "Prima Sport 2",
+      "description": "",
+      "logo": "https://logo.m3uassets.com/primasport2.png",
+      "url": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+      "referer": "https://canale-tv.com/",
+      "clear_key": "",
+      "category": "Romania Sports"
+    },
+    {
+      "id": "563",
+      "name": "Prima Sport 3",
+      "description": "",
+      "logo": "https://logo.m3uassets.com/primasport3.png",
+      "url": "https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+      "referer": "https://canale-tv.com/",
+      "clear_key": "",
+      "category": "Romania Sports"
+    },
+    {
+      "id": "564",
+      "name": "Eurosport 1",
+      "description": "",
+      "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",
+      "url": "https://stm.linkip.org/live/787_.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://stm.linkip.org/live/787_.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "565",
+      "name": "BFM2",
+      "description": "",
+      "logo": "https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg",
+      "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "566",
+      "name": "BFM Business",
+      "description": "",
+      "logo": "https://i.imgur.com/psqIHn4.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "Business;News"
+    },
+    {
+      "id": "567",
+      "name": "BFM DICI Alpes du Sud",
+      "description": "",
+      "logo": "https://i.imgur.com/bV77l68.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "568",
+      "name": "BFM DICI Haute-Provence",
+      "description": "",
+      "logo": "https://i.imgur.com/bV77l68.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "569",
+      "name": "BFM Grand Lille",
+      "description": "",
+      "logo": "https://i.imgur.com/HE5xP0r.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "570",
+      "name": "BFM Grand Littoral",
+      "description": "",
+      "logo": "https://i.imgur.com/j7F9MwH.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "571",
+      "name": "BFM Lyon",
+      "description": "",
+      "logo": "https://i.imgur.com/0uiiZRo.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "572",
+      "name": "BFM Marseille",
+      "description": "",
+      "logo": "https://i.imgur.com/h7t0l6q.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "573",
+      "name": "BFM Nice Côte d'Azur",
+      "description": "",
+      "logo": "https://i.imgur.com/iiVFvIw.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "574",
+      "name": "BFM Normandie",
+      "description": "",
+      "logo": "https://i.imgur.com/WWWQ44G.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "575",
+      "name": "BFM Tech & Co",
+      "description": "",
+      "logo": "https://i.imgur.com/FQ0FpXV.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News;Science"
+    },
+    {
+      "id": "576",
+      "name": "BFM Toulon Var",
+      "description": "",
+      "logo": "https://i.imgur.com/vp1oVj3.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "577",
+      "name": "BFM TV",
+      "description": "",
+      "logo": "https://i.imgur.com/YJCcczD.png",
+      "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "578",
+      "name": "CNews",
+      "description": "",
+      "logo": "https://i.imgur.com/sSNhk2g.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "579",
+      "name": "Equidia",
+      "description": "",
+      "logo": "https://i.imgur.com/QPpbRcZ.png",
+      "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "580",
+      "name": "Euronews French",
+      "description": "",
+      "logo": "https://i.imgur.com/8t9mdg9.png",
+      "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "581",
+      "name": "Euronews French HD",
+      "description": "",
+      "logo": "https://i.imgur.com/8t9mdg9.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "582",
+      "name": "FIFA+ French",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "583",
+      "name": "France 24 French",
+      "description": "",
+      "logo": "https://i.imgur.com/u8N6uoj.png",
+      "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "584",
+      "name": "Franceinfo",
+      "description": "",
+      "logo": "https://i.imgur.com/eITXz6A.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "585",
+      "name": "KOZOOM TV",
+      "description": "",
+      "logo": "https://i.imgur.com/M1Ee79b.png",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "586",
+      "name": "L'Equipe",
+      "description": "",
+      "logo": "https://i.imgur.com/t35zhM9.png",
+      "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "587",
+      "name": "LCI HD",
+      "description": "",
+      "logo": "https://i.imgur.com/DED8EXs.png",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "588",
+      "name": "Le Media TV",
+      "description": "",
+      "logo": "https://i.imgur.com/OK20oyl.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "589",
+      "name": "Lyon Capitale TV",
+      "description": "",
+      "logo": "https://i.imgur.com/4WfnEaj.png",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "590",
+      "name": "RT France",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+      "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "591",
+      "name": "Trace Sport Stars",
+      "description": "",
+      "logo": "https://i.imgur.com/FabFP5A.png",
+      "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "592",
+      "name": "TV5Monde Info",
+      "description": "",
+      "logo": "https://i.imgur.com/AJx5Fy2.png",
+      "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "News"
+    },
+    {
+      "id": "593",
+      "name": "sky sports bundesliga test",
+      "description": "",
+      "logo": "",
+      "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "594",
+      "name": "Nova Sports 1 SK",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "595",
+      "name": "Dubai Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/Poxw8lG.png",
+      "url": "https://link.theplatform.eu/s/dmimain/media/dmi-prod-live-media-dubaisports1",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://link.theplatform.eu/s/dmimain/media/dmi-prod-live-media-dubaisports1"
+        }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "referer": "https://www.dubaiplus.net/",
+      "clear_key": "a43ef7e1c845375f878a24b495fbc67f:d5e70ab17dc3a56a3169af24fd09778e",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "596",
+      "name": "Dubai Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/Poxw8lG.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "597",
+      "name": "LIBYA SPORT 1 HD",
+      "description": "",
+      "logo": "https://i.imgur.com/8pPhlQr.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "598",
+      "name": "Persiana Sports",
+      "description": "",
+      "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
+      "url": "https://spstr.abntv.live/hls/psstream.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://spstr.abntv.live/hls/psstream.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "599",
+      "name": "Sharjah Sport 2",
+      "description": "",
+      "logo": "https://i.imgur.com/CsEElsJ.png",
+      "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts",
+      "qualities": [
+        {
+          "label": "Fallback",
+          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
     }
   ]
 }
