@@ -1,5 +1,5 @@
 {
-  "version": "11.0",
+  "version": "11.1",
   "channels": [
     {
       "id": "1",
@@ -1145,6 +1145,10 @@
           "url": "http://fastshare1.com/live/kathiriya4300/kathiriya4300@123/744523.ts"
         },
         {
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax1.m3u8"
+        },
+        {
           "label": "SHN",
           "url": "https://cdn.karwan.tv/shna-tv-3/index.m3u8"
         },
@@ -1236,6 +1240,10 @@
         {
           "label": "CC Multi",
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx2.m3u8"
+        },
+        {
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax2.m3u8"
         },
         {
           "label": "YCN SD",
@@ -2043,26 +2051,26 @@
       "name": "DAZN Mundial 1",
       "description": "",
       "logo": "https://i.imgur.com/xzDssLU.png",
-      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm1.m3u8",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
       "qualities": [
         {
           "label": "Server 5",
-          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm1.m3u8"
+          "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
         },
         {
           "label": "Server 3",
           "url": "https://stm.linkip.org/live/588_.m3u8"
         },
         {
-          "label": "Server 4",
-          "url": "https://stream4.oz-tv.store/es_dazn_mundial_fhd/index.m3u8"
+          "label": "Server 6",
+          "url": "https://tmaxapp.site/daznlaliga.m3u8"
         },
         {
           "label": "Server 2",
           "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/243"
         },
         {
-          "label": "Server 2",
+          "label": "Server W",
           "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/244"
         }
       ],
@@ -11528,6 +11536,43 @@
       "referer": "",
       "clear_key": "",
       "category": "reezntv.com"
+    },
+    {
+      "id": "600",
+      "name": "beIN SPORTS 1 HD",
+      "description": "",
+      "logo": "https://i.imgur.com/Vtk2cGI.png",
+      "url": "http://h42.reelpush.online/live/918454578001/index.m3u8",
+      "qualities": [
+        {
+          "label": "reelpush",
+          "url": "http://h42.reelpush.online/live/918454578001/index.m3u8"
+        },
+        {
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b1_480.m3u8"
+        },
+        {
+          "label": "PUB",
+          "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8"
+        },
+        {
+          "label": "Stream 8",
+          "url": "https://husa.wizgan2013.workers.dev?id=1424"
+        },
+        {
+          "label": "Earthlink",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "http://194.76.0.163:80/gshAXQ2fQa/NZP6JGIxJO//652310?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "beIN Sports"
     }
   ]
 }
