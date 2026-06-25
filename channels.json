@@ -1,5 +1,5 @@
 {
-  "version": "11.1",
+  "version": "8.0",
   "channels": [
     {
       "id": "1",
@@ -43,8 +43,12 @@
       "name": "beIN Sports 2",
       "description": "بث مباشر للمباريات",
       "logo": "https://i.imgur.com/vUJZSvs.png",
-      "url": "http://h42.reelpush.online/live/69854211/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_2_4k",
       "qualities": [
+        {
+          "label": "Server 6",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_2_4k"
+        },
         {
           "label": "reelpush",
           "url": "http://h42.reelpush.online/live/69854211/index.m3u8"
@@ -76,9 +80,13 @@
       "name": "beIN Sports 3",
       "description": "بين سبورت فقط للايرثلنك",
       "logo": "https://i.imgur.com/UYSMao3.png",
-      "url": "http://h42.reelpush.online/live/645587700/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_3_4k",
       "category": "ايرثلنك",
       "qualities": [
+        {
+          "label": "Server 6",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_3_4k"
+        },
         {
           "label": "reelpush",
           "url": "http://h42.reelpush.online/live/645587700/index.m3u8"
@@ -109,9 +117,13 @@
       "name": "beIN Sports 4",
       "description": "بين سبورت فقط للايرثلنك",
       "logo": "https://i.imgur.com/vwAgJNi.png",
-      "url": "http://h42.reelpush.online/live/9787488847/index.m3u8",
+      "url": "https://stm.linkip.org/live/1961_.m3u8",
       "category": "ايرثلنك",
       "qualities": [
+        {
+          "label": "Server 6",
+          "url": "https://stm.linkip.org/live/1961_.m3u8"
+        },
         {
           "label": "reelpush",
           "url": "http://h42.reelpush.online/live/9787488847/index.m3u8"
@@ -428,8 +440,12 @@
       "name": "beIN SPORTS 5",
       "description": "",
       "logo": "https://i.imgur.com/2Rha5aY.png",
-      "url": "http://h42.reelpush.online/live/610303030/index.m3u8",
+      "url": "https://stm.linkip.org/live/1960_.m3u8",
       "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://stm.linkip.org/live/1960_.m3u8"
+        },
         {
           "label": "reelpush",
           "url": "http://h42.reelpush.online/live/610303030/index.m3u8"
@@ -457,8 +473,12 @@
       "name": "beIN SPORTS 6",
       "description": "",
       "logo": "https://i.imgur.com/0wBdLYb.png",
-      "url": "http://h42.reelpush.online/live/1515000000/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_6_4k",
       "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_6_4k"
+        },
         {
           "label": "reelpush",
           "url": "http://h42.reelpush.online/live/1515000000/index.m3u8"
@@ -486,15 +506,15 @@
       "name": "beIN SPORTS 7",
       "description": "",
       "logo": "https://i.imgur.com/iODFwZi.png",
-      "url": "https://reezzzn.staticdev9.workers.dev/b7.m3u8",
+      "url": "https://stm.linkip.org/live/1958_.m3u8",
       "qualities": [
-        {
-          "label": "G SD",
-          "url": "https://reezzzn.staticdev9.workers.dev/b7.m3u8"
-        },
         {
           "label": "Server 9",
           "url": "https://stm.linkip.org/live/1958_.m3u8"
+        },
+        {
+          "label": "G SD",
+          "url": "https://reezzzn.staticdev9.workers.dev/b7.m3u8"
         },
         {
           "label": "reelpush",
@@ -519,15 +539,19 @@
       "name": "beIN SPORTS 8",
       "description": "",
       "logo": "https://i.imgur.com/CaFEyVn.png",
-      "url": "https://reezzzn.staticdev9.workers.dev/b8.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_8_4k",
       "qualities": [
+        {
+          "label": "Server 5",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_8_4k"
+        },
+        {
+          "label": "Server stm",
+          "url": "https://stm.linkip.org/live/1967_.m3u8"
+        },
         {
           "label": "Server 4",
           "url": "https://reezzzn.staticdev9.workers.dev/b8.m3u8"
-        },
-        {
-          "label": "Server 5",
-          "url": "https://stm.linkip.org/live/1967_.m3u8"
         },
         {
           "label": "Server 4",
@@ -548,11 +572,11 @@
       "name": "beIN SPORTS 9",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
-      "url": "https://reezzzn.staticdev9.workers.dev/b9.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_1_4k",
       "qualities": [
         {
-          "label": "G SD",
-          "url": "https://reezzzn.staticdev9.workers.dev/b9.m3u8"
+          "label": "stream 1",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_1_4k"
         },
         {
           "label": "Server 3",
@@ -662,8 +686,12 @@
       "name": "beIN SPORTS 1 France",
       "description": "",
       "logo": "https://i.imgur.com/Vtk2cGI.png",
-      "url": "http://99.27.51.147:8080/BeinSport/index.m3u8",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
       "qualities": [
+        {
+          "label": "Server 3",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+        },
         {
           "label": "Stream 1",
           "url": "http://99.27.51.147:8080/BeinSport/index.m3u8"
@@ -671,10 +699,6 @@
         {
           "label": "Server 3",
           "url": "https://stm.linkip.org/live/795_.m3u8"
-        },
-        {
-          "label": "Server 3",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
         }
       ],
       "user_agent": "",
@@ -1109,48 +1133,28 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_sd"
         },
         {
-          "label": "ON MULTi 2",
-          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8"
-        },
-        {
-          "label": "ON MULTI",
-          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8"
-        },
-        {
-          "label": "Ostora FHD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158558/cat/7225/index.m3u8"
-        },
-        {
-          "label": "Ostora SD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158570/cat/7223/index.m3u8"
-        },
-        {
           "label": "CC Multi",
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx1.m3u8"
-        },
-        {
-          "label": "MULTI blue",
-          "url": "https://bluesport.live/live/blue_sport_1/index.m3u8"
-        },
-        {
-          "label": "post",
-          "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
-        },
-        {
-          "label": "ON HD2",
-          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8"
-        },
-        {
-          "label": "Server 12",
-          "url": "http://fastshare1.com/live/kathiriya4300/kathiriya4300@123/744523.ts"
         },
         {
           "label": "FULL HD",
           "url": "https://tmaxapp.site/beinmax1.m3u8"
         },
         {
-          "label": "SHN",
-          "url": "https://cdn.karwan.tv/shna-tv-3/index.m3u8"
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax14k.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax1fhd.ts"
+        },
+        {
+          "label": "RZN FHD",
+          "url": "http://e17.bvrdtsrg.com:8080/play/live/F9E9EC1F17500E92.m3u8?sub=false&ver=d000%3Ac022&last=MhdTbVxDHLK3yKyIOwTox5NoWh3Eh1fj-jWMvTS6V28&def=0&sign=WIXc0IDGj1I342AJApZRLg&px=false&pid=&type=1&token=_NAvVMYxEe5bESCRpIgP83gPyDwt9PwOhGMnaBC7HO7vLORQdqRrGvb8IWAlbBKyJwz_IvM7qhKTRzuPaWD9JDu1OpPoDOVRnyt5cghiM8iGXCUcbGW7Tg3ROcvaTjaoZ42WNk-HQZ9axB4HrAdfuYn9hHmdWVyGeOTIPMtMUh0q1MC2S6_tH185-rMbyWXYVy4GRtGBch7ALEjqU0JNXg&uid=808444553147FFC1&client=newaaa&id=p1k_5K11AUHqfc_cVKPjXJHnVyEHpg9t44o7WcW3xWc&mk=1782206411"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1957_.m3u8"
         },
         {
           "label": "Server 15",
@@ -1165,7 +1169,7 @@
           "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744523"
         },
         {
-          "label": "Server 28",
+          "label": "avr stream",
           "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8"
         },
         {
@@ -1173,24 +1177,32 @@
           "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
         },
         {
-          "label": "Server 25",
-          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744523.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax14k.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax1fhd.ts"
-        },
-        {
-          "label": "tv123",
-          "url": "https://tv123.cc.cd/live.php?ch=5fca15b21355"
-        },
-        {
           "label": "Server 24",
           "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357"
+        },
+        {
+          "label": "Yalla",
+          "url": "https://cdn.worldo2.xyz/hls/master.m3u8"
+        },
+        {
+          "label": "TOD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=tod_hdr"
+        },
+        {
+          "label": "NEO O",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k_or"
+        },
+        {
+          "label": "NEO F",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_1_4k_f"
+        },
+        {
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/707929"
+        },
+        {
+          "label": "WATCH C",
+          "url": "http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1944369.m3u8"
         }
       ],
       "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
@@ -1222,36 +1234,32 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_2_sd"
         },
         {
-          "label": "ON MULTI",
-          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8"
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax24k.ts"
         },
         {
-          "label": "ON MULTi 2",
-          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8"
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax2fhd.ts"
         },
         {
-          "label": "Ostora FHD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158559/cat/7225/index.m3u8"
+          "label": "FULL HD 2",
+          "url": "https://tmaxapp.site/beinmax2.m3u8"
         },
         {
-          "label": "Ostora SD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158571/cat/7223/index.m3u8"
+          "label": "RZN FHD",
+          "url": "http://e17.bvrdtsrg.com:8080/play/live/86C73B18D5AB035E.m3u8?sub=false&ver=d000%3Ac022&last=AyrayS9s0nhX5f2dSEyJl98S5JZckKR_u3vg415FjG8&def=0&sign=nb_CQ5BmkJukMiClnXgrWw&px=false&pid=&type=1&token=2At0OFJlp_m8ZlYCSSabT36U2wupH0Z185CGZFMg97cywJdtoRA5kG7GS8o8HfMicVqVncyQkyLvRfDBqixS2crqSxoZWElhVCfFjOSBbyQDpgl-8WfEMnGXiO-BCkZMU6JYYYHmVVojDRIX6FMkf17KCQ0rAafqmZ0RBL1HEyVVaw3h7ht91qt7avg6MVZb4tyxoNivHxxsjd7FFjMxIg&uid=808444553147FFC1&client=newaaa&id=4Iy-Nvqx7jaWpMQO-DURDSifgv2g22M5zwCgQPpg6C4&mk=1782208040"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1956_.m3u8"
         },
         {
           "label": "CC Multi",
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx2.m3u8"
         },
         {
-          "label": "FULL HD",
-          "url": "https://tmaxapp.site/beinmax2.m3u8"
-        },
-        {
           "label": "YCN SD",
           "url": "http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=jk7tHjW7oa-BUuuZm6IG5g&e=1781923878"
-        },
-        {
-          "label": "post",
-          "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
         },
         {
           "label": "Server 13",
@@ -1262,14 +1270,6 @@
           "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
         },
         {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax24k.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax2fhd.ts"
-        },
-        {
           "label": "Server 18",
           "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744524.ts"
         },
@@ -1278,7 +1278,7 @@
           "url": "https://tv123.cc.cd/live.php?ch=07eb6aa21356"
         },
         {
-          "label": "Server 18",
+          "label": "Server 16",
           "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944358"
         }
       ],
@@ -1311,20 +1311,8 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_3_sd"
         },
         {
-          "label": "Ostora FHD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158560/cat/7225/index.m3u8"
-        },
-        {
-          "label": "Ostora SD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158572/cat/7223/index.m3u8"
-        },
-        {
-          "label": "CC Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx3.m3u8"
-        },
-        {
-          "label": "Server 7",
-          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744525.ts"
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax3.m3u8"
         },
         {
           "label": "alpha 4k",
@@ -1335,8 +1323,28 @@
           "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax3fhd.ts"
         },
         {
+          "label": "RZN FHD",
+          "url": "http://edge-eu113178.logicyel.com:8080/play/live/B744E5BEE4865E3F.m3u8?sub=false&ver=d000%3Ac022&last=_eSaju6O8F014IH5jr-Txj39sWa79qlHqtNHvpfS6ts&def=0&sign=fHK1W5pNBMCrr4UvCWwjNA&px=true&pid=&type=1&token=2At0OFJlp_m8ZlYCSSabT36U2wupH0Z185CGZFMg97cywJdtoRA5kG7GS8o8HfMicVqVncyQkyLvRfDBqixS2crqSxoZWElhVCfFjOSBbyQDpgl-8WfEMnGXiO-BCkZMU6JYYYHmVVojDRIX6FMkf17KCQ0rAafqmZ0RBL1HEyVVaw3h7ht91qt7avg6MVZb4tyxoNivHxxsjd7FFjMxIg&uid=808444553147FFC1&client=newaaa&id=tl08RH6dMC86P2GHeVGK4dzWMmsQ6gVW18NKLRLZdDc&mk=1782208252"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1965_.m3u8"
+        },
+        {
+          "label": "CC Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx3.m3u8"
+        },
+        {
+          "label": "Server 7",
+          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744525.ts"
+        },
+        {
           "label": "Server 12",
           "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944359"
+        },
+        {
+          "label": "Server 14",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835135"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1368,16 +1376,24 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=beIN_MAX_4_sd."
         },
         {
-          "label": "ON HD",
-          "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/max4.m3u8"
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax44k.ts"
         },
         {
-          "label": "Ostora FHD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158561/cat/7225/index.m3u8"
+          "label": "alpha hd",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax4fhd.ts"
         },
         {
-          "label": "Ostora SD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158573/cat/7223/index.m3u8"
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax4.m3u8"
+        },
+        {
+          "label": "RZN FHD",
+          "url": "http://edge-eu113178.logicyel.com:8080/play/live/403330DC5E05417C.m3u8?sub=false&ver=d000%3Ac022&last=tl08RH6dMC86P2GHeVGK4dzWMmsQ6gVW18NKLRLZdDc&def=0&sign=cZCtnRy1pfmFtygput4mrw&px=true&pid=&type=1&token=2At0OFJlp_m8ZlYCSSabT36U2wupH0Z185CGZFMg97cywJdtoRA5kG7GS8o8HfMicVqVncyQkyLvRfDBqixS2crqSxoZWElhVCfFjOSBbyQDpgl-8WfEMnGXiO-BCkZMU6JYYYHmVVojDRIX6FMkf17KCQ0rAafqmZ0RBL1HEyVVaw3h7ht91qt7avg6MVZb4tyxoNivHxxsjd7FFjMxIg&uid=808444553147FFC1&client=newaaa&id=7d9N6yJ00pT-PirzrIlqivtfOOvDM9XzlrZMESvuuj0&mk=1782208473"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1966_.m3u8"
         },
         {
           "label": "CC Multi",
@@ -1389,23 +1405,23 @@
         },
         {
           "label": "YCN MULTI",
-          "url": "http://het4444.ycn-redirect.com/live/lb2/bm4-multi.m3u8"
+          "url": "http'://het4444.ycn-redirect.com/live/lb2/bm4-multi.m3u8"
         },
         {
           "label": "Server 8",
           "url": "https://stream.camcloud.stream/stream/0bbaffb363b7/playlist.m3u8"
         },
         {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax44k.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax4fhd.ts"
-        },
-        {
           "label": "tv123",
           "url": "https://tv123.cc.cd/live.php?ch=49ff57ac1358"
+        },
+        {
+          "label": "Server 13",
+          "url": "https://husa.wizgan2013.workers.dev?id=1424"
+        },
+        {
+          "label": "Server 16",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835134"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1425,24 +1441,28 @@
           "url": "http://h42.reelpush.online/live/69854211/index.m3u8"
         },
         {
-          "label": "Ostora FHD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158562/cat/7225/index.m3u8"
+          "label": "RZN ALPHA",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax54k.ts"
         },
         {
-          "label": "Ostora SD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/stream_info.php?id=158574&cat=7223"
+          "label": "ALPHA HD",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax5hd.ts"
+        },
+        {
+          "label": "ALPHA SD",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax5sd.ts"
         },
         {
           "label": "Server 4",
           "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744527.ts"
         },
         {
-          "label": "RZN ALPHA",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax54k.ts"
-        },
-        {
           "label": "tv123",
           "url": "https://tv123.cc.cd/live.php?ch=3643b1631359"
+        },
+        {
+          "label": "Server 7",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835132"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1462,24 +1482,28 @@
           "url": "http://h42.reelpush.online/live/645587700/index.m3u8"
         },
         {
-          "label": "Ostora FHD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158563/cat/7225/index.m3u8"
+          "label": "RZN ALPHA",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax64k.ts"
         },
         {
-          "label": "Ostora SD",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/158575/cat/7223/index.m3u8"
+          "label": "ALPHA HD",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax6hd.ts"
+        },
+        {
+          "label": "ALPHA SD",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax6sd.ts"
         },
         {
           "label": "Server 4",
           "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744528.ts"
         },
         {
-          "label": "RZN ALPHA",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax64k.ts"
-        },
-        {
           "label": "tv123",
           "url": "https://tv123.cc.cd/live.php?ch=671d941a1360"
+        },
+        {
+          "label": "Server 7",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835131"
         }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -1495,24 +1519,32 @@
       "url": "http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts",
       "qualities": [
         {
-          "label": "Server 6",
+          "label": "Server 1",
           "url": "http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts"
         },
         {
-          "label": "Server s",
+          "label": "Server 2",
+          "url": "https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://www.r56mail.bingo:80/xasez13/aHnr65d/104974"
+        },
+        {
+          "label": "TOD",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=tod_hdr"
+        },
+        {
+          "label": "Server 4",
           "url": "http://asmr4k.pro/live/05347247405/3100934708/1246130.ts"
         },
         {
           "label": "Server 5",
-          "url": "https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8"
+          "url": "http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950411"
         },
         {
           "label": "irib4K",
           "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
-        },
-        {
-          "label": "Server 5",
-          "url": "http://www.r56mail.bingo:80/xasez13/aHnr65d/104974"
         }
       ],
       "user_agent": "",
@@ -2039,6 +2071,10 @@
         {
           "label": "Server 1",
           "url": "https://mngbcg.b-cdn.net/iTV/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://tmaxapp.site/itv1.m3u8"
         }
       ],
       "user_agent": "",
@@ -2203,16 +2239,16 @@
       "name": "FUSSBALL 4K - 1",
       "description": "",
       "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
-      "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+      "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd"
+          "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd"
         }
       ],
       "user_agent": "",
       "referer": "",
-      "clear_key": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+      "clear_key": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
       "category": "كاس العالم"
     },
     {
@@ -2220,16 +2256,16 @@
       "name": "FUSSBALL 4K - 2",
       "description": "",
       "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
-      "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+      "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd"
+          "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd"
         }
       ],
       "user_agent": "",
       "referer": "",
-      "clear_key": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+      "clear_key": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
       "category": "كاس العالم"
     },
     {
@@ -2259,6 +2295,10 @@
         {
           "label": "Server 1",
           "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
         },
         {
           "label": "Server 2",
@@ -2482,11 +2522,11 @@
       "name": "Baraem",
       "description": "",
       "logo": "https://i.imgur.com/7woV4Cz.png",
-      "url": "http://apk.arabic-ch.space/live/070/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_baraeam_4k",
       "qualities": [
         {
           "label": "HD",
-          "url": "http://apk.arabic-ch.space/live/070/index.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_baraeam_4k"
         },
         {
           "label": "Server 2",
@@ -2520,11 +2560,11 @@
       "name": "beIN DRAMA 1",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",
-      "url": "http://apk.arabic-ch.space/live/072/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_drama_4k",
       "qualities": [
         {
-          "label": "Fallback",
-          "url": "http://apk.arabic-ch.space/live/072/index.m3u8"
+          "label": "Server 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_drama_4k"
         },
         {
           "label": "Apollo",
@@ -2541,15 +2581,11 @@
       "name": "beIN GOURMET",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319683",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_gourmet_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319683"
-        },
-        {
-          "label": "Fallback",
-          "url": "http://apk.arabic-ch.space/live/074/index.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_gourmet_hd"
         }
       ],
       "user_agent": "",
@@ -2562,11 +2598,11 @@
       "name": "beIN MOVIES 1 PREMIERE",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319672",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_1_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319672"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_1_hd"
         },
         {
           "label": "Fallback",
@@ -2583,11 +2619,11 @@
       "name": "beIN MOVIES 2 ACTION",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319673",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_2_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319673"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_2_hd"
         },
         {
           "label": "Fallback",
@@ -2604,11 +2640,11 @@
       "name": "beIN MOVIES 3 DRAMA",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319674'",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_3_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319674'"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_3_hd"
         },
         {
           "label": "Fallback",
@@ -2625,11 +2661,11 @@
       "name": "beIN MOVIES 4 FAMILY",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319675",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_4_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319675"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_movies_4_hd"
         },
         {
           "label": "Fallback",
@@ -2646,11 +2682,11 @@
       "name": "beIN SERIES 1",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Series_HD1.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319676",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_series_1_hd",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319676"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_series_1_hd"
         },
         {
           "label": "Fallback",
@@ -2667,15 +2703,11 @@
       "name": "beIN SERIES 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png",
-      "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319677",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_series_2_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "http://185.191.126.127:8080/%204750034742512197/3177932697568638/319677"
-        },
-        {
-          "label": "Fallback",
-          "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_series_2_hd"
         }
       ],
       "user_agent": "",
@@ -2722,11 +2754,11 @@
       "name": "Jeem",
       "description": "",
       "logo": "https://i.imgur.com/dvCrNQ8.png",
-      "url": "http://apk.arabic-ch.space/live/075/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_jeem_4k",
       "qualities": [
         {
           "label": "Stream 4",
-          "url": "http://apk.arabic-ch.space/live/075/index.m3u8"
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=bein_jeem_4k"
         },
         {
           "label": "Server 2",
@@ -2811,8 +2843,12 @@
       "name": "POST 1",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
-      "url": "http://palestine.vibertv.cyou/post1/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_1",
       "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_1"
+        },
         {
           "label": "Server 1",
           "url": "http://palestine.vibertv.cyou/post1/index.m3u8"
@@ -2828,8 +2864,12 @@
       "name": "POST 2",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
-      "url": "http://palestine.vibertv.cyou/post2/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_2",
       "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_2"
+        },
         {
           "label": "Server 1",
           "url": "http://palestine.vibertv.cyou/post2/index.m3u8"
@@ -2845,8 +2885,12 @@
       "name": "POST 3",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
-      "url": "http://palestine.vibertv.cyou/post3/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_3",
       "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_3"
+        },
         {
           "label": "Server 1",
           "url": "http://palestine.vibertv.cyou/post3/index.m3u8"
@@ -2862,8 +2906,12 @@
       "name": "POST 4",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
-      "url": "http://palestine.vibertv.cyou/post4/index.m3u8",
+      "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_4",
       "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://reezzznnew.staticdev9.workers.dev/?id=post_4"
+        },
         {
           "label": "Server 1",
           "url": "http://palestine.vibertv.cyou/post4/index.m3u8"
@@ -2928,24 +2976,16 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_1_sd.ts"
         },
         {
-          "label": "Multi",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/156588/cat/7193/index.m3u8"
+          "label": "alpha",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport14k.ts"
         },
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3461_.m3u8"
         },
         {
-          "label": "alpha",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport14k.ts"
-        },
-        {
           "label": "Server 7",
           "url": "http://kanwat1.xyz:8080/94748049499/625256262633/418111"
-        },
-        {
-          "label": "Server 10",
-          "url": "https://rzzznalpha.staticdev9.workers.dev/?server=server4&channelid=alwan1.m3u8"
         },
         {
           "label": "Server 61",
@@ -2981,8 +3021,8 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_2_sd.ts"
         },
         {
-          "label": "Multi",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/156589/cat/7193/index.m3u8"
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport24k.ts"
         },
         {
           "label": "Server 5",
@@ -2991,10 +3031,6 @@
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3460_.m3u8"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport24k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3022,8 +3058,8 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_sd.ts"
         },
         {
-          "label": "Multi",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/156590/cat/7193/index.m3u8"
+          "label": "alpha 4k",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport34k.ts"
         },
         {
           "label": "SD",
@@ -3032,10 +3068,6 @@
         {
           "label": "Server 6",
           "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport34k.ts"
         },
         {
           "label": "Server 3",
@@ -3067,8 +3099,8 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_4_sd.ts"
         },
         {
-          "label": "Multi",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/156591/cat/7193/index.m3u8"
+          "label": "alpha",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport44k.ts"
         },
         {
           "label": "Server 6",
@@ -3077,10 +3109,6 @@
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3458_.m3u8"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport44k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3108,8 +3136,8 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_5_sd.ts"
         },
         {
-          "label": "Multi",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/156592/cat/7193/index.m3u8"
+          "label": "alpha",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport54k.ts"
         },
         {
           "label": "Server 4",
@@ -3118,10 +3146,6 @@
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3457_.m3u8"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport54k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3149,8 +3173,8 @@
           "url": "https://reezzznnew.staticdev9.workers.dev/?id=Alwan_Sport_3_sd.ts"
         },
         {
-          "label": "Multi",
-          "url": "https://on-tvlive.online/EGYFILM/ost/main/156592/cat/7193/index.m3u8"
+          "label": "Server 6",
+          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport64k.ts"
         },
         {
           "label": "Server 5",
@@ -3159,10 +3183,6 @@
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3456_.m3u8"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport64k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -9470,11 +9490,15 @@
       "name": "Eurosport 2",
       "description": "",
       "logo": "https://i.imgur.com/f56dHgR.png",
-      "url": "https://stm.linkip.org/live/786_.m3u8",
+      "url": "http://178.23.88.55/Eurosport_2/index.m3u8",
       "qualities": [
         {
-          "label": "Server 1",
-          "url": "https://stm.linkip.org/live/786_.m3u8"
+          "label": "Stream 1",
+          "url": "http://178.23.88.55/Eurosport_2/index.m3u8"
+        },
+        {
+          "label": "Stream 2",
+          "url": "http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o"
         }
       ],
       "user_agent": "",
@@ -11573,6 +11597,40 @@
       "referer": "",
       "clear_key": "",
       "category": "beIN Sports"
+    },
+    {
+      "id": "601",
+      "name": "TUDN",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
+    },
+    {
+      "id": "602",
+      "name": "Sigma",
+      "description": "",
+      "logo": "https://www.theo.ac.cy/wp-content/uploads/2024/11/410x180_sigma_c.png",
+      "url": "https://sl3.sigmatv.com/hls/live.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://sl3.sigmatv.com/hls/live.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "FIFA 2026"
     }
   ]
 }
