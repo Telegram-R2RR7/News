@@ -1,0 +1,184 @@
+{
+  "version": "5.5",
+  "channels": [
+    {
+      "id": "1",
+      "name": "beIN Sports 1",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8" },
+        { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8" },
+        { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_480.m3u8" }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "ايرثلنك"
+    },
+    {
+      "id": "2",
+      "name": "beIN Sports 2",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch2_1080.m3u",
+      "qualities": [
+        { "label": "1080p", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8" },
+        { "label": "720p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8" },
+        { "label": "480p",  "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8" }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "ايرثلنك"
+    },
+            {
+      "id": "3",
+      "name": "beIN Sports 3",
+      "description": "بين سبورت فقط للايرثلنك",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_720.m3u8",
+      "category": "ايرثلنك",
+      "qualities": [
+        {
+          "label": "1080p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8"
+        },
+        {
+          "label": "720p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_720.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "beIN Sports 4",
+      "description": "بين سبورت فقط للايرثلنك",
+      "logo": "https://d.top4top.io/p_3776nhyze0.png",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_720.m3u8",
+      "category": "ايرثلنك",
+      "qualities": [
+        {
+          "label": "1080p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8"
+        },
+        {
+          "label": "720p",
+          "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_720.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "BeIN SPORTS 1 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=8bXJQlutRbSOLcvy_Zd2oQ&e=1779666505",
+      "qualities": [
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=8bXJQlutRbSOLcvy_Zd2oQ&e=1779666505" },
+        { "label": "720p",  "url": "http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=msWen8_84tFs11LXu88CCg&e=1779666506" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "6",
+      "name": "BeIN SPORTS 2 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "https://het4444.ycn-redirect.com/live/lb2/bs2-multi.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "https://het4444.ycn-redirect.com/live/lb2/bs2-multi.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "7",
+      "name": "BeIN SPORTS 3 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=MUGvwi7fCqqt5izNVfSS5g&e=1779666505",
+      "qualities": [
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=MUGvwi7fCqqt5izNVfSS5g&e=1779666505" },
+        { "label": "720p",  "url": "http://het4444.ycn-redirect.com/live/645587700/index.m3u8?t=dqJtM1gp2fYEfi87U0sdxA&e=1779666518" }
+  
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "8",
+      "name": "BeIN SPORTS 4 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het4444.ycn-redirect.com/live/9787488847/index.m3u8?t=HFRuAUv5RRKjrMNdUfsXLg&e=1779666504",
+      "qualities": [
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/9787488847/index.m3u8?t=HFRuAUv5RRKjrMNdUfsXLg&e=1779666504" },
+        { "label": "720p",  "url": "http://het136b.ycn-redirect.com/live/9787488847/index.m3u8?t=BMBSZeHkngtha-mMmDXbFw&e=1779666515" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "9",
+      "name": "BeIN SPORTS 5 — ياسين تيفي",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://f.top4top.io/p_3776kyqu70.jpeg",
+      "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=N820u16c9xCZfk5yrXo0XA&e=1779666513",
+      "qualities": [
+        { "label": "1080p", "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=N820u16c9xCZfk5yrXo0XA&e=1779666513" },
+        { "label": "720p",  "url": "http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=riPF8WdalkDDQv411kKs2w&e=1779666533" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "ياسين تيفي TV"
+    },
+    {
+      "id": "10",
+      "name": "قناة الكاس 1",
+      "description": "قناة الكاس الرياضية للبث",
+      "logo": "https://l.top4top.io/p_37776kvwj0.jpeg",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+      "category": "الكاس الرياضية"
+    },
+    {
+      "id": "11",
+      "name": " قناة الكاس 2",
+      "description": "قناة الكاس الرياضية للبث",
+      "logo": "https://l.top4top.io/p_37776kvwj0.jpeg",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+      "category": "الكاس الرياضية"
+    },
+    {
+      "id": "12",
+      "name": "قناة الكاس 3",
+      "description": "قناة الكاس الرياضية للبث",
+      "logo": "https://l.top4top.io/p_37776kvwj0.jpeg",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+      "category": "الكاس الرياضية"
+    },
+    {
+      "id": "13",
+      "name": "قناة الكاس 4",
+      "description": "قناة الكاس الرياضية للبث",
+      "logo": "https://l.top4top.io/p_37776kvwj0.jpeg",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+      "category": "الكاس الرياضية"
+    }
+  ]
+}
+
+
+ 
+
