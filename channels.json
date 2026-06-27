@@ -1,5 +1,5 @@
 {
-  "version": "20.0",
+  "version": "21.0",
   "channels": [
     {
       "id": "1",
@@ -1072,7 +1072,7 @@
           "url": "https://163.ostv.info/krikar/krikar/744523?token=ShJcU0BbQQNHDgxcBwYDCVsBAwdTV1FYCVdTAQABBAtUCAAHCwZTCAAbGBpEF0dcWF1vWQIXXlIJWlcFVEgRR0JVRm1aV0EDRwgBCgRWDAkbHBJED1gBQwtTVQFQXQQKBwUHHhFDCl1HA1pNWw8ZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAUQZRghCEkANCxFfXh0SVltHQQJNABsOVkIPWRUbU19FCEEWGBNYQH40Rh8QVEhAV11AClYLGw4aQxAXFRtZQ28UUBcVQwcDWgAWEQgTABYeEV4CQTpaW1ZZBlZNUF9eQ0QPRlATTkBaCgpaRl5Ca0JaV0EDC0xYVEo="
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1157,7 +1157,7 @@
           "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248171.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
       "referer": "https://x.com/",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1234,7 +1234,7 @@
           "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295247.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
       "referer": "https://x.com/",
       "clear_key": "",
       "category": "FIFA 2026"
