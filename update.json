@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 7,
-  "latest_version_name": "7.0",
+  "latest_version_code": 8,
+  "latest_version_name": "8.0",
   "force_update": true,
   "download_url": "https://github.com/Telegram-R2RR7/News/raw/refs/heads/main/app-debug.apk",
-  "release_notes": "تم إصلاح بعض المشاكل وتحسين الأداء."
+  "release_notes": "تم إصلاح بعض المشاكل وتحسين الأداء احذف النسخة القديمة."
 }
