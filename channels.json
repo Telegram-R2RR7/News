@@ -1,16 +1,16 @@
 {
-  "version": "25.0",
+  "version": "26.0",
   "channels": [
     {
       "id": "1",
       "name": "beIN Sports 1",
       "description": "بث مباشر للمباريات",
       "logo": "https://i.imgur.com/Vtk2cGI.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_1_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k",
       "qualities": [
         {
           "label": "Server 7",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_1_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k"
         },
         {
           "label": "reelpush",
@@ -47,11 +47,11 @@
       "name": "beIN Sports 2",
       "description": "بث مباشر للمباريات",
       "logo": "https://i.imgur.com/vUJZSvs.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_2_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_2_4k",
       "qualities": [
         {
           "label": "Server 6",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_2_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_2_4k"
         },
         {
           "label": "reelpush",
@@ -84,12 +84,12 @@
       "name": "beIN Sports 3",
       "description": "بين سبورت فقط للايرثلنك",
       "logo": "https://i.imgur.com/UYSMao3.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_3_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_3_4k",
       "category": "ايرثلنك",
       "qualities": [
         {
           "label": "Server 6",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_3_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_3_4k"
         },
         {
           "label": "reelpush",
@@ -223,11 +223,11 @@
       "name": "beIN SPORTS 6",
       "description": "",
       "logo": "https://i.imgur.com/0wBdLYb.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_6_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_6_4k",
       "qualities": [
         {
           "label": "Server 5",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_6_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_6_4k"
         },
         {
           "label": "reelpush",
@@ -289,11 +289,11 @@
       "name": "beIN SPORTS 8",
       "description": "",
       "logo": "https://i.imgur.com/CaFEyVn.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_8_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_8_4k",
       "qualities": [
         {
           "label": "Server 5",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_8_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_8_4k"
         },
         {
           "label": "Server stm",
@@ -322,11 +322,11 @@
       "name": "beIN SPORTS 9",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_1_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k",
       "qualities": [
         {
           "label": "stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_1_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k"
         },
         {
           "label": "Server 3",
@@ -864,79 +864,79 @@
       "name": "beIN SPORTS MAX 1",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_1_hd",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1hd.ts",
       "qualities": [
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_1_hd"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_1_4k"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_1_sd"
-        },
-        {
-          "label": "Ostora",
-          "url": "https://player.kianezidi.workers.dev/play.m3u8?id=154472&cat=7031"
-        },
-        {
-          "label": "Ap",
-          "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
+          "label": "alpha hd",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1hd.ts"
         },
         {
           "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax14k.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax1fhd.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max14k.ts"
         },
         {
           "label": "Alpha SD",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax1sd.ts"
-        },
-        {
-          "label": "FULL HD",
-          "url": "https://tmaxapp.site/beinmax1.m3u8"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1sd.ts"
         },
         {
           "label": "RZN HD",
           "url": "https://stm.linkip.org/live/1957_.m3u8"
         },
         {
-          "label": "POST",
-          "url": "http://palestine.vibertv.cyou/psot1/tracks-v1a1/mono.m3u8?token=Dev_Khal"
+          "label": "NEO MULTI",
+          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_1_hd.m3u8"
         },
         {
-          "label": "RZN OS FHD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max1fhd.m3u8"
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax1.m3u8"
         },
         {
-          "label": "RZN OS HD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max1hd.m3u8"
+          "label": "RAW",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max1.ts"
         },
         {
-          "label": "CC Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx1.m3u8"
+          "label": "RZN NEO 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_1_4k.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_1_hd.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_1_sd.ts"
+        },
+        {
+          "label": "RAW 2",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=postsport1.ts"
+        },
+        {
+          "label": "Raw Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi1.m3u8"
+        },
+        {
+          "label": "Ap Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1ap.m3u8"
+        },
+        {
+          "label": "AP HD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/40807.m3u8"
+        },
+        {
+          "label": "AP FULL HD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/83077.m3u8"
+        },
+        {
+          "label": "8K HD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/5467.m3u8"
+        },
+        {
+          "label": "REEZN Multi",
+          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max1.m3u8"
         },
         {
           "label": "SS",
           "url": "https://4k.tooncd.workers.dev/max_1"
-        },
-        {
-          "label": "NEO O",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_1_4k_or"
-        },
-        {
-          "label": "NEO F",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_1_4k_f"
-        },
-        {
-          "label": "Server 12",
-          "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744517"
         },
         {
           "label": "Server 13",
@@ -947,43 +947,75 @@
           "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8"
         },
         {
-          "label": "NEXT",
+          "label": "NEXT HD",
           "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
         },
         {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/707929"
-        },
-        {
-          "label": "WATCH C",
-          "url": "http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1944369.m3u8"
-        },
-        {
-          "label": "Server 22",
-          "url": "https://raw.githubusercontent.com/AVkfkf2ALRMdk1slfl9ksp39rewkdlwwpw/AVkfkf2ALRMdk1slfl9ksp39rewkdlwwpw/b86a2cd161bef910320e58efa9691648b586d1c1/2010Vkfkf2ALRMdk1slfl9ksp39r.eob.ewkdlw-wpwwpokk1A.m3u8"
-        },
-        {
-          "label": "S 23 SD",
-          "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248182.ts"
-        },
-        {
-          "label": "bozz",
+          "label": "Bozz",
           "url": "https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8"
         },
         {
-          "label": "Server 25",
-          "url": "http://195.182.16.45:8080/live/omar777/01103978590/460862.ts"
+          "label": "Makan",
+          "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
         },
         {
-          "label": "watchcan",
-          "url": "http://watchcan2025.online/live/2ct1j5n8lv/eqk5yd9n2a/1944369.m3u8"
+          "label": "HD",
+          "url": "http://82.39.115.24:8080/X1/index.m3u8"
         },
         {
-          "label": "OS",
-          "url": "https://163.ostv.info/krikar/krikar/744523?token=ShJcU0BbQQNHDgxcBwYDCVsBAwdTV1FYCVdTAQABBAtUCAAHCwZTCAAbGBpEF0dcWF1vWQIXXlIJWlcFVEgRR0JVRm1aV0EDRwgBCgRWDAkbHBJED1gBQwtTVQFQXQQKBwUHHhFDCl1HA1pNWw8ZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAUQZRghCEkANCxFfXh0SVltHQQJNABsOVkIPWRUbU19FCEEWGBNYQH40Rh8QVEhAV11AClYLGw4aQxAXFRtZQ28UUBcVQwcDWgAWEQgTABYeEV4CQTpaW1ZZBlZNUF9eQ0QPRlATTkBaCgpaRl5Ca0JaV0EDC0xYVEo="
+          "label": "Server 23",
+          "url": "https://live3.wegoal5.win/BMax1-4/index.m3u8"
+        },
+        {
+          "label": "SD LOW",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1low.m3u8"
+        },
+        {
+          "label": "NM FULL HD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159557.m3u8"
+        },
+        {
+          "label": "NM SD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159465.m3u8"
+        },
+        {
+          "label": "NM HD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159459.m3u8"
+        },
+        {
+          "label": "COPA FHD",
+          "url": "https://live.aab1.top:443/odai/123321/9087.ts"
+        },
+        {
+          "label": "COPA HD",
+          "url": "https://live.aab1.top/odai/123321/9088.ts"
+        },
+        {
+          "label": "Server 32",
+          "url": "http://line.x1store-cdn.me/play/live.php?mac=00:1A:79:6F:5B:8F&stream=2085181&extension=m3u8"
+        },
+        {
+          "label": "Server 33",
+          "url": "http://mag.diamondtv.one/play/live.php?mac=00:1A:79:B5:97:00&stream=1047480&extension=m3u"
+        },
+        {
+          "label": "Server 34",
+          "url": "http://mag.diamondma.club/play/live.php?mac=00:1A:79:37:61:31&stream=1047486&extension=m3u8"
+        },
+        {
+          "label": "Server 35",
+          "url": "http://149.18.45.121/live/39B6CC5D/56BBDDBA/1415174.m3u8"
+        },
+        {
+          "label": "Server 36",
+          "url": "http://149.18.45.65/live/MAGS6WSWCXV/RY1DQM6U/33.m3u8"
+        },
+        {
+          "label": "Server 37",
+          "url": "http://149.18.45.65/live/MAGSWRE59TG/WA75ZDDM/33.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "user_agent": "TDMv2.0.5",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -993,90 +1025,118 @@
       "name": "beIN SPORTS MAX 2",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_2_hd",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2hd.ts",
       "qualities": [
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_2_hd"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_2_4k"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_2_sd"
-        },
-        {
-          "label": "Ostora",
-          "url": "https://player.kianezidi.workers.dev/play.m3u8?id=154473&cat=7031"
-        },
-        {
-          "label": "Ap",
-          "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
+          "label": "alpha hd",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2hd.ts"
         },
         {
           "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax24k.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max24k.ts"
         },
         {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax2fhd.ts"
-        },
-        {
-          "label": "FULL HD 2",
-          "url": "https://tmaxapp.site/beinmax2.m3u8"
+          "label": "Alpha SD",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2sd.ts"
         },
         {
           "label": "RZN HD",
           "url": "https://stm.linkip.org/live/1956_.m3u8"
         },
         {
-          "label": "RZN OS FHD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max2fhd.m3u8"
+          "label": "NEO MULTI",
+          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_2_hd.m3u8"
         },
         {
-          "label": "RZN OS HD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max2hd.m3u8"
+          "label": "Ap Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max2ap.m3u8"
         },
         {
-          "label": "CC Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx2.m3u8"
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax2.m3u8"
+        },
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_2_4k.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_2_HD.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_2_SD.ts"
+        },
+        {
+          "label": "REEZN Multi",
+          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max2.m3u8"
+        },
+        {
+          "label": "RAW",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max2.ts"
+        },
+        {
+          "label": "RAW 2",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=postsport2.ts"
+        },
+        {
+          "label": "RAW MULTI",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi2.m3u8"
+        },
+        {
+          "label": "NEXT HD",
+          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
         },
         {
           "label": "SS",
           "url": "https://4k.tooncd.workers.dev/max_2"
         },
         {
-          "label": "Server 13",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
+          "label": "kurd tv",
+          "url": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8"
         },
         {
-          "label": "Server 20",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8"
+          "label": "grand",
+          "url": "http://185.170.142.19:8080/GrandSport/1_1001_Video.m3u8"
         },
         {
-          "label": "Server 18",
-          "url": "http://rgkkw.live/live/akheelasharaf/97430689947/744524.ts"
+          "label": "SD LOW",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1low.m3u8"
         },
         {
-          "label": "NEO O",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_2_4k_or"
+          "label": "NM SD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159466.m3u8"
         },
         {
-          "label": "NEO F",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_2_4k_f"
+          "label": "NM HD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159460.m3u8"
         },
         {
-          "label": "Server 21",
-          "url": "https://raw.githubusercontent.com/AVkfkf2ALRMdk1slfl9ksp39rewkdlwwpw/AVkfkf2ALRMdk1slfl9ksp39rewkdlwwpw/refs/heads/main/4010Vkfkf2ALRMdk1slfl9ksp39r.eob.ewkdlw-wpwwpokk1A.m3u8"
+          "label": "NM FULL HD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2392123.m3u8"
         },
         {
-          "label": "Server 22",
-          "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248171.ts"
+          "label": "COPA FHD",
+          "url": "https://live.aab1.top:443/odai/123321/67.ts"
+        },
+        {
+          "label": "COPA HD",
+          "url": "https://live.aab1.top:443/odai/123321/65.ts"
+        },
+        {
+          "label": "Server 25",
+          "url": "http://mag.diamondtv.one/play/live.php?mac=00:1A:79:B5:97:00&stream=1047479&extension=m3u8"
+        },
+        {
+          "label": "Server 26",
+          "url": "http://149.18.45.121/live/39B6CC5D/56BBDDBA/1332748.m3u8"
+        },
+        {
+          "label": "Server 27",
+          "url": "http://149.18.45.121/live/889C29BC/lofDVsk52u/1332748.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "user_agent": "TDMv2.0.5",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1086,71 +1146,71 @@
       "name": "beIN SPORTS MAX 3",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_3_hd",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3hd.ts",
       "qualities": [
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_3_hd"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_3_4k"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_3_sd"
-        },
-        {
-          "label": "Ostora",
-          "url": "https://player.kianezidi.workers.dev/play.m3u8?id=154474&cat=7031"
-        },
-        {
-          "label": "Ap",
-          "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
-        },
-        {
-          "label": "FULL HD",
-          "url": "https://tmaxapp.site/beinmax3.m3u8"
+          "label": "alpha hd",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3hd.ts"
         },
         {
           "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax34k.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max34k.ts"
         },
         {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax3fhd.ts"
+          "label": "Alpha SD",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3sd.ts"
         },
         {
           "label": "RZN HD",
           "url": "https://stm.linkip.org/live/1965_.m3u8"
         },
         {
-          "label": "RZN OS FHD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max3fhd.m3u8"
+          "label": "NEO MULTI",
+          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_3_hd.m3u8"
         },
         {
-          "label": "RZN OS HD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max3hd.m3u8"
+          "label": "Ap Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max3ap.m3u8"
         },
         {
-          "label": "CC Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx3.m3u8"
+          "label": "AP HD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/11213.m3u8"
+        },
+        {
+          "label": "AP FHD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/285158.m3u8"
+        },
+        {
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax3.m3u8"
+        },
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_3_4K.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_3_HD.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_3_SD.ts"
+        },
+        {
+          "label": "RAW",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max3.ts"
+        },
+        {
+          "label": "REEZN Multi",
+          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max3.m3u8"
+        },
+        {
+          "label": "RAW MULTI",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi3.m3u8"
         },
         {
           "label": "SS",
           "url": "https://4k.tooncd.workers.dev/max_3"
-        },
-        {
-          "label": "PROXpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835135"
-        },
-        {
-          "label": "NEO O",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_3_4k_OR"
-        },
-        {
-          "label": "NEO F",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_3_4k_f"
         },
         {
           "label": "Server 18",
@@ -1159,9 +1219,21 @@
         {
           "label": "Server 19",
           "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295247.ts"
+        },
+        {
+          "label": "SD LOW",
+          "url": "http://h42.reelpush.online/live/33523510/index.m3u8"
+        },
+        {
+          "label": "COPA FHD",
+          "url": "https://live.aab1.top:443/odai/123321/70.ts"
+        },
+        {
+          "label": "COPA HD",
+          "url": "https://live.aab1.top:443/odai/123321/69.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "user_agent": "TDMv2.0.5",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1171,71 +1243,87 @@
       "name": "beIN SPORTS MAX 4",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_4_hd",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4hd.ts",
       "qualities": [
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_4_hd"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_4_4k"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=beIN_MAX_4_sd."
-        },
-        {
-          "label": "Ostora",
-          "url": "https://player.kianezidi.workers.dev/play.m3u8?id=154475&cat=7031"
-        },
-        {
-          "label": "Ap",
-          "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
+          "label": "alpha hd",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4hd.ts"
         },
         {
           "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax44k.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max44k.ts"
         },
         {
-          "label": "alpha hd",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax4fhd.ts"
-        },
-        {
-          "label": "FULL HD",
-          "url": "https://tmaxapp.site/beinmax4.m3u8"
+          "label": "Alpha SD",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4sd.ts"
         },
         {
           "label": "RZN HD",
           "url": "https://stm.linkip.org/live/1966_.m3u8"
         },
         {
-          "label": "RZN OS FHD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max4fhd.m3u8"
+          "label": "NEO MULI",
+          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_4_hd.m3u8"
         },
         {
-          "label": "RZN OS HD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max4hd.m3u8"
+          "label": "Ap Multi",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max3ap.m3u8"
         },
         {
-          "label": "CC Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/mx4.m3u8"
+          "label": "FULL HD",
+          "url": "https://tmaxapp.site/beinmax4.m3u8"
+        },
+        {
+          "label": "RZN NEO 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_4_4k.ts"
+        },
+        {
+          "label": "RZN NEO HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_4_HD.ts"
+        },
+        {
+          "label": "RZN NEO SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_4_SD.ts"
+        },
+        {
+          "label": "REEZN Multi",
+          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max4.m3u8"
+        },
+        {
+          "label": "RAW",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max4.ts"
+        },
+        {
+          "label": "RAW MULTI",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi4.m3u8"
         },
         {
           "label": "SS",
           "url": "https://4k.tooncd.workers.dev/max_4"
         },
         {
-          "label": "PROXpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835134"
-        },
-        {
           "label": "Server 17",
           "url": "http://t77ert.top:80/live/d0:d0:03:36:33:7e/eqzw0eux/248173.ts"
+        },
+        {
+          "label": "SD LOW",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max4low.m3u8"
+        },
+        {
+          "label": "NM SD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2395622.m3u8"
+        },
+        {
+          "label": "NM HD",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2395620.m3u8"
+        },
+        {
+          "label": "NM FULL HD'",
+          "url": "http://93.115.101.179:9017/live/Mn/Mn/2395618.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-      "referer": "https://x.com/",
+      "user_agent": "TDMv2.0.5",
+      "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
     },
@@ -1244,19 +1332,27 @@
       "name": "beIN SPORTS MAX 5",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
-      "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax5hd.ts",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5hd.ts",
       "qualities": [
         {
-          "label": "ALPHA HD",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax5hd.ts"
+          "label": "Alpha HD",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5hd.ts"
         },
         {
-          "label": "RZN ALPHA",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax54k.ts"
+          "label": "ALPHA 4K",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max54k.ts"
         },
         {
           "label": "ALPHA SD",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax5sd.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5sd.ts"
+        },
+        {
+          "label": "NEO MULTI",
+          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_5_hd.m3u8"
+        },
+        {
+          "label": "RAW MULTI",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi5.m3u8"
         },
         {
           "label": "SS FULL HD",
@@ -1273,18 +1369,10 @@
         {
           "label": "Server 10",
           "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248174.ts"
-        },
-        {
-          "label": "RZN OS FHD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max5fhd.m3u8"
-        },
-        {
-          "label": "RZN OS HD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max5hd.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-      "referer": "https://x.com/",
+      "user_agent": "TDMv2.0.5",
+      "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
     },
@@ -1293,19 +1381,27 @@
       "name": "beIN SPORTS MAX 6",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
-      "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax6hd.ts",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6hd.ts",
       "qualities": [
         {
           "label": "ALPHA HD",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax6hd.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6hd.ts"
         },
         {
           "label": "ALPHA 4K",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax64k.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max64k.ts"
         },
         {
           "label": "ALPHA SD",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=beinsportsmax6sd.ts"
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6sd.ts"
+        },
+        {
+          "label": "NEO MULTI",
+          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_6_hd.m3u8"
+        },
+        {
+          "label": "RAW MULTI",
+          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi6.m3u8"
         },
         {
           "label": "SS FULL HD",
@@ -1316,20 +1412,12 @@
           "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
         },
         {
-          "label": "PROXpanel",
+          "label": "proxpanel",
           "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835131"
-        },
-        {
-          "label": "RZN OS FHD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max6fhd.m3u8"
-        },
-        {
-          "label": "RZN OS HD",
-          "url": "https://rzntest.staticdev9.workers.dev/?id=max6hd.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-      "referer": "https://x.com/",
+      "user_agent": "TDMv2.0.5",
+      "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
     },
@@ -1345,32 +1433,36 @@
           "url": "https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8"
         },
         {
-          "label": "Td",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=tod_hdr"
+          "label": "NEO HDR",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=TOD_HDR.ts"
         },
         {
           "label": "Server 5",
-          "url": "http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950411"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=TOD_4K.ts"
         },
         {
-          "label": "Server 4",
-          "url": "http://asmr4k.pro/live/05347247405/3100934708/1246130.ts"
-        },
-        {
-          "label": "Server 8",
-          "url": "http://look4k.com/live/0176436959603/2442668892/1032367.ts"
-        },
-        {
-          "label": "Server 1",
-          "url": "http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts"
-        },
-        {
-          "label": "irib4K",
+          "label": "irib",
           "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
         },
         {
           "label": "Server 9",
           "url": "https://ap-4it.pages.dev/d1.m3u8"
+        },
+        {
+          "label": "AP 4K",
+          "url": "http://193.37.44.55:8888/live/735789301065/230820158217/589202.m3u8"
+        },
+        {
+          "label": "mag",
+          "url": "http://mag.diamondtv.one/play/live.php?mac=A0:BB:3E:03:AB:7F&stream=829314&extension=m3u8"
+        },
+        {
+          "label": "x1",
+          "url": "http://line.x1store-cdn.me/play/live.php?mac=00:1A:79:F1:B2:22&stream=2097322&extension=m3u8"
+        },
+        {
+          "label": "Server 9",
+          "url": "http://103.75.69.131/play/live.php?mac=00:1A:79:B5:97:00&stream=846579&extension=m3u8"
         }
       ],
       "user_agent": "",
@@ -1399,7 +1491,7 @@
         },
         {
           "label": "Server 5",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=fr:_m6_hd.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=fr:_m6_hd.ts"
         },
         {
           "label": "Server 3",
@@ -1407,7 +1499,7 @@
         },
         {
           "label": "4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=fr:_m6_4K.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=fr:_m6_4K.ts"
         }
       ],
       "user_agent": "",
@@ -1677,15 +1769,15 @@
       "name": "TRT 4K",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/1280px-TRT_4K_logo.svg.png",
-      "url": "https://4k.tooncd.workers.dev/trt4k",
+      "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
       "qualities": [
-        {
-          "label": "Server 2",
-          "url": "https://4k.tooncd.workers.dev/trt4k"
-        },
         {
           "label": "Server 1",
           "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://4k.tooncd.workers.dev/trt4k"
         }
       ],
       "user_agent": "",
@@ -1722,8 +1814,16 @@
           "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
         },
         {
+          "label": "Server 3",
+          "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
+        },
+        {
           "label": "Server 2",
           "url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
         }
       ],
       "user_agent": "",
@@ -2103,7 +2203,7 @@
         },
         {
           "label": "Server 2",
-          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/243"
+          "url": "https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/sp/index.m3u8"
         },
         {
           "label": "Server W",
@@ -2125,10 +2225,6 @@
         {
           "label": "Server 5",
           "url": "https://tmaxapp.site/daznlaliga2.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://blanchedalmond-dugong-106131.hostingersite.com/live/EGYFILM/EGYFILM/1948768.m3u8"
         }
       ],
       "user_agent": "",
@@ -2424,11 +2520,11 @@
       "name": "Programme National",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts"
         },
         {
           "label": "Server 2",
@@ -2479,11 +2575,15 @@
       "name": "Arryadia TNT",
       "description": "",
       "logo": "https://i.imgur.com/XjzK3gZ.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://live.aab1.top:443/odai/123321/319.ts"
         },
         {
           "label": "Stream 1",
@@ -2500,39 +2600,75 @@
       "name": "Alwan Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/UibCHUN.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_1_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_HD.ts",
       "qualities": [
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_1_hd"
+          "label": "RZN HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_HD.ts"
         },
         {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_1_4K"
+          "label": "RZN 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_4k.ts"
         },
         {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_1_sd"
+          "label": "RZN SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_SD.ts"
         },
         {
-          "label": "alpha",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport14k.ts"
+          "label": "AP HD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/241389.m3u8"
+        },
+        {
+          "label": "AP FHD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/241376.m3u8"
+        },
+        {
+          "label": "AP SD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/241395.m3u8"
         },
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3461_.m3u8"
         },
         {
-          "label": "Server 7",
-          "url": "http://kanwat1.xyz:8080/94748049499/625256262633/418111"
+          "label": "alpha hd",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan1hd.ts"
         },
         {
-          "label": "Server 61",
-          "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8"
+          "label": "alpha 4k",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan14K.ts"
+        },
+        {
+          "label": "RAW",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan1.ts"
         },
         {
           "label": "Server s5",
           "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts"
+        },
+        {
+          "label": "HEVC",
+          "url": "http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236888.m3u8"
+        },
+        {
+          "label": "4K HEVC",
+          "url": "http://ntr.paixif.com/live/MAGSRR67TYY/2T8XVU1K/1236888.m3u8"
+        },
+        {
+          "label": "Server 14",
+          "url": "https://live.aab1.top:443/odai/123321/185.ts"
+        },
+        {
+          "label": "Server 15",
+          "url": "http://line.trxdnscloud.ru/live/e995d8883f/9ed6aa71a588/1859098.m3u8"
+        },
+        {
+          "label": "Server 16",
+          "url": "http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1276553.m3u8"
+        },
+        {
+          "label": "Server 17",
+          "url": "http://hrjbcbba.mosstvip.com/live/6CXX8V4U/1JYUP926/1276543.m3u8"
         }
       ],
       "user_agent": "",
@@ -2545,31 +2681,59 @@
       "name": "Alwan Sports 2",
       "description": "",
       "logo": "https://i.imgur.com/Gl8AxBh.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_2_4K",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_HD.ts",
       "qualities": [
         {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_2_4K"
+          "label": "RZN HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_HD.ts"
         },
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_2_hd"
+          "label": "RZN 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_4k.ts"
         },
         {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_2_sd"
+          "label": "RZN SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_SD.ts"
         },
         {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport24k.ts"
+          "label": "AP HD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/241390.m3u8"
         },
         {
-          "label": "Server 5",
-          "url": "http://virtualdbxv.com:8080/alwan2hd/index.m3u8"
+          "label": "AP FHD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/241377.m3u8"
+        },
+        {
+          "label": "AP SD",
+          "url": "http://93.115.101.179:9017/live/Ap/Ap/241396.m3u8"
         },
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3460_.m3u8"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan2hd.ts"
+        },
+        {
+          "label": "RAW",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan2.ts"
+        },
+        {
+          "label": "Server 10",
+          "url": "https://live.aab1.top:443/odai/123321/186.ts"
+        },
+        {
+          "label": "Server 11",
+          "url": "http://ntr.paixif.com/live/3IZXQ6YC25/Z847VZAF/1276552.m3u8"
+        },
+        {
+          "label": "Server 12",
+          "url": "http://line.x1store-cdn.me/play/live.php?mac=00:1A:79:FB:11:1F&stream=1859097&extension=m3u8"
+        },
+        {
+          "label": "Server 13",
+          "url": "http://line.trxdnscloud.ru/play/live.php?mac=00:1A:79:7C:4F:DA&stream=1859097&extension=m3u8"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2582,35 +2746,35 @@
       "name": "Alwan Sports 3",
       "description": "",
       "logo": "https://i.imgur.com/c9cHkFP.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_3_4K",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_HD.ts",
       "qualities": [
         {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_3_4K"
+          "label": "RZN HD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_HD.ts"
         },
         {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_3_hd"
+          "label": "RZN 4K",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_4k.ts"
         },
         {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_3_sd"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport34k.ts"
+          "label": "RZN SD",
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_SD.ts"
         },
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3459_.m3u8"
         },
         {
-          "label": "Server 6",
-          "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8"
+          "label": "ALPHA HD",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan3hd.ts"
         },
         {
           "label": "Server 3",
-          "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts"
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan3.ts"
+        },
+        {
+          "label": "Server 7",
+          "url": "https://live.aab1.top:443/odai/123321/187.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2623,31 +2787,19 @@
       "name": "Alwan Sports 4",
       "description": "",
       "logo": "https://i.imgur.com/6JVw8Xf.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_4_4K",
+      "url": "https://stm.linkip.org/live/3458_.m3u8",
       "qualities": [
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_4_4K"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_4_hd"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_4_sd"
-        },
-        {
-          "label": "alpha",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport44k.ts"
-        },
-        {
-          "label": "Server 6",
-          "url": "http://virtualdbxv.com:8080/alwan4hd/index.m3u8"
-        },
         {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3458_.m3u8"
+        },
+        {
+          "label": "Alpha",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan4hd.ts"
+        },
+        {
+          "label": "Server 3",
+          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan4.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2660,27 +2812,11 @@
       "name": "Alwan Sports 5",
       "description": "",
       "logo": "https://i.imgur.com/JJojLHs.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_5_4K",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan5hd.ts",
       "qualities": [
         {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_5_4K"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_5_hd"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_5_sd"
-        },
-        {
-          "label": "alpha",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport54k.ts"
-        },
-        {
-          "label": "Server 4",
-          "url": "http://virtualdbxv.com:8080/alwan5hd/index.m3u8"
+          "label": "Alpha",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan5hd.ts"
         },
         {
           "label": "SD",
@@ -2697,27 +2833,11 @@
       "name": "Alwan Sports 6",
       "description": "",
       "logo": "https://i.imgur.com/VZxazRS.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_6_4k",
+      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan6hd.ts",
       "qualities": [
         {
-          "label": "RZN NEO 4K",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_6_4k"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_6_hd"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_3_sd"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://reezzznalpha.staticdev9.workers.dev/?id=alwansport64k.ts"
-        },
-        {
-          "label": "Server 5",
-          "url": "http://virtualdbxv.com:8080/alwan6hd/index.m3u8"
+          "label": "Alpha",
+          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan6hd.ts"
         },
         {
           "label": "SD",
@@ -2734,11 +2854,11 @@
       "name": "Alwan Sports 7",
       "description": "",
       "logo": "https://i.imgur.com/mECyQgn.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts",
       "qualities": [
         {
           "label": "Server 3",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2751,11 +2871,11 @@
       "name": "Alwan Sports 8",
       "description": "",
       "logo": "https://i.imgur.com/Ms4DPwn.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts",
       "qualities": [
         {
           "label": "Stream 2",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2768,11 +2888,11 @@
       "name": "Alwan Sports 9",
       "description": "",
       "logo": "https://i.imgur.com/eMz1Lw4.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2785,11 +2905,11 @@
       "name": "Alwan Sports 10",
       "description": "",
       "logo": "https://i.imgur.com/EO6RpBf.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts",
       "qualities": [
         {
           "label": "Server 4",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2802,11 +2922,11 @@
       "name": "Alwan F1",
       "description": "",
       "logo": "https://imgur.com/6VEFuLW.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_F1_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_F1_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_F1_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_F1_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2819,11 +2939,11 @@
       "name": "Alwan Aghani",
       "description": "",
       "logo": "https://imgur.com/cQOFdc9.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aghani_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aghani_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aghani_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aghani_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2836,11 +2956,11 @@
       "name": "Alwan Atfal",
       "description": "",
       "logo": "https://imgur.com/06XCqR4.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_atfal_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_atfal_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_atfal_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_atfal_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2853,11 +2973,11 @@
       "name": "Alwan Anime",
       "description": "",
       "logo": "https://imgur.com/aDxB792.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_anime_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_anime_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_anime_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_anime_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2870,11 +2990,11 @@
       "name": "Alwan UFC",
       "description": "",
       "logo": "https://imgur.com/UxL3Y5r.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_ufc_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_ufc_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_ufc_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_ufc_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2887,11 +3007,11 @@
       "name": "Alwan WWE",
       "description": "",
       "logo": "https://imgur.com/myzRuId.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_wwe_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_wwe_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_wwe_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_wwe_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2904,11 +3024,11 @@
       "name": "Alwan Bollywood",
       "description": "",
       "logo": "https://imgur.com/v2UZxV8.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_bollywood_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_bollywood_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_bollywood_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_bollywood_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2921,11 +3041,11 @@
       "name": "Alwan Turkey",
       "description": "",
       "logo": "https://imgur.com/h9TrQ6Z.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_turkey_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_turkey_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_turkey_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_turkey_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2938,11 +3058,11 @@
       "name": "Alwan Korea",
       "description": "",
       "logo": "https://imgur.com/cXtIGlV.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_korea_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_korea_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_korea_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_korea_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2955,11 +3075,11 @@
       "name": "Alwan Mosalsalat+",
       "description": "",
       "logo": "https://imgur.com/LinlqpP.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_mosalsalat+_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat+_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_mosalsalat+_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat+_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2972,11 +3092,11 @@
       "name": "Alwan Mosalsalat",
       "description": "",
       "logo": "https://imgur.com/JgpcmcV.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_mosalsalat_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_mosalsalat_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2989,11 +3109,11 @@
       "name": "Alwan Aflam 4",
       "description": "",
       "logo": "https://imgur.com/FvbloCp.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_4_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_4_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_4_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_4_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3006,11 +3126,11 @@
       "name": "Alwan Aflam 3",
       "description": "",
       "logo": "https://i.imgur.com/V74jY91.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_3_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_3_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_3_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_3_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3023,11 +3143,11 @@
       "name": "Alwan Aflam 2",
       "description": "",
       "logo": "https://i.imgur.com/ZFsjiWI.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_2_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_2_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_2_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_2_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3040,11 +3160,11 @@
       "name": "Alwan Aflam 1",
       "description": "",
       "logo": "https://i.imgur.com/F6FQqZL.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_1_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_1_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=Alwan_aflam_1_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_1_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3171,11 +3291,11 @@
       "name": "Fajer TV 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_1",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_1",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_1"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_1"
         },
         {
           "label": "Server 2",
@@ -3192,11 +3312,11 @@
       "name": "Fajer TV 2",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_2",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_2",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_2"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_2"
         },
         {
           "label": "Server 2",
@@ -3213,11 +3333,11 @@
       "name": "Fajer TV 3",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_3",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_3",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_3"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_3"
         },
         {
           "label": "Server 2",
@@ -3234,11 +3354,11 @@
       "name": "Fajer TV 4",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_4",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_4",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_4"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_4"
         },
         {
           "label": "Server 2",
@@ -3255,11 +3375,11 @@
       "name": "Fajer TV 5",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_5",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_5",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=al_fajer_5"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_5"
         },
         {
           "label": "Server 2",
@@ -3293,11 +3413,11 @@
       "name": "Baraem",
       "description": "",
       "logo": "https://i.imgur.com/7woV4Cz.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_baraeam_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_baraeam_4k",
       "qualities": [
         {
           "label": "HD",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_baraeam_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_baraeam_4k"
         },
         {
           "label": "Server 2",
@@ -3314,11 +3434,11 @@
       "name": "beIN DRAMA 1",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_drama_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_drama_4k",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_drama_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_drama_4k"
         },
         {
           "label": "Apollo",
@@ -3335,11 +3455,11 @@
       "name": "beIN GOURMET",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_gourmet_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_gourmet_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_gourmet_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_gourmet_hd"
         }
       ],
       "user_agent": "",
@@ -3352,11 +3472,11 @@
       "name": "beIN MOVIES 1 PREMIERE",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_1_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_1_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_1_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_1_hd"
         },
         {
           "label": "Fallback",
@@ -3373,11 +3493,11 @@
       "name": "beIN MOVIES 2 ACTION",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_2_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_2_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_2_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_2_hd"
         },
         {
           "label": "Fallback",
@@ -3394,11 +3514,11 @@
       "name": "beIN MOVIES 3 DRAMA",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_3_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_3_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_3_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_3_hd"
         },
         {
           "label": "Fallback",
@@ -3415,11 +3535,11 @@
       "name": "beIN MOVIES 4 FAMILY",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_4_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_4_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_movies_4_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_4_hd"
         },
         {
           "label": "Fallback",
@@ -3436,11 +3556,11 @@
       "name": "beIN SERIES 1",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Series_HD1.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_series_1_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_1_hd",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_series_1_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_1_hd"
         },
         {
           "label": "Fallback",
@@ -3457,11 +3577,11 @@
       "name": "beIN SERIES 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_series_2_hd",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_2_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_series_2_hd"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_2_hd"
         }
       ],
       "user_agent": "",
@@ -3508,11 +3628,11 @@
       "name": "Jeem",
       "description": "",
       "logo": "https://i.imgur.com/dvCrNQ8.png",
-      "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_jeem_4k",
+      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_jeem_4k",
       "qualities": [
         {
           "label": "Stream 4",
-          "url": "https://bigredrneo.staticdev9.workers.dev/?id=bein_jeem_4k"
+          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_jeem_4k"
         },
         {
           "label": "Server 2",
@@ -11118,6 +11238,10 @@
         {
           "label": "Stream 1",
           "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8"
         }
       ],
       "user_agent": "",
