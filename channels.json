@@ -1,5 +1,5 @@
 {
-  "version": "27.0",
+  "version": "29.0",
   "channels": [
     {
       "id": "1",
@@ -879,12 +879,8 @@
           "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1sd.ts"
         },
         {
-          "label": "RZN HD",
-          "url": "https://stm.linkip.org/live/1957_.m3u8"
-        },
-        {
-          "label": "NEO MULTI",
-          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_1_hd.m3u8"
+          "label": "RZN MULTI",
+          "url": "https://bigredrmulti.staticdev9.workers.dev/max1.m3u8"
         },
         {
           "label": "FULL HD",
@@ -915,72 +911,32 @@
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi1.m3u8"
         },
         {
-          "label": "Ap Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1ap.m3u8"
-        },
-        {
-          "label": "AP HD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/40807.m3u8"
-        },
-        {
-          "label": "AP FULL HD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/83077.m3u8"
-        },
-        {
-          "label": "8K HD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/5467.m3u8"
-        },
-        {
           "label": "REEZN Multi",
           "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max1.m3u8"
-        },
-        {
-          "label": "SS",
-          "url": "https://4k.tooncd.workers.dev/max_1"
-        },
-        {
-          "label": "Server 13",
-          "url": "http://rgkkw.live:80/akheelasharaf/97430689947/744523"
-        },
-        {
-          "label": "avr stream",
-          "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8"
         },
         {
           "label": "NEXT HD",
           "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
         },
         {
+          "label": "SS",
+          "url": "https://4k.tooncd.workers.dev/max_1"
+        },
+        {
+          "label": "avr stream",
+          "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8"
+        },
+        {
           "label": "Bozz",
           "url": "https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8"
         },
         {
-          "label": "Makan",
-          "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
-        },
-        {
-          "label": "HD",
+          "label": "X1HD",
           "url": "http://82.39.115.24:8080/X1/index.m3u8"
-        },
-        {
-          "label": "Server 23",
-          "url": "https://live3.wegoal5.win/BMax1-4/index.m3u8"
         },
         {
           "label": "SD LOW",
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1low.m3u8"
-        },
-        {
-          "label": "NM FULL HD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159557.m3u8"
-        },
-        {
-          "label": "NM SD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159465.m3u8"
-        },
-        {
-          "label": "NM HD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159459.m3u8"
         },
         {
           "label": "COPA FHD",
@@ -995,14 +951,6 @@
           "url": "http://line.x1store-cdn.me/play/live.php?mac=00:1A:79:6F:5B:8F&stream=2085181&extension=m3u8"
         },
         {
-          "label": "Server 33",
-          "url": "http://mag.diamondtv.one/play/live.php?mac=00:1A:79:B5:97:00&stream=1047480&extension=m3u"
-        },
-        {
-          "label": "Server 34",
-          "url": "http://mag.diamondma.club/play/live.php?mac=00:1A:79:37:61:31&stream=1047486&extension=m3u8"
-        },
-        {
           "label": "Server 35",
           "url": "http://149.18.45.121/live/39B6CC5D/56BBDDBA/1415174.m3u8"
         },
@@ -1013,9 +961,25 @@
         {
           "label": "Server 37",
           "url": "http://149.18.45.65/live/MAGSWRE59TG/WA75ZDDM/33.m3u8"
+        },
+        {
+          "label": "WIN",
+          "url": "https://live3.wegoal5.win/BMax1-1/index.m3u8"
+        },
+        {
+          "label": "WIN2",
+          "url": "https://live3.wegoal5.win/BMax1-4/index.m3u8"
+        },
+        {
+          "label": "CFD",
+          "url": "https://r2-server1.cfd/iptv-1/index.m3u8"
+        },
+        {
+          "label": "SERIAL",
+          "url": "http://80.251.153.221:2095/serial_798817/1754606919695ebcc3e4c41/1041845?token=ybHfHfc.azdyHcU.X.UXHUzdc.ydzHzfaHdy.X.y.DZ.ts.63716d2b31819bab1785d594e2c910356cb126ea55ab34d187b5f12ed416e672...bXlwcm8tc3RiLmNvbTo4MDgw?token="
         }
       ],
-      "user_agent": "TDMv2.0.5",
+      "user_agent": "TDMv2.0.6",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1040,16 +1004,8 @@
           "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2sd.ts"
         },
         {
-          "label": "RZN HD",
-          "url": "https://stm.linkip.org/live/1956_.m3u8"
-        },
-        {
-          "label": "NEO MULTI",
-          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_2_hd.m3u8"
-        },
-        {
-          "label": "Ap Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max2ap.m3u8"
+          "label": "RZN MULTI",
+          "url": "https://bigredrmulti.staticdev9.workers.dev/max2.m3u8"
         },
         {
           "label": "FULL HD",
@@ -1104,18 +1060,6 @@
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1low.m3u8"
         },
         {
-          "label": "NM SD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159466.m3u8"
-        },
-        {
-          "label": "NM HD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2159460.m3u8"
-        },
-        {
-          "label": "NM FULL HD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2392123.m3u8"
-        },
-        {
           "label": "COPA FHD",
           "url": "https://live.aab1.top:443/odai/123321/67.ts"
         },
@@ -1134,9 +1078,25 @@
         {
           "label": "Server 27",
           "url": "http://149.18.45.121/live/889C29BC/lofDVsk52u/1332748.m3u8"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1956_.m3u8"
+        },
+        {
+          "label": "WIN",
+          "url": "https://live3.wegoal5.win/BMax2-1/index.m3u8"
+        },
+        {
+          "label": "WIN2",
+          "url": "https://live3.wegoal5.win/BMax2-4/index.m3u8"
+        },
+        {
+          "label": "CFD",
+          "url": "https://r2-server1.cfd/iptv-2/index.m3u8"
         }
       ],
-      "user_agent": "TDMv2.0.5",
+      "user_agent": "TDMv2.0.6",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1161,24 +1121,8 @@
           "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3sd.ts"
         },
         {
-          "label": "RZN HD",
-          "url": "https://stm.linkip.org/live/1965_.m3u8"
-        },
-        {
-          "label": "NEO MULTI",
-          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_3_hd.m3u8"
-        },
-        {
-          "label": "Ap Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max3ap.m3u8"
-        },
-        {
-          "label": "AP HD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/11213.m3u8"
-        },
-        {
-          "label": "AP FHD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/285158.m3u8"
+          "label": "RZN MULTI",
+          "url": "https://bigredrmulti.staticdev9.workers.dev/max3.m3u8"
         },
         {
           "label": "FULL HD",
@@ -1231,9 +1175,21 @@
         {
           "label": "COPA HD",
           "url": "https://live.aab1.top:443/odai/123321/69.ts"
+        },
+        {
+          "label": "WIN",
+          "url": "https://live3.wegoal5.win/BMax3-1/index.m3u8"
+        },
+        {
+          "label": "CFD",
+          "url": "https://r2-server1.cfd/iptv-3/index.m3u8"
+        },
+        {
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1965_.m3u8"
         }
       ],
-      "user_agent": "TDMv2.0.5",
+      "user_agent": "TDMv2.0.6",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1258,16 +1214,8 @@
           "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4sd.ts"
         },
         {
-          "label": "RZN HD",
-          "url": "https://stm.linkip.org/live/1966_.m3u8"
-        },
-        {
-          "label": "NEO MULI",
-          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_4_hd.m3u8"
-        },
-        {
-          "label": "Ap Multi",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max3ap.m3u8"
+          "label": "RZN MULI",
+          "url": "https://bigredrmulti.staticdev9.workers.dev/max4.m3u8"
         },
         {
           "label": "FULL HD",
@@ -1298,6 +1246,10 @@
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi4.m3u8"
         },
         {
+          "label": "NEXT HD",
+          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
+        },
+        {
           "label": "SS",
           "url": "https://4k.tooncd.workers.dev/max_4"
         },
@@ -1310,19 +1262,23 @@
           "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max4low.m3u8"
         },
         {
-          "label": "NM SD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2395622.m3u8"
+          "label": "WIN",
+          "url": "https://live3.wegoal5.win/BMax4-1/index.m3u8"
         },
         {
-          "label": "NM HD",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2395620.m3u8"
+          "label": "CFD",
+          "url": "https://r2-server1.cfd/iptv-4/index.m3u8"
         },
         {
-          "label": "NM FULL HD'",
-          "url": "http://93.115.101.179:9017/live/Mn/Mn/2395618.m3u8"
+          "label": "RZN HD",
+          "url": "https://stm.linkip.org/live/1966_.m3u8"
+        },
+        {
+          "label": "SERIAL",
+          "url": "http://80.251.153.221:2095/serial_798817/1754606919695ebcc3e4c41/1041845?token=ybHfHfc.azdyHcU.X.UXHUzdc.ydzHzfaHdy.X.y.DZ.ts.63716d2b31819bab1785d594e2c910356cb126ea55ab34d187b5f12ed416e672...bXlwcm8tc3RiLmNvbTo4MDgw?token="
         }
       ],
-      "user_agent": "TDMv2.0.5",
+      "user_agent": "TDMv2.0.6",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1347,8 +1303,8 @@
           "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5sd.ts"
         },
         {
-          "label": "NEO MULTI",
-          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_5_hd.m3u8"
+          "label": "RZN MULTI",
+          "url": "https://bigredrmulti.staticdev9.workers.dev/max5.m3u8"
         },
         {
           "label": "RAW MULTI",
@@ -1359,19 +1315,15 @@
           "url": "https://4k.tooncd.workers.dev/max_5"
         },
         {
-          "label": "Ap",
-          "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
-        },
-        {
-          "label": "Proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835132"
-        },
-        {
           "label": "Server 10",
           "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248174.ts"
+        },
+        {
+          "label": "SD LOW",
+          "url": "http://h42.reelpush.online/live/69854211/index.m3u8"
         }
       ],
-      "user_agent": "TDMv2.0.5",
+      "user_agent": "TDMv2.0.6",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1396,8 +1348,8 @@
           "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6sd.ts"
         },
         {
-          "label": "NEO MULTI",
-          "url": "https://rzzznmulti.staticdev9.workers.dev/?id=beIN_MAX_6_hd.m3u8"
+          "label": "RZN MULTI",
+          "url": "https://bigredrmulti.staticdev9.workers.dev/max6.m3u8"
         },
         {
           "label": "RAW MULTI",
@@ -1408,15 +1360,11 @@
           "url": "https://4k.tooncd.workers.dev/max_6"
         },
         {
-          "label": "Ap",
-          "url": "https://rzzznap.staticdev9.workers.dev/?id=max1.mpd"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835131"
+          "label": "SD",
+          "url": "http://h42.reelpush.online/live/645587700/index.m3u8"
         }
       ],
-      "user_agent": "TDMv2.0.5",
+      "user_agent": "TDMv2.0.6",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -2615,18 +2563,6 @@
           "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_SD.ts"
         },
         {
-          "label": "AP HD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/241389.m3u8"
-        },
-        {
-          "label": "AP FHD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/241376.m3u8"
-        },
-        {
-          "label": "AP SD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/241395.m3u8"
-        },
-        {
           "label": "SD",
           "url": "https://stm.linkip.org/live/3461_.m3u8"
         },
@@ -2694,18 +2630,6 @@
         {
           "label": "RZN SD",
           "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_SD.ts"
-        },
-        {
-          "label": "AP HD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/241390.m3u8"
-        },
-        {
-          "label": "AP FHD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/241377.m3u8"
-        },
-        {
-          "label": "AP SD",
-          "url": "http://93.115.101.179:9017/live/Ap/Ap/241396.m3u8"
         },
         {
           "label": "SD",
@@ -4392,7 +4316,7 @@
           "url": "http://185.9.2.18/chid_375/mono.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+      "user_agent": "",
       "referer": "",
       "clear_key": "e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f",
       "category": "MBC"
