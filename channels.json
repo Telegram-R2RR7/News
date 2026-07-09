@@ -1,16 +1,16 @@
 {
-  "version": "39.0",
+  "version": "40.0",
   "channels": [
     {
       "id": "1",
       "name": "beIN Sports 1",
       "description": "بث مباشر للمباريات",
       "logo": "https://i.imgur.com/Vtk2cGI.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_1_4k",
       "qualities": [
         {
           "label": "Server 7",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_1_4k"
         },
         {
           "label": "reelpush",
@@ -47,11 +47,11 @@
       "name": "beIN Sports 2",
       "description": "بث مباشر للمباريات",
       "logo": "https://i.imgur.com/vUJZSvs.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_2_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_2_4k",
       "qualities": [
         {
           "label": "Server 6",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_2_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_2_4k"
         },
         {
           "label": "reelpush",
@@ -84,12 +84,12 @@
       "name": "beIN Sports 3",
       "description": "بين سبورت فقط للايرثلنك",
       "logo": "https://i.imgur.com/UYSMao3.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_3_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_3_4k",
       "category": "ايرثلنك",
       "qualities": [
         {
           "label": "Server 6",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_3_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_3_4k"
         },
         {
           "label": "reelpush",
@@ -223,11 +223,11 @@
       "name": "beIN SPORTS 6",
       "description": "",
       "logo": "https://i.imgur.com/0wBdLYb.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_6_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_6_4k",
       "qualities": [
         {
           "label": "Server 5",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_6_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_6_4k"
         },
         {
           "label": "reelpush",
@@ -289,11 +289,11 @@
       "name": "beIN SPORTS 8",
       "description": "",
       "logo": "https://i.imgur.com/CaFEyVn.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_8_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_8_4k",
       "qualities": [
         {
           "label": "Server 5",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_8_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_8_4k"
         },
         {
           "label": "Server stm",
@@ -322,11 +322,11 @@
       "name": "beIN SPORTS 9",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_1_4k",
       "qualities": [
         {
           "label": "stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_1_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_1_4k"
         },
         {
           "label": "Server 3",
@@ -864,55 +864,51 @@
       "name": "beIN SPORTS MAX 1",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1hd.ts",
+      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_hd.ts",
       "qualities": [
         {
-          "label": "alpha hd",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max14k.ts"
-        },
-        {
-          "label": "Alpha SD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max1sd.ts"
-        },
-        {
-          "label": "RZN MULTI",
-          "url": "https://snowy-paper-c9a9.staticdev9.workers.dev/max1.m3u8"
-        },
-        {
-          "label": "RAW",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max1.ts"
+          "label": "RZN NEO HD",
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_hd.ts"
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_1_4k.ts"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_1_hd.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_4k.ts"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_1_sd.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_sd.ts"
         },
         {
-          "label": "RAW 2",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=postsport1.ts"
+          "label": "alpha hd",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max1hd.ts"
         },
         {
-          "label": "REEZN Multi",
-          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max1.m3u8"
+          "label": "alpha 4k",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max14k.ts"
         },
         {
-          "label": "NEXT HD",
-          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
+          "label": "alpha SD",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max1sd.ts"
+        },
+        {
+          "label": "Majed Multi",
+          "url": "https://redperch.space/directcardinal.php?streamid=max1.m3u8"
+        },
+        {
+          "label": "RAW",
+          "url": "https://redperch.space/rawcardinal.php?streamid=max1.ts"
+        },
+        {
+          "label": "SD LOW",
+          "url": "https://redperch.space/sdlow.php?id=max1.m3u8"
+        },
+        {
+          "label": "COPA HD",
+          "url": "https://live.aab1.top/odai/123321/9088.ts"
         },
         {
           "label": "SS",
-          "url": "https://4k.tooncd.workers.dev/max_1"
+          "url": "https://redperch.space/sscardinal.php?id=max1.ts"
         },
         {
           "label": "avr stream",
@@ -921,26 +917,6 @@
         {
           "label": "Bozz",
           "url": "https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8"
-        },
-        {
-          "label": "X1HD",
-          "url": "http://82.39.115.24:8080/X1/index.m3u8"
-        },
-        {
-          "label": "SD LOW",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1low.m3u8"
-        },
-        {
-          "label": "COPA FHD",
-          "url": "https://live.aab1.top/odai/123321/9087.ts"
-        },
-        {
-          "label": "COPA HD",
-          "url": "https://live.aab1.top/odai/123321/9088.ts"
-        },
-        {
-          "label": "alive",
-          "url": "https://alive1.kianezidi1.workers.dev/beemax1.m3u8"
         },
         {
           "label": "Server 35",
@@ -955,15 +931,19 @@
           "url": "http://149.18.45.65/live/MAGSWRE59TG/WA75ZDDM/33.m3u8"
         },
         {
-          "label": "Fast",
-          "url": "https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto"
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835130"
         },
         {
-          "label": "majed",
-          "url": "https://majed-koora.co/stream.php?channel=majed20267&file=stream.m3u8"
+          "label": "bN France",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+        },
+        {
+          "label": "starhub",
+          "url": "http://starhub.pro/live/farhat-3379/67897-913379/744517.ts"
         }
       ],
-      "user_agent": "TDMv2.0.6",
+      "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -973,71 +953,47 @@
       "name": "beIN SPORTS MAX 2",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2hd.ts",
+      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_HD.ts",
       "qualities": [
         {
-          "label": "alpha hd",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max24k.ts"
-        },
-        {
-          "label": "Alpha SD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max2sd.ts"
-        },
-        {
-          "label": "RZN MULTI",
-          "url": "https://snowy-paper-c9a9.staticdev9.workers.dev/max2.m3u8"
+          "label": "RZN NEO HD",
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_HD.ts"
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_2_4k.ts"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_2_HD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_4k.ts"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_2_SD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_SD.ts"
         },
         {
-          "label": "REEZN Multi",
-          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max2.m3u8"
+          "label": "alpha hd",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max2hd.ts"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max24k.ts"
+        },
+        {
+          "label": "alpha SD",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max2sd.ts"
+        },
+        {
+          "label": "Majed Multi",
+          "url": "https://redperch.space/directcardinal.php?streamid=max2.m3u8"
         },
         {
           "label": "RAW",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max2.ts"
-        },
-        {
-          "label": "RAW 2",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=postsport2.ts"
-        },
-        {
-          "label": "NEXT HD",
-          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
-        },
-        {
-          "label": "SS",
-          "url": "https://4k.tooncd.workers.dev/max_2"
-        },
-        {
-          "label": "kurd tv",
-          "url": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8"
-        },
-        {
-          "label": "grand",
-          "url": "http://185.170.142.19:8080/GrandSport/1_1001_Video.m3u8"
+          "url": "https://redperch.space/rawcardinal.php?streamid=max2.ts"
         },
         {
           "label": "SD LOW",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max1low.m3u8"
+          "url": "https://redperch.space/sdlow.php?id=max2.m3u8"
         },
         {
-          "label": "Server 25",
-          "url": "http://mag.diamondtv.one/play/live.php?mac=00:1A:79:B5:97:00&stream=1047479&extension=m3u8"
+          "label": "SS",
+          "url": "https://redperch.space/sscardinal.php?id=max2.ts"
         },
         {
           "label": "Server 26",
@@ -1048,23 +1004,19 @@
           "url": "http://149.18.45.121/live/889C29BC/lofDVsk52u/1332748.m3u8"
         },
         {
-          "label": "RZN HD",
-          "url": "https://stm.linkip.org/live/1956_.m3u8"
+          "label": "bN FRANCE",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
         },
         {
-          "label": "fast",
-          "url": "https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto"
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835135"
         },
         {
-          "label": "majed",
-          "url": "https://majed-koora.co/stream.php?channel=majed20267&file=stream.m3u8"
-        },
-        {
-          "label": "alive",
-          "url": "https://alive1.kianezidi1.workers.dev/beemax2.m3u8"
+          "label": "COPA",
+          "url": "https://live.aab1.top:443/odai/123321/65"
         }
       ],
-      "user_agent": "TDMv2.0.6",
+      "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1074,90 +1026,62 @@
       "name": "beIN SPORTS MAX 3",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3hd.ts",
+      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_HD.ts",
       "qualities": [
         {
-          "label": "alpha hd",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max34k.ts"
-        },
-        {
-          "label": "Alpha SD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max3sd.ts"
-        },
-        {
-          "label": "RZN MULTI",
-          "url": "https://snowy-paper-c9a9.staticdev9.workers.dev/max3.m3u8"
-        },
-        {
-          "label": "FULL HD",
-          "url": "https://tmaxapp.site/beinmax3.m3u8"
+          "label": "RZN NEO HD",
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_HD.ts"
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_3_4K.ts"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_3_HD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_4K.ts"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_3_SD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_SD.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max3hd.ts"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max34k.ts"
+        },
+        {
+          "label": "Alpha SD",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max3sd.ts"
+        },
+        {
+          "label": "Majed Multi",
+          "url": "https://redperch.space/directcardinal.php?streamid=max3.m3u8"
         },
         {
           "label": "RAW",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max3.ts"
-        },
-        {
-          "label": "REEZN Multi",
-          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max3.m3u8"
-        },
-        {
-          "label": "RAW MULTI",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi3.m3u8"
-        },
-        {
-          "label": "SS",
-          "url": "https://4k.tooncd.workers.dev/max_3"
-        },
-        {
-          "label": "Server 18",
-          "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248172.ts"
-        },
-        {
-          "label": "Server 19",
-          "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295247.ts"
+          "url": "https://redperch.space/rawcardinal.php?streamid=max3.ts"
         },
         {
           "label": "SD LOW",
-          "url": "http://h42.reelpush.online/live/33523510/index.m3u8"
+          "url": "https://redperch.space/sdlow.php?id=max3.m3u8"
         },
         {
-          "label": "COPA FHD",
-          "url": "https://live.aab1.top:443/odai/123321/70.ts"
+          "label": "SS",
+          "url": "https://redperch.space/sscardinal.php?id=max3.ts"
         },
         {
           "label": "COPA HD",
           "url": "https://live.aab1.top:443/odai/123321/69.ts"
         },
         {
-          "label": "fast",
-          "url": "https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto"
+          "label": "bN FRANCE",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
         },
         {
-          "label": "majed",
-          "url": "https://majed-koora.co/stream.php?channel=majed20267&file=stream.m3u8"
-        },
-        {
-          "label": "alive",
-          "url": "https://alive1.kianezidi1.workers.dev/beemax3.m3u8"
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835134"
         }
       ],
-      "user_agent": "TDMv2.0.6",
+      "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1167,82 +1091,58 @@
       "name": "beIN SPORTS MAX 4",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4hd.ts",
+      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_HD.ts",
       "qualities": [
         {
-          "label": "alpha hd",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max44k.ts"
-        },
-        {
-          "label": "Alpha SD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max4sd.ts"
-        },
-        {
-          "label": "RZN MULI",
-          "url": "https://snowy-paper-c9a9.staticdev9.workers.dev/max4.m3u8"
-        },
-        {
-          "label": "FULL HD",
-          "url": "https://tmaxapp.site/beinmax4.m3u8"
+          "label": "RZN NEO HD",
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_HD.ts"
         },
         {
           "label": "RZN NEO 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_4_4k.ts"
-        },
-        {
-          "label": "RZN NEO HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_4_HD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_4k.ts"
         },
         {
           "label": "RZN NEO SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=BEIN_MAX_4_SD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_SD.ts"
         },
         {
-          "label": "REEZN Multi",
-          "url": "https://streamrezzzn.staticdev9.workers.dev/?streamid=max4.m3u8"
+          "label": "alpha hd",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max4hd.ts"
+        },
+        {
+          "label": "alpha 4k",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max44k.ts"
+        },
+        {
+          "label": "Alpha SD",
+          "url": "https://redperch.space/alphacardinal.php?streamid=max4sd.ts"
+        },
+        {
+          "label": "Majed Multi",
+          "url": "https://redperch.space/directcardinal.php?streamid=max4.m3u8"
         },
         {
           "label": "RAW",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=max4.ts"
-        },
-        {
-          "label": "RAW MULTI",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi4.m3u8"
-        },
-        {
-          "label": "NEXT HD",
-          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8"
-        },
-        {
-          "label": "SS",
-          "url": "https://4k.tooncd.workers.dev/max_4"
-        },
-        {
-          "label": "Server 17",
-          "url": "http://t77ert.top:80/live/d0:d0:03:36:33:7e/eqzw0eux/248173.ts"
+          "url": "https://redperch.space/rawcardinal.php?streamid=max4.ts"
         },
         {
           "label": "SD LOW",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/max4low.m3u8"
+          "url": "https://redperch.space/sdlow.php?id=max4.m3u8"
         },
         {
-          "label": "fast",
-          "url": "https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto"
+          "label": "SS",
+          "url": "https://redperch.space/sscardinal.php?id=max4.ts"
         },
         {
-          "label": "majed",
-          "url": "https://majed-koora.co/stream.php?channel=majed20267&file=stream.m3u8"
+          "label": "bN FRANCE",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
         },
         {
-          "label": "alive",
-          "url": "https://alive1.kianezidi1.workers.dev/beemax4.m3u8"
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835133"
         }
       ],
-      "user_agent": "TDMv2.0.6",
+      "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1252,46 +1152,30 @@
       "name": "beIN SPORTS MAX 5",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5hd.ts",
+      "url": "https://redperch.space/alphacardinal.php?streamid=max5hd.ts",
       "qualities": [
         {
           "label": "Alpha HD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=max5hd.ts"
         },
         {
           "label": "ALPHA 4K",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max54k.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=max54k.ts"
         },
         {
           "label": "ALPHA SD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max5sd.ts"
-        },
-        {
-          "label": "RZN MULTI",
-          "url": "https://snowy-paper-c9a9.staticdev9.workers.dev/max5.m3u8"
-        },
-        {
-          "label": "RAW MULTI",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi5.m3u8"
+          "url": "https://redperch.space/alphacardinal.php?streamid=max5sd.ts"
         },
         {
           "label": "SS FULL HD",
-          "url": "https://4k.tooncd.workers.dev/max_5"
+          "url": "https://redperch.space/sscardinal.php?id=max5.ts"
         },
         {
-          "label": "Server 10",
-          "url": "http://psk-sdk.ddno.us:8080/live/641cae119cf3/32jq23CGfQCARX3/248174.ts"
-        },
-        {
-          "label": "SD LOW",
-          "url": "http://h42.reelpush.online/live/69854211/index.m3u8"
-        },
-        {
-          "label": "Server 9",
-          "url": "https://alive1.kianezidi1.workers.dev/beemax5.m3u8"
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835132"
         }
       ],
-      "user_agent": "TDMv2.0.6",
+      "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1301,42 +1185,34 @@
       "name": "beIN SPORTS MAX 6",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6hd.ts",
+      "url": "https://redperch.space/alphacardinal.php?streamid=max6hd.ts",
       "qualities": [
         {
           "label": "ALPHA HD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=max6hd.ts"
         },
         {
           "label": "ALPHA 4K",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max64k.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=max64k.ts"
         },
         {
           "label": "ALPHA SD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=max6sd.ts"
-        },
-        {
-          "label": "RZN MULTI",
-          "url": "https://snowy-paper-c9a9.staticdev9.workers.dev/max6.m3u8"
-        },
-        {
-          "label": "RAW MULTI",
-          "url": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/maxi6.m3u8"
+          "url": "https://redperch.space/alphacardinal.php?streamid=max6sd.ts"
         },
         {
           "label": "SS FULL HD",
-          "url": "https://4k.tooncd.workers.dev/max_6"
+          "url": "https://redperch.space/sscardinal.php?id=max6.ts"
         },
         {
-          "label": "SD",
-          "url": "http://h42.reelpush.online/live/645587700/index.m3u8"
-        },
-        {
-          "label": "Server 8",
+          "label": "alive",
           "url": "https://alive1.kianezidi1.workers.dev/beemax6.m3u8"
+        },
+        {
+          "label": "proxpanel",
+          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835131"
         }
       ],
-      "user_agent": "TDMv2.0.6",
+      "user_agent": "",
       "referer": "",
       "clear_key": "",
       "category": "FIFA 2026"
@@ -1346,39 +1222,27 @@
       "name": "beIN SPORTS 4K HDR",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=TOD_HDR.ts",
+      "url": "https://redperch.space/neocardinal.php?id=TOD.ts",
       "qualities": [
         {
           "label": "NEO 4K HDR",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=TOD_HDR.ts"
-        },
-        {
-          "label": "NEO 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=TOD_4K.ts"
+          "url": "https://redperch.space/neocardinal.php?id=TOD.ts"
         },
         {
           "label": "Server 4",
           "url": "https://ap-4it.pages.dev/d1.m3u8"
         },
         {
-          "label": "AP 4K",
-          "url": "http://193.37.44.55:8888/live/735789301065/230820158217/589202.m3u8"
-        },
-        {
           "label": "mag",
           "url": "http://mag.diamondtv.one/play/live.php?mac=A0:BB:3E:03:AB:7F&stream=829314&extension=m3u8"
         },
         {
+          "label": "mavpro",
+          "url": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/405509.M3U8"
+        },
+        {
           "label": "x1",
           "url": "http://line.x1store-cdn.me/play/live.php?mac=00:1A:79:F1:B2:22&stream=2097322&extension=m3u8"
-        },
-        {
-          "label": "Server 8",
-          "url": "http://103.75.69.131/play/live.php?mac=00:1A:79:B5:97:00&stream=846579&extension=m3u8"
-        },
-        {
-          "label": "Server 9",
-          "url": "http://ntr.paixif.com/live/MAGC2UY1VL6/VUSXCKP9/1425813.m3u8"
         },
         {
           "label": "Server 10",
@@ -1391,10 +1255,6 @@
         {
           "label": "irib",
           "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
-        },
-        {
-          "label": "Server 12",
-          "url": "http://205.237.106.222:8080/1974074497234/5814543255567/575584"
         }
       ],
       "user_agent": "",
@@ -1423,7 +1283,7 @@
         },
         {
           "label": "Server 5",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=fr:_m6_hd.ts"
+          "url": "https://redperch.space/neocardinal.php?id=fr:_m6_hd.ts"
         },
         {
           "label": "Server 3",
@@ -1431,7 +1291,7 @@
         },
         {
           "label": "4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=fr:_m6_4K.ts"
+          "url": "https://redperch.space/neocardinal.php?id=fr:_m6_4K.ts"
         }
       ],
       "user_agent": "",
@@ -2452,11 +2312,11 @@
       "name": "Programme National",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts",
+      "url": "https://redperch.space/neocardinal.php?id=DZ.Programme_National_HD.ts",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=DZ.Programme_National_HD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=DZ.Programme_National_HD.ts"
         },
         {
           "label": "Server 2",
@@ -2507,11 +2367,11 @@
       "name": "Arryadia TNT",
       "description": "",
       "logo": "https://i.imgur.com/XjzK3gZ.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts",
+      "url": "https://redperch.space/neocardinal.php?id=AR:_ARRIADIA_3_TNT.ts",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=AR:_ARRIADIA_3_TNT.ts"
+          "url": "https://redperch.space/neocardinal.php?id=AR:_ARRIADIA_3_TNT.ts"
         },
         {
           "label": "Server 3",
@@ -2536,35 +2396,39 @@
       "name": "Alwan Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/UibCHUN.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan14K.ts",
+      "url": "https://redperch.space/neocardinal.php?id=alwan_sport_1_hd.ts",
       "qualities": [
         {
-          "label": "alpha 4k",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan14K.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan1hd.ts"
-        },
-        {
-          "label": "RAW",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan1.ts"
-        },
-        {
           "label": "RZN HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_hd.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_1_hd.ts"
         },
         {
           "label": "RZN 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_1_4k.ts"
         },
         {
           "label": "RZN SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_1_SD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_1_SD.ts"
         },
         {
-          "label": "Server s5",
-          "url": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts"
+          "label": "alpha 4k",
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan14K.ts"
+        },
+        {
+          "label": "alpha hd",
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan1hd.ts"
+        },
+        {
+          "label": "RAW",
+          "url": "https://redperch.space/rawcardinal.php?streamid=alwan1.ts"
+        },
+        {
+          "label": "raw2",
+          "url": "https://redperch.space/raw2.php?id=alwan1"
+        },
+        {
+          "label": "COPPA",
+          "url": "https://live.aab1.top/odai/123321/185.ts"
         },
         {
           "label": "HEVC",
@@ -2573,10 +2437,6 @@
         {
           "label": "4K HEVC",
           "url": "http://ntr.paixif.com/live/MAGSRR67TYY/2T8XVU1K/1236888.m3u8"
-        },
-        {
-          "label": "COPPA",
-          "url": "https://live.aab1.top/odai/123321/185.ts"
         },
         {
           "label": "Server 15",
@@ -2601,31 +2461,31 @@
       "name": "Alwan Sports 2",
       "description": "",
       "logo": "https://i.imgur.com/Gl8AxBh.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_HD.ts",
+      "url": "https://redperch.space/neocardinal.php?id=alwan_sport_2_HD.ts",
       "qualities": [
         {
           "label": "RZN HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_HD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_2_HD.ts"
         },
         {
           "label": "RZN 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_2_4k.ts"
         },
         {
           "label": "RZN SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_2_SD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_2_SD.ts"
         },
         {
-          "label": "SD",
-          "url": "https://stm.linkip.org/live/3460_.m3u8"
+          "label": "COPA",
+          "url": "https://live.aab1.top:443/odai/123321/186"
         },
         {
           "label": "alpha hd",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan2hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan2hd.ts"
         },
         {
           "label": "RAW",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan2.ts"
+          "url": "https://redperch.space/rawcardinal.php?streamid=alwan2.ts"
         },
         {
           "label": "Server 10",
@@ -2654,19 +2514,19 @@
       "name": "Alwan Sports 3",
       "description": "",
       "logo": "https://i.imgur.com/c9cHkFP.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_HD.ts",
+      "url": "https://redperch.space/neocardinal.php?id=alwan_sport_3_HD.ts",
       "qualities": [
         {
           "label": "RZN HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_HD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_3_HD.ts"
         },
         {
           "label": "RZN 4K",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_3_4k.ts"
         },
         {
           "label": "RZN SD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=alwan_sport_3_SD.ts"
+          "url": "https://redperch.space/neocardinal.php?id=alwan_sport_3_SD.ts"
         },
         {
           "label": "SD",
@@ -2674,11 +2534,11 @@
         },
         {
           "label": "ALPHA HD",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan3hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan3hd.ts"
         },
         {
           "label": "Server 3",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan3.ts"
+          "url": "https://redperch.space/rawcardinal.php?streamid=alwan3.ts"
         },
         {
           "label": "Server 7",
@@ -2703,11 +2563,11 @@
         },
         {
           "label": "Alpha",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan4hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan4hd.ts"
         },
         {
           "label": "Server 3",
-          "url": "https://rznraw.staticdev9.workers.dev/?streamid=alwan4.ts"
+          "url": "https://redperch.space/rawcardinal.php?streamid=alwan4.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2720,11 +2580,11 @@
       "name": "Alwan Sports 5",
       "description": "",
       "logo": "https://i.imgur.com/JJojLHs.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan5hd.ts",
+      "url": "https://redperch.space/alphacardinal.php?streamid=alwan5hd.ts",
       "qualities": [
         {
           "label": "Alpha",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan5hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan5hd.ts"
         },
         {
           "label": "SD",
@@ -2741,11 +2601,11 @@
       "name": "Alwan Sports 6",
       "description": "",
       "logo": "https://i.imgur.com/VZxazRS.png",
-      "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan6hd.ts",
+      "url": "https://redperch.space/alphacardinal.php?streamid=alwan6hd.ts",
       "qualities": [
         {
           "label": "Alpha",
-          "url": "https://rznalpha.staticdev9.workers.dev/?streamid=alwan6hd.ts"
+          "url": "https://redperch.space/alphacardinal.php?streamid=alwan6hd.ts"
         },
         {
           "label": "SD",
@@ -2762,11 +2622,11 @@
       "name": "Alwan Sports 7",
       "description": "",
       "logo": "https://i.imgur.com/mECyQgn.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_7_4k.ts",
       "qualities": [
         {
           "label": "Server 3",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_7_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_7_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2779,11 +2639,11 @@
       "name": "Alwan Sports 8",
       "description": "",
       "logo": "https://i.imgur.com/Ms4DPwn.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_8_4k.ts",
       "qualities": [
         {
           "label": "Stream 2",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_8_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_8_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2796,11 +2656,11 @@
       "name": "Alwan Sports 9",
       "description": "",
       "logo": "https://i.imgur.com/eMz1Lw4.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_9_4k.ts",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_9_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_9_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2813,11 +2673,11 @@
       "name": "Alwan Sports 10",
       "description": "",
       "logo": "https://i.imgur.com/EO6RpBf.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_10_4k.ts",
       "qualities": [
         {
           "label": "Server 4",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_Sport_10_4k.ts"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_Sport_10_4k.ts"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2830,11 +2690,11 @@
       "name": "Alwan F1",
       "description": "",
       "logo": "https://imgur.com/6VEFuLW.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_F1_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_F1_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_F1_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_F1_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2847,11 +2707,11 @@
       "name": "Alwan Aghani",
       "description": "",
       "logo": "https://imgur.com/cQOFdc9.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aghani_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_aghani_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aghani_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_aghani_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2864,11 +2724,11 @@
       "name": "Alwan Atfal",
       "description": "",
       "logo": "https://imgur.com/06XCqR4.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_atfal_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_atfal_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_atfal_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_atfal_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2881,11 +2741,11 @@
       "name": "Alwan Anime",
       "description": "",
       "logo": "https://imgur.com/aDxB792.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_anime_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_anime_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_anime_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_anime_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2898,11 +2758,11 @@
       "name": "Alwan UFC",
       "description": "",
       "logo": "https://imgur.com/UxL3Y5r.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_ufc_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_ufc_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_ufc_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_ufc_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2915,11 +2775,11 @@
       "name": "Alwan WWE",
       "description": "",
       "logo": "https://imgur.com/myzRuId.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_wwe_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_wwe_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_wwe_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_wwe_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2932,11 +2792,11 @@
       "name": "Alwan Bollywood",
       "description": "",
       "logo": "https://imgur.com/v2UZxV8.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_bollywood_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_bollywood_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_bollywood_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_bollywood_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2949,11 +2809,11 @@
       "name": "Alwan Turkey",
       "description": "",
       "logo": "https://imgur.com/h9TrQ6Z.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_turkey_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_turkey_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_turkey_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_turkey_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2966,11 +2826,11 @@
       "name": "Alwan Korea",
       "description": "",
       "logo": "https://imgur.com/cXtIGlV.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_korea_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_korea_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_korea_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_korea_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -2983,11 +2843,11 @@
       "name": "Alwan Mosalsalat+",
       "description": "",
       "logo": "https://imgur.com/LinlqpP.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat+_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_mosalsalat+_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat+_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_mosalsalat+_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3000,11 +2860,11 @@
       "name": "Alwan Mosalsalat",
       "description": "",
       "logo": "https://imgur.com/JgpcmcV.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_mosalsalat_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_mosalsalat_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_mosalsalat_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3017,11 +2877,11 @@
       "name": "Alwan Aflam 4",
       "description": "",
       "logo": "https://imgur.com/FvbloCp.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_4_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_4_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_4_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_4_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3034,11 +2894,11 @@
       "name": "Alwan Aflam 3",
       "description": "",
       "logo": "https://i.imgur.com/V74jY91.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_3_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_3_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_3_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_3_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3051,11 +2911,11 @@
       "name": "Alwan Aflam 2",
       "description": "",
       "logo": "https://i.imgur.com/ZFsjiWI.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_2_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_2_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_2_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_2_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3068,11 +2928,11 @@
       "name": "Alwan Aflam 1",
       "description": "",
       "logo": "https://i.imgur.com/F6FQqZL.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_1_4k",
+      "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_1_4k",
       "qualities": [
         {
           "label": "Stream 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Alwan_aflam_1_4k"
+          "url": "https://redperch.space/neocardinal.php?id=Alwan_aflam_1_4k"
         }
       ],
       "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
@@ -3199,11 +3059,11 @@
       "name": "Fajer TV 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_1",
+      "url": "https://redperch.space/neocardinal.php?id=al_fajer_1",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_1"
+          "url": "https://redperch.space/neocardinal.php?id=al_fajer_1"
         },
         {
           "label": "Server 2",
@@ -3220,11 +3080,11 @@
       "name": "Fajer TV 2",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_2",
+      "url": "https://redperch.space/neocardinal.php?id=al_fajer_2",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_2"
+          "url": "https://redperch.space/neocardinal.php?id=al_fajer_2"
         },
         {
           "label": "Server 2",
@@ -3241,11 +3101,11 @@
       "name": "Fajer TV 3",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_3",
+      "url": "https://redperch.space/neocardinal.php?id=al_fajer_3",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_3"
+          "url": "https://redperch.space/neocardinal.php?id=al_fajer_3"
         },
         {
           "label": "Server 2",
@@ -3262,11 +3122,11 @@
       "name": "Fajer TV 4",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_4",
+      "url": "https://redperch.space/neocardinal.php?id=al_fajer_4",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_4"
+          "url": "https://redperch.space/neocardinal.php?id=al_fajer_4"
         },
         {
           "label": "Server 2",
@@ -3283,11 +3143,11 @@
       "name": "Fajer TV 5",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_5",
+      "url": "https://redperch.space/neocardinal.php?id=al_fajer_5",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=al_fajer_5"
+          "url": "https://redperch.space/neocardinal.php?id=al_fajer_5"
         },
         {
           "label": "Server 2",
@@ -3321,11 +3181,11 @@
       "name": "Baraem",
       "description": "",
       "logo": "https://i.imgur.com/7woV4Cz.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_baraeam_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_baraeam_4k",
       "qualities": [
         {
           "label": "HD",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_baraeam_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_baraeam_4k"
         },
         {
           "label": "Server 2",
@@ -3342,11 +3202,11 @@
       "name": "beIN DRAMA 1",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_drama_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_drama_4k",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_drama_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_drama_4k"
         },
         {
           "label": "Apollo",
@@ -3363,11 +3223,11 @@
       "name": "beIN GOURMET",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_gourmet_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_gourmet_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_gourmet_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_gourmet_hd"
         }
       ],
       "user_agent": "",
@@ -3380,11 +3240,11 @@
       "name": "beIN MOVIES 1 PREMIERE",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_1_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_movies_1_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_1_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_movies_1_hd"
         },
         {
           "label": "Fallback",
@@ -3401,11 +3261,11 @@
       "name": "beIN MOVIES 2 ACTION",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_2_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_movies_2_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_2_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_movies_2_hd"
         },
         {
           "label": "Fallback",
@@ -3422,11 +3282,11 @@
       "name": "beIN MOVIES 3 DRAMA",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_3_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_movies_3_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_3_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_movies_3_hd"
         },
         {
           "label": "Fallback",
@@ -3443,11 +3303,11 @@
       "name": "beIN MOVIES 4 FAMILY",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_4_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_movies_4_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_movies_4_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_movies_4_hd"
         },
         {
           "label": "Fallback",
@@ -3464,11 +3324,11 @@
       "name": "beIN SERIES 1",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Series_HD1.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_1_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_series_1_hd",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_1_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_series_1_hd"
         },
         {
           "label": "Fallback",
@@ -3485,11 +3345,11 @@
       "name": "beIN SERIES 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_2_hd",
+      "url": "https://redperch.space/neocardinal.php?id=bein_series_2_hd",
       "qualities": [
         {
           "label": "Apollo",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_series_2_hd"
+          "url": "https://redperch.space/neocardinal.php?id=bein_series_2_hd"
         }
       ],
       "user_agent": "",
@@ -3536,11 +3396,11 @@
       "name": "Jeem",
       "description": "",
       "logo": "https://i.imgur.com/dvCrNQ8.png",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_jeem_4k",
+      "url": "https://redperch.space/neocardinal.php?id=bein_jeem_4k",
       "qualities": [
         {
           "label": "Stream 4",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=bein_jeem_4k"
+          "url": "https://redperch.space/neocardinal.php?id=bein_jeem_4k"
         },
         {
           "label": "Server 2",
@@ -4638,11 +4498,11 @@
       "name": "ENNAHAR TV",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/3840px-Ennahar_TV_%28logo_actuel%29.svg.png",
-      "url": "https://rzzzndz.rzntv.workers.dev/id=ennahar.ts",
+      "url": "https://redperch.space/algeria.php?id=ennahar.ts",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://rzzzndz.rzntv.workers.dev/id=ennahar.ts"
+          "url": "https://redperch.space/algeria.php?id=ennahar.ts"
         },
         {
           "label": "Stream 6",
@@ -9250,11 +9110,11 @@
       "name": "ECHOROUK NEWS",
       "description": "",
       "logo": "http://i.imgur.com/b2koAeh.png",
-      "url": "https://rzzzndz.rzntv.workers.dev/id=echorouknews.ts",
+      "url": "https://redperch.space/algeria.php?id=echorouknews.ts",
       "qualities": [
         {
           "label": "Server 2",
-          "url": "https://rzzzndz.rzntv.workers.dev/id=echorouknews.ts"
+          "url": "https://redperch.space/algeria.php?id=echorouknews.ts"
         },
         {
           "label": "Stream 3",
@@ -9309,11 +9169,11 @@
       "name": "ON Sport",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=On_Time_Sport_HD_1",
+      "url": "https://redperch.space/neocardinal.php?id=On_Time_Sport_HD_1",
       "qualities": [
         {
           "label": "Server 3",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=On_Time_Sport_HD_1"
+          "url": "https://redperch.space/neocardinal.php?id=On_Time_Sport_HD_1"
         },
         {
           "label": "Server 2",
@@ -9334,11 +9194,11 @@
       "name": "ON sport MAX",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=On_Time_Sport_HD_2",
+      "url": "https://redperch.space/neocardinal.php?id=On_Time_Sport_HD_2",
       "qualities": [
         {
           "label": "Server 3",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=On_Time_Sport_HD_2"
+          "url": "https://redperch.space/neocardinal.php?id=On_Time_Sport_HD_2"
         },
         {
           "label": "Stream 3",
@@ -9372,11 +9232,11 @@
       "name": "Zamalek Sports",
       "description": "",
       "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/zamalek_sports.jpg",
-      "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Zamalik",
+      "url": "https://redperch.space/neocardinal.php?id=Zamalik",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://rzzznneo12.staticdev9.workers.dev/?id=Zamalik"
+          "url": "https://redperch.space/neocardinal.php?id=Zamalik"
         }
       ],
       "user_agent": "",
