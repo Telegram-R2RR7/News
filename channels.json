@@ -1,5 +1,5 @@
 {
-  "version": "51",
+  "version": "60.0",
   "channels": [
     {
       "id": "1",
@@ -857,1510 +857,6 @@
     },
     {
       "id": "39",
-      "name": "beIN SPORTS MAX 1",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
-      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_hd.ts",
-      "qualities": [
-        {
-          "label": "RZN NEO HD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_hd.ts"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_4k.ts"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_1_sd.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max1hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max14k.ts"
-        },
-        {
-          "label": "alpha SD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max1sd.ts"
-        },
-        {
-          "label": "alpha 4k 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max14k.ts&source=2"
-        },
-        {
-          "label": "alpha 4k 3",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max14k.ts&source=3"
-        },
-        {
-          "label": "alpha HD 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max1hd.ts&source=2"
-        },
-        {
-          "label": "RAW FHD",
-          "url": "https://redperch.space/rawcardinal.php?streamid=max1.ts"
-        },
-        {
-          "label": "Server 35",
-          "url": "http://149.18.45.121/live/39B6CC5D/56BBDDBA/1415174.m3u8"
-        },
-        {
-          "label": "Server 36",
-          "url": "http://149.18.45.65/live/MAGS6WSWCXV/RY1DQM6U/33.m3u8"
-        },
-        {
-          "label": "Server 37",
-          "url": "http://149.18.45.65/live/MAGSWRE59TG/WA75ZDDM/33.m3u8"
-        },
-        {
-          "label": "starhub",
-          "url": "http://starhub.pro/live/farhat-3379/67897-913379/744517.ts"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835130"
-        },
-        {
-          "label": "bN France",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "40",
-      "name": "beIN SPORTS MAX 2",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
-      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_HD.ts",
-      "qualities": [
-        {
-          "label": "RZN NEO HD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_HD.ts"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_4k.ts"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_2_SD.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max2hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max24k.ts"
-        },
-        {
-          "label": "alpha SD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max2sd.ts"
-        },
-        {
-          "label": "alpha 4k 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max24k.ts&source=2"
-        },
-        {
-          "label": "alpha 4k 3",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max24k.ts&source=3"
-        },
-        {
-          "label": "alpha hd 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max2hd.ts&source=2"
-        },
-        {
-          "label": "RAW FHD",
-          "url": "https://redperch.space/rawcardinal.php?streamid=max2.ts"
-        },
-        {
-          "label": "Server 26",
-          "url": "http://149.18.45.121/live/39B6CC5D/56BBDDBA/1332748.m3u8"
-        },
-        {
-          "label": "Server 27",
-          "url": "http://149.18.45.121/live/889C29BC/lofDVsk52u/1332748.m3u8"
-        },
-        {
-          "label": "bN FRANCE",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835135"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "41",
-      "name": "beIN SPORTS MAX 3",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
-      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_HD.ts",
-      "qualities": [
-        {
-          "label": "RZN NEO HD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_HD.ts"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_4K.ts"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_3_SD.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max3hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max34k.ts"
-        },
-        {
-          "label": "Alpha SD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max3sd.ts"
-        },
-        {
-          "label": "alpha 4k 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max34k.ts&source=2"
-        },
-        {
-          "label": "alpha 4k 3",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max34k.ts&source=3"
-        },
-        {
-          "label": "alpha hd 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max3hd.ts&source=2"
-        },
-        {
-          "label": "RAW FHD",
-          "url": "https://redperch.space/rawcardinal.php?streamid=max3.ts"
-        },
-        {
-          "label": "bN FRANCE",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835134"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "42",
-      "name": "beIN SPORTS MAX 4",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",
-      "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_HD.ts",
-      "qualities": [
-        {
-          "label": "RZN NEO HD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_HD.ts"
-        },
-        {
-          "label": "RZN NEO 4K",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_4k.ts"
-        },
-        {
-          "label": "RZN NEO SD",
-          "url": "https://redperch.space/neocardinal.php?id=BEIN_MAX_4_SD.ts"
-        },
-        {
-          "label": "alpha hd",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max4hd.ts"
-        },
-        {
-          "label": "alpha 4k",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max44k.ts"
-        },
-        {
-          "label": "Alpha SD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max4sd.ts"
-        },
-        {
-          "label": "alpha 4k 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max44k.ts&source=2"
-        },
-        {
-          "label": "alpha 4k 3",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max44k.ts&source=3"
-        },
-        {
-          "label": "alpha hd 2",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max4hd.ts&source=2"
-        },
-        {
-          "label": "RAW FHD",
-          "url": "https://redperch.space/rawcardinal.php?streamid=max4.ts"
-        },
-        {
-          "label": "bN FRANCE",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835133"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "43",
-      "name": "beIN SPORTS MAX 5",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png",
-      "url": "https://redperch.space/alphacardinal.php?streamid=max5hd.ts",
-      "qualities": [
-        {
-          "label": "Alpha HD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max5hd.ts"
-        },
-        {
-          "label": "ALPHA 4K",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max54k.ts"
-        },
-        {
-          "label": "ALPHA SD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max5sd.ts"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835132"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "44",
-      "name": "beIN SPORTS MAX 6",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",
-      "url": "https://redperch.space/alphacardinal.php?streamid=max6hd.ts",
-      "qualities": [
-        {
-          "label": "ALPHA HD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max6hd.ts"
-        },
-        {
-          "label": "ALPHA 4K",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max64k.ts"
-        },
-        {
-          "label": "ALPHA SD",
-          "url": "https://redperch.space/alphacardinal.php?streamid=max6sd.ts"
-        },
-        {
-          "label": "proxpanel",
-          "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/835131"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "45",
-      "name": "beIN SPORTS 4K HDR",
-      "description": "",
-      "logo": "https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png",
-      "url": "https://redperch.space/neocardinal.php?id=TOD.ts",
-      "qualities": [
-        {
-          "label": "NEO 4K HDR",
-          "url": "https://redperch.space/neocardinal.php?id=TOD.ts"
-        },
-        {
-          "label": "mag",
-          "url": "http://mag.diamondtv.one/play/live.php?mac=A0:BB:3E:03:AB:7F&stream=829314&extension=m3u8"
-        },
-        {
-          "label": "mavpro",
-          "url": "http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/405509.M3U8"
-        },
-        {
-          "label": "x1",
-          "url": "http://line.x1store-cdn.me/play/live.php?mac=00:1A:79:F1:B2:22&stream=2097322&extension=m3u8"
-        },
-        {
-          "label": "Server 10",
-          "url": "http://ntr.paixif.com/live/MAG29K2TLLC/8ZM4QHUD/1425814.m3u8"
-        },
-        {
-          "label": "irib",
-          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "46",
-      "name": "M6",
-      "description": "",
-      "logo": "https://i.imgur.com/7GVp3fW.png",
-      "url": "http://151.80.18.177:86/M6_HD/index.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "http://151.80.18.177:86/M6_HD/index.m3u8"
-        },
-        {
-          "label": "DASH",
-          "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd"
-        },
-        {
-          "label": "Server 3",
-          "url": "http://99.27.51.147:8080/M6/index.m3u8"
-        },
-        {
-          "label": "Server 4",
-          "url": "https://redperch.space/neocardinal.php?id=fr:_m6_hd.ts"
-        },
-        {
-          "label": "Server 5",
-          "url": "https://stm.linkip.org/live/876_.m3u8"
-        },
-        {
-          "label": "4K",
-          "url": "https://redperch.space/neocardinal.php?id=fr:_m6_4K.ts"
-        }
-      ],
-      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
-      "referer": "",
-      "clear_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "47",
-      "name": "W9",
-      "description": "",
-      "logo": "https://i.imgur.com/reYeMuE.png",
-      "url": "https://redperch.space/neocardinal.php?id=fr:_w9_hd.ts",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://redperch.space/neocardinal.php?id=fr:_w9_hd.ts"
-        }
-      ],
-      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "48",
-      "name": "Rai 1",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
-      "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://169.150.223.25/Rai1/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "49",
-      "name": "Rai Sport",
-      "description": "",
-      "logo": "https://i.imgur.com/6PEevOM.png",
-      "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "50",
-      "name": "La 1",
-      "description": "",
-      "logo": "https://i.imgur.com/1jDS9UC.png",
-      "url": "https://redperch.space/neocardinal.php?id=es:_la_1_4k.ts",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "https://redperch.space/neocardinal.php?id=es:_la_1_4k.ts"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-        }
-      ],
-      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "51",
-      "name": "LA 1 CANARIAS",
-      "description": "",
-      "logo": "https://i.imgur.com/RqUJ4oj.png",
-      "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "52",
-      "name": "La 1 Catalunya",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png",
-      "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "53",
-      "name": "La 2",
-      "description": "",
-      "logo": "https://i.imgur.com/iwDi3ND.png",
-      "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "54",
-      "name": "LA 2 CANARIAS",
-      "description": "",
-      "logo": "https://i.imgur.com/iwDi3ND.png",
-      "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "55",
-      "name": "La 2 Catalunya",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png",
-      "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "56",
-      "name": "ZDF",
-      "description": "",
-      "logo": "https://i.imgur.com/rtLb6m9.png",
-      "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd",
-      "qualities": [
-        {
-          "label": "Server 3",
-          "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd"
-        },
-        {
-          "label": "Stream 1",
-          "url": "http://169.150.223.25/ZDF/index.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://estreams.tv.nej.cz/dash/CH_ZDF_HD.ism/playlist.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "57",
-      "name": "Das Erste",
-      "description": "",
-      "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/5/59/Das_Erste_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180210215607",
-      "url": "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "58",
-      "name": "TELEMUNDO",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1280px-Telemundo_logo_2018.svg.png",
-      "url": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 2",
-          "url": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "http://168.228.44.241:9998/play/a0a9/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "59",
-      "name": "TUDN",
-      "description": "",
-      "logo": "https://i.imgur.com/oT5CAvd.png",
-      "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn/wv-pr/hls/tudn.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "60",
-      "name": "TRT 4K",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/1280px-TRT_4K_logo.svg.png",
-      "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://4k.tooncd.workers.dev/trt4k"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "61",
-      "name": "TRT Spor",
-      "description": "",
-      "logo": "https://i.imgur.com/6tv0zxh.png",
-      "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "62",
-      "name": "TRT 1",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-      "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8"
-        },
-        {
-          "label": "Server 3",
-          "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8"
-        },
-        {
-          "label": "Server 4",
-          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "63",
-      "name": "UNITE8 SPORTS 1",
-      "description": "",
-      "logo": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/bmi/media/media_files/2026/06/02/unite8-sports-logo-2026-06-02-11-18-06.jpg",
-      "url": "http://103.204.43.87:8080/live/1/1/266.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://103.204.43.87:8080/live/1/1/266.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "64",
-      "name": "UNITE8 SPORTS 2",
-      "description": "",
-      "logo": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/bmi/media/media_files/2026/06/02/unite8-sports-logo-2026-06-02-11-18-06.jpg",
-      "url": "http://103.204.43.87:8080/live/1/1/264.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://103.204.43.87:8080/live/1/1/264.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://66.102.126.10:8000/play/a022/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "65",
-      "name": "IRIB 4K",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png",
-      "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "66",
-      "name": "Fox Sports 2",
-      "description": "",
-      "logo": "https://i.imgur.com/LHtxKI8.png",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 4",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
-        },
-        {
-          "label": "SD",
-          "url": "https://tvpass.org/live/FoxSports2/sd"
-        },
-        {
-          "label": "720p HD",
-          "url": "https://tvpass.org/live/FoxSports2/hd"
-        },
-        {
-          "label": "Stream 3",
-          "url": "http://23.237.104.106:8080/USA_FS2/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "67",
-      "name": "TVP1",
-      "description": "",
-      "logo": "https://i.imgur.com/ewpSjBs.png",
-      "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8"
-        },
-        {
-          "label": "Multi",
-          "url": "https://estreams.tv.nej.cz/dash/CH_TVP1_HD.ism/playlist.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "68",
-      "name": "ERT Sports 1",
-      "description": "",
-      "logo": "https://i.imgur.com/EsczO2H.png",
-      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "69",
-      "name": "ERT Sports 2",
-      "description": "",
-      "logo": "https://i.imgur.com/b2SNQPi.png",
-      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "70",
-      "name": "Antena 1 HD",
-      "description": "",
-      "logo": "https://i.imgur.com/EPmwuuv.png",
-      "url": "https://redperch.space/neocardinal.php?id=ro:_antena_1_hd.ts",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "https://redperch.space/neocardinal.php?id=ro:_antena_1_hd.ts"
-        },
-        {
-          "label": "Server 1",
-          "url": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8"
-        }
-      ],
-      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
-      "referer": "https://canale-tv.com/",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "71",
-      "name": "CT Sports",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",
-      "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-      "qualities": [
-        {
-          "label": "Multi",
-          "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "72",
-      "name": "VIX",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/ViX_Logo.png",
-      "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "79737d20a3eaa862f8cb77c61cb3b58c:41df11a0be44fd7272538728cec38bc6",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "73",
-      "name": "QAZSPORT",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/1280px-Qazsport_logo.svg.png",
-      "url": "http://stream.mcquack.net/72/index.m3u8",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "http://stream.mcquack.net/72/index.m3u8"
-        },
-        {
-          "label": "Server 1",
-          "url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "74",
-      "name": "D SPORTS",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/960px-DSports_logo_2022.svg.png?_=20240702054322",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 7",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd"
-        },
-        {
-          "label": "Server 1",
-          "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
-        },
-        {
-          "label": "Server 5",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
-        },
-        {
-          "label": "Server 3",
-          "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
-        },
-        {
-          "label": "Server 4",
-          "url": "http://8.243.126.131:8000/play/a05a/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "75",
-      "name": "D SPORTS+",
-      "description": "",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest?cb=20191025185801",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "76",
-      "name": "D SPORTS 2",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "77",
-      "name": "CAZE TV",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg",
-      "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "78",
-      "name": "CAZE TV 2",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "79",
-      "name": "CAZE TV 3",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "80",
-      "name": "Setanta Sports HD",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/1280px-Setanta_Sports.svg.png",
-      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "81",
-      "name": "Sigma",
-      "description": "",
-      "logo": "https://www.theo.ac.cy/wp-content/uploads/2024/11/410x180_sigma_c.png",
-      "url": "https://sl3.sigmatv.com/hls/live.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://sl3.sigmatv.com/hls/live.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "82",
-      "name": "itv1",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ITV1_Logo_2022.svg/3840px-ITV1_Logo_2022.svg.png",
-      "url": "https://mngbcg.b-cdn.net/iTV/index.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://mngbcg.b-cdn.net/iTV/index.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://tmaxapp.site/itv1.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "83",
-      "name": "DAZN Mundial 1",
-      "description": "",
-      "logo": "https://i.imgur.com/xzDssLU.png",
-      "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-      "qualities": [
-        {
-          "label": "Server 5",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
-        },
-        {
-          "label": "Server 3",
-          "url": "https://stm.linkip.org/live/588_.m3u8"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://tmaxapp.site/daznlaliga.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/sp/index.m3u8"
-        },
-        {
-          "label": "Server W",
-          "url": "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/244"
-        },
-        {
-          "label": "Server 6",
-          "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/WTqtvrrJgz_9udmk3VkO6u2jPdhx25meJ03oDE8qzMK7O2xDBt9C-DuR1-SCinD-2xojYLald20DsyR0JbIUQjXbBeCySS7Q0M9OhgYayIsRMQc71AGRDSX4fs5YJIvJSLyKzO8gXOwpiK9vDilQpqqVc-Dliunpu_gfU5eD-VW1Y54N-ykqB5Wf3o8nZt4ImlqAgqkPSSJNwy3I6U4rqw/hls/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "84",
-      "name": "DAZN Mundial 2",
-      "description": "",
-      "logo": "https://i.imgur.com/xzDssLU.png",
-      "url": "https://tmaxapp.site/daznlaliga2.m3u8",
-      "qualities": [
-        {
-          "label": "Server 5",
-          "url": "https://tmaxapp.site/daznlaliga2.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "85",
-      "name": "DAZN Mundial 3",
-      "description": "",
-      "logo": "https://i.imgur.com/xzDssLU.png",
-      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm3.m3u8",
-      "qualities": [
-        {
-          "label": "Server 5",
-          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm3.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "86",
-      "name": "DAZN Mundial 4",
-      "description": "",
-      "logo": "https://i.imgur.com/xzDssLU.png",
-      "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm4.m3u8",
-      "qualities": [
-        {
-          "label": "Server 5",
-          "url": "https://rzzznstream.staticdev9.workers.dev/?id=dznm4.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "87",
-      "name": "joj sports",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Joj-sport-logo.png",
-      "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "88",
-      "name": "TSN SPORTS FHD",
-      "description": "",
-      "logo": "https://i.imgur.com/eRFE0jZ.png",
-      "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-      "qualities": [
-        {
-          "label": "Stream 1",
-          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "89",
-      "name": "CIGNAL EN",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cignal.svg/1280px-Cignal.svg.png",
-      "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "90",
-      "name": "Tipik",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png",
-      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-      "qualities": [
-        {
-          "label": "Server 3",
-          "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "91",
-      "name": "FUSSBALL 4K - 1",
-      "description": "",
-      "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
-      "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "92",
-      "name": "FUSSBALL 4K - 2",
-      "description": "",
-      "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
-      "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "93",
-      "name": "FUSSBALL 4K - 3",
-      "description": "",
-      "logo": "https://static.vecteezy.com/system/resources/thumbnails/000/264/191/small/31_NGtfbG9nb19zeW1ib2xfMw.jpg",
-      "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "94",
-      "name": "FOX ONE",
-      "description": "",
-      "logo": "https://i.pcmag.com/imagery/articles/046dPjkTRUP3IcJNTPyjgFP-1..v1747063479.webp",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "95",
-      "name": "Servus",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Servus_%28Zeitschrift%29_logo.svg",
-      "url": "https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "1c7f3d4aadc504459a12bbd3bbd62944:efa707a9f828120b4c9807be11755e65",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "96",
-      "name": "ORF 1",
-      "description": "",
-      "logo": "https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",
-      "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "97",
-      "name": "FOX Sports",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png",
-      "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://84.17.50.102/fox/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "98",
-      "name": "NBC Universo West",
-      "description": "",
-      "logo": "https://i.imgur.com/RZ8pIKe.png",
-      "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "99",
-      "name": "Programme National",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/960px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png",
-      "url": "https://redperch.space/neocardinal.php?id=DZ.Programme_National_HD.ts",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://redperch.space/neocardinal.php?id=DZ.Programme_National_HD.ts"
-        },
-        {
-          "label": "Server 2",
-          "url": "https://redperch.space/dzcardinal.php?id=entv.ts"
-        }
-      ],
-      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "100",
-      "name": "Nova Sports 2 SK",
-      "description": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png",
-      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "101",
-      "name": "Match! RU",
-      "description": "",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6b/Match%21_2019.png/revision/latest/scale-to-width-down/284?cb=20250106202339",
-      "url": "http://cdntv.online/low/9mlxywika2/48.m3u8",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "http://cdntv.online/low/9mlxywika2/48.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "102",
-      "name": "Arryadia TNT",
-      "description": "",
-      "logo": "https://i.imgur.com/XjzK3gZ.png",
-      "url": "https://redperch.space/neocardinal.php?id=AR:_ARRIADIA_3_TNT.ts",
-      "qualities": [
-        {
-          "label": "Server 2",
-          "url": "https://redperch.space/neocardinal.php?id=AR:_ARRIADIA_3_TNT.ts"
-        },
-        {
-          "label": "Server 4",
-          "url": "https://cdnet.alwaysdata.net/marok65/maarrytnt.php?m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8"
-        }
-      ],
-      "user_agent": "VLC/3.0.21 LibVLC/3.0.21",
-      "referer": "",
-      "clear_key": "",
-      "category": "FIFA 2026"
-    },
-    {
-      "id": "103",
       "name": "Alwan Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/UibCHUN.png",
@@ -2413,7 +909,7 @@
       "category": "Alwan"
     },
     {
-      "id": "104",
+      "id": "40",
       "name": "Alwan Sports 2",
       "description": "",
       "logo": "https://i.imgur.com/Gl8AxBh.png",
@@ -2458,7 +954,7 @@
       "category": "Alwan"
     },
     {
-      "id": "105",
+      "id": "41",
       "name": "Alwan Sports 3",
       "description": "",
       "logo": "https://i.imgur.com/c9cHkFP.png",
@@ -2495,7 +991,7 @@
       "category": "Alwan"
     },
     {
-      "id": "106",
+      "id": "42",
       "name": "Alwan Sports 4",
       "description": "",
       "logo": "https://i.imgur.com/6JVw8Xf.png",
@@ -2520,7 +1016,7 @@
       "category": "Alwan"
     },
     {
-      "id": "107",
+      "id": "43",
       "name": "Alwan Sports 5",
       "description": "",
       "logo": "https://i.imgur.com/JJojLHs.png",
@@ -2541,7 +1037,7 @@
       "category": "Alwan"
     },
     {
-      "id": "108",
+      "id": "44",
       "name": "Alwan Sports 6",
       "description": "",
       "logo": "https://i.imgur.com/VZxazRS.png",
@@ -2562,7 +1058,7 @@
       "category": "Alwan"
     },
     {
-      "id": "109",
+      "id": "45",
       "name": "Alwan Sports 7",
       "description": "",
       "logo": "https://i.imgur.com/mECyQgn.png",
@@ -2579,7 +1075,7 @@
       "category": "Alwan"
     },
     {
-      "id": "110",
+      "id": "46",
       "name": "Alwan Sports 8",
       "description": "",
       "logo": "https://i.imgur.com/Ms4DPwn.png",
@@ -2596,7 +1092,7 @@
       "category": "Alwan"
     },
     {
-      "id": "111",
+      "id": "47",
       "name": "Alwan Sports 9",
       "description": "",
       "logo": "https://i.imgur.com/eMz1Lw4.png",
@@ -2613,7 +1109,7 @@
       "category": "Alwan"
     },
     {
-      "id": "112",
+      "id": "48",
       "name": "Alwan Sports 10",
       "description": "",
       "logo": "https://i.imgur.com/EO6RpBf.png",
@@ -2630,7 +1126,7 @@
       "category": "Alwan"
     },
     {
-      "id": "113",
+      "id": "49",
       "name": "Alwan F1",
       "description": "",
       "logo": "https://imgur.com/6VEFuLW.png",
@@ -2647,7 +1143,7 @@
       "category": "Alwan"
     },
     {
-      "id": "114",
+      "id": "50",
       "name": "Alwan Aghani",
       "description": "",
       "logo": "https://imgur.com/cQOFdc9.png",
@@ -2664,7 +1160,7 @@
       "category": "Alwan"
     },
     {
-      "id": "115",
+      "id": "51",
       "name": "Alwan Atfal",
       "description": "",
       "logo": "https://imgur.com/06XCqR4.png",
@@ -2681,7 +1177,7 @@
       "category": "Alwan"
     },
     {
-      "id": "116",
+      "id": "52",
       "name": "Alwan Anime",
       "description": "",
       "logo": "https://imgur.com/aDxB792.png",
@@ -2698,7 +1194,7 @@
       "category": "Alwan"
     },
     {
-      "id": "117",
+      "id": "53",
       "name": "Alwan UFC",
       "description": "",
       "logo": "https://imgur.com/UxL3Y5r.png",
@@ -2715,7 +1211,7 @@
       "category": "Alwan"
     },
     {
-      "id": "118",
+      "id": "54",
       "name": "Alwan WWE",
       "description": "",
       "logo": "https://imgur.com/myzRuId.png",
@@ -2732,7 +1228,7 @@
       "category": "Alwan"
     },
     {
-      "id": "119",
+      "id": "55",
       "name": "Alwan Bollywood",
       "description": "",
       "logo": "https://imgur.com/v2UZxV8.png",
@@ -2749,7 +1245,7 @@
       "category": "Alwan"
     },
     {
-      "id": "120",
+      "id": "56",
       "name": "Alwan Turkey",
       "description": "",
       "logo": "https://imgur.com/h9TrQ6Z.png",
@@ -2766,7 +1262,7 @@
       "category": "Alwan"
     },
     {
-      "id": "121",
+      "id": "57",
       "name": "Alwan Korea",
       "description": "",
       "logo": "https://imgur.com/cXtIGlV.png",
@@ -2783,7 +1279,7 @@
       "category": "Alwan"
     },
     {
-      "id": "122",
+      "id": "58",
       "name": "Alwan Mosalsalat+",
       "description": "",
       "logo": "https://imgur.com/LinlqpP.png",
@@ -2800,7 +1296,7 @@
       "category": "Alwan"
     },
     {
-      "id": "123",
+      "id": "59",
       "name": "Alwan Mosalsalat",
       "description": "",
       "logo": "https://imgur.com/JgpcmcV.png",
@@ -2817,7 +1313,7 @@
       "category": "Alwan"
     },
     {
-      "id": "124",
+      "id": "60",
       "name": "Alwan Aflam 4",
       "description": "",
       "logo": "https://imgur.com/FvbloCp.png",
@@ -2834,7 +1330,7 @@
       "category": "Alwan"
     },
     {
-      "id": "125",
+      "id": "61",
       "name": "Alwan Aflam 3",
       "description": "",
       "logo": "https://i.imgur.com/V74jY91.png",
@@ -2851,7 +1347,7 @@
       "category": "Alwan"
     },
     {
-      "id": "126",
+      "id": "62",
       "name": "Alwan Aflam 2",
       "description": "",
       "logo": "https://i.imgur.com/ZFsjiWI.png",
@@ -2868,7 +1364,7 @@
       "category": "Alwan"
     },
     {
-      "id": "127",
+      "id": "63",
       "name": "Alwan Aflam 1",
       "description": "",
       "logo": "https://i.imgur.com/F6FQqZL.png",
@@ -2885,7 +1381,7 @@
       "category": "Alwan"
     },
     {
-      "id": "128",
+      "id": "64",
       "name": "POST 1",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
@@ -2902,7 +1398,7 @@
       "category": "Alwan"
     },
     {
-      "id": "129",
+      "id": "65",
       "name": "POST 2",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
@@ -2923,7 +1419,7 @@
       "category": "Alwan"
     },
     {
-      "id": "130",
+      "id": "66",
       "name": "POST 3",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
@@ -2944,7 +1440,7 @@
       "category": "Alwan"
     },
     {
-      "id": "131",
+      "id": "67",
       "name": "POST 4",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
@@ -2965,7 +1461,7 @@
       "category": "Alwan"
     },
     {
-      "id": "132",
+      "id": "68",
       "name": "POST 5",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
@@ -2982,7 +1478,7 @@
       "category": "Alwan"
     },
     {
-      "id": "133",
+      "id": "69",
       "name": "POST 6",
       "description": "",
       "logo": "https://up6.cc/2026/06/178159107274521.png",
@@ -2999,7 +1495,7 @@
       "category": "Alwan"
     },
     {
-      "id": "134",
+      "id": "70",
       "name": "Fajer TV 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
@@ -3020,7 +1516,7 @@
       "category": "Alwan"
     },
     {
-      "id": "135",
+      "id": "71",
       "name": "Fajer TV 2",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
@@ -3041,7 +1537,7 @@
       "category": "Alwan"
     },
     {
-      "id": "136",
+      "id": "72",
       "name": "Fajer TV 3",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
@@ -3062,7 +1558,7 @@
       "category": "Alwan"
     },
     {
-      "id": "137",
+      "id": "73",
       "name": "Fajer TV 4",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
@@ -3083,7 +1579,7 @@
       "category": "Alwan"
     },
     {
-      "id": "138",
+      "id": "74",
       "name": "Fajer TV 5",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXYt56ogFakJjbqJVPnX76P_NAK3dvMy9fA&s",
@@ -3104,7 +1600,7 @@
       "category": "Alwan"
     },
     {
-      "id": "139",
+      "id": "75",
       "name": "Star Movies",
       "description": "",
       "logo": "https://images.seeklogo.com/logo-png/50/3/star-movies-2023-logo-png_seeklogo-501502.png",
@@ -3121,7 +1617,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "140",
+      "id": "76",
       "name": "Star World HD",
       "description": "",
       "logo": "https://i.imgur.com/TD8d1eQ.png",
@@ -3138,7 +1634,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "141",
+      "id": "77",
       "name": "Baraem",
       "description": "",
       "logo": "https://i.imgur.com/7woV4Cz.png",
@@ -3159,7 +1655,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "142",
+      "id": "78",
       "name": "beIN DRAMA 1",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",
@@ -3180,7 +1676,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "143",
+      "id": "79",
       "name": "beIN GOURMET",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
@@ -3197,7 +1693,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "144",
+      "id": "80",
       "name": "beIN MOVIES 1 PREMIERE",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
@@ -3218,7 +1714,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "145",
+      "id": "81",
       "name": "beIN MOVIES 2 ACTION",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
@@ -3239,7 +1735,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "146",
+      "id": "82",
       "name": "beIN MOVIES 3 DRAMA",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
@@ -3260,7 +1756,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "147",
+      "id": "83",
       "name": "beIN MOVIES 4 FAMILY",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
@@ -3281,7 +1777,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "148",
+      "id": "84",
       "name": "beIN SERIES 1",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Series_HD1.png",
@@ -3298,7 +1794,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "149",
+      "id": "85",
       "name": "beIN SERIES 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Series_HD2.png",
@@ -3315,7 +1811,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "150",
+      "id": "86",
       "name": "Star Action",
       "description": "",
       "logo": "https://i.imgur.com/FpoeEPm.png",
@@ -3332,7 +1828,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "151",
+      "id": "87",
       "name": "Jeem",
       "description": "",
       "logo": "https://i.imgur.com/dvCrNQ8.png",
@@ -3349,7 +1845,7 @@
       "category": "beIN Media"
     },
     {
-      "id": "152",
+      "id": "88",
       "name": "CANAL+ Sport",
       "description": "",
       "logo": "https://i.imgur.com/Q3WjH1Q.png",
@@ -3366,7 +1862,7 @@
       "category": "CANAL+"
     },
     {
-      "id": "153",
+      "id": "89",
       "name": "Arena Premium 1",
       "description": "",
       "logo": "https://i.imgur.com/csv6YsL.png",
@@ -3383,7 +1879,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "154",
+      "id": "90",
       "name": "Arena Premium 2",
       "description": "",
       "logo": "https://i.imgur.com/ztOmQ7P.png",
@@ -3400,7 +1896,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "155",
+      "id": "91",
       "name": "Arena Premium 3",
       "description": "",
       "logo": "https://i.imgur.com/gpqemLf.png",
@@ -3417,7 +1913,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "156",
+      "id": "92",
       "name": "Arena Sport 1 BH",
       "description": "",
       "logo": "https://i.imgur.com/RJrJGbW.png",
@@ -3434,7 +1930,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "157",
+      "id": "93",
       "name": "Arena Sport 2 BH",
       "description": "",
       "logo": "https://i.imgur.com/aqlECBj.png",
@@ -3451,7 +1947,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "158",
+      "id": "94",
       "name": "Arena Sport 3 BH",
       "description": "",
       "logo": "https://i.imgur.com/3r3burN.png",
@@ -3468,7 +1964,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "159",
+      "id": "95",
       "name": "Arena Sport 4 BH",
       "description": "",
       "logo": "https://i.imgur.com/h1XhGkz.png",
@@ -3485,7 +1981,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "160",
+      "id": "96",
       "name": "Arena Sport 1 HR",
       "description": "",
       "logo": "https://i.imgur.com/RJrJGbW.png",
@@ -3506,7 +2002,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "161",
+      "id": "97",
       "name": "Arena Sport 2 HR",
       "description": "",
       "logo": "https://i.imgur.com/aqlECBj.png",
@@ -3527,7 +2023,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "162",
+      "id": "98",
       "name": "Arena Sport 3 HR",
       "description": "",
       "logo": "https://i.imgur.com/3r3burN.png",
@@ -3548,7 +2044,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "163",
+      "id": "99",
       "name": "Arena Sport 4 HR",
       "description": "",
       "logo": "https://i.imgur.com/h1XhGkz.png",
@@ -3569,7 +2065,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "164",
+      "id": "100",
       "name": "Arena Sport 5 HR",
       "description": "",
       "logo": "https://i.imgur.com/036qMgu.png",
@@ -3590,7 +2086,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "165",
+      "id": "101",
       "name": "Arena Sport 6 HR",
       "description": "",
       "logo": "https://i.imgur.com/Z5PE4vx.png",
@@ -3611,7 +2107,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "166",
+      "id": "102",
       "name": "Arena Sport 1 SR",
       "description": "",
       "logo": "https://i.imgur.com/RJrJGbW.png",
@@ -3628,7 +2124,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "167",
+      "id": "103",
       "name": "Arena Sport 2 SR",
       "description": "",
       "logo": "https://i.imgur.com/aqlECBj.png",
@@ -3645,7 +2141,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "168",
+      "id": "104",
       "name": "Arena Sport 3 SR",
       "description": "",
       "logo": "https://i.imgur.com/3r3burN.png",
@@ -3662,7 +2158,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "169",
+      "id": "105",
       "name": "Arena Sport 4 SR",
       "description": "",
       "logo": "https://i.imgur.com/h1XhGkz.png",
@@ -3683,7 +2179,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "170",
+      "id": "106",
       "name": "Arena Sport 5 SR",
       "description": "",
       "logo": "https://i.imgur.com/036qMgu.png",
@@ -3700,7 +2196,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "171",
+      "id": "107",
       "name": "Arena Sport 6",
       "description": "",
       "logo": "https://i.imgur.com/Z5PE4vx.png",
@@ -3717,7 +2213,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "172",
+      "id": "108",
       "name": "Arena Sport 7",
       "description": "",
       "logo": "https://i.imgur.com/0fgvOrR.png",
@@ -3734,7 +2230,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "173",
+      "id": "109",
       "name": "Arena Sport 8",
       "description": "",
       "logo": "https://i.imgur.com/Wk9dr78.png",
@@ -3751,7 +2247,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "174",
+      "id": "110",
       "name": "Arena Sport 9",
       "description": "",
       "logo": "https://i.imgur.com/riMTqTu.png",
@@ -3768,7 +2264,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "175",
+      "id": "111",
       "name": "Arena Sport 10",
       "description": "",
       "logo": "https://i.imgur.com/oMiS7D3.png",
@@ -3785,137 +2281,7 @@
       "category": "Arena Sports"
     },
     {
-      "id": "176",
-      "name": "TOD 1",
-      "description": "",
-      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
-      "url": "http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8"
-        },
-        {
-          "label": "Server 3",
-          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460836.ts"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://match-now.site/hls/b1/index.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "TOD"
-    },
-    {
-      "id": "177",
-      "name": "TOD 2",
-      "description": "",
-      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
-      "url": "http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460837.ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "TOD"
-    },
-    {
-      "id": "178",
-      "name": "TOD 3",
-      "description": "",
-      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
-      "url": "http://gooon.tv:8080/play/link/93e79804-6c18-4efe-9610-d45e3a01bc64/eyJpdiI6IlNDaG80L0Zod2VXQWJMdEgrN2pIa1E9PSIsInZhbHVlIjoiVkNZejJKTWY5bm1RU3ArNEJPYnJ6NUtRT0U2RmxCdGU1WGg3R2ZhNVhFK1B2Qi9NOEJud1JEWHlNTEpaU0lDMCIsIm1hYyI6ImZhZWUyNzA0NmQ4NjdlOTc0Yjc2MDY2MDY3ZmFiM2QwYzU3NWZhM2IyYzkyZmE4ZWNhN2FhM2E4ZWZlYTAyOTciLCJ0YWciOiIifQ==.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://gooon.tv:8080/play/link/93e79804-6c18-4efe-9610-d45e3a01bc64/eyJpdiI6IlNDaG80L0Zod2VXQWJMdEgrN2pIa1E9PSIsInZhbHVlIjoiVkNZejJKTWY5bm1RU3ArNEJPYnJ6NUtRT0U2RmxCdGU1WGg3R2ZhNVhFK1B2Qi9NOEJud1JEWHlNTEpaU0lDMCIsIm1hYyI6ImZhZWUyNzA0NmQ4NjdlOTc0Yjc2MDY2MDY3ZmFiM2QwYzU3NWZhM2IyYzkyZmE4ZWNhN2FhM2E4ZWZlYTAyOTciLCJ0YWciOiIifQ==.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460838.ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "TOD"
-    },
-    {
-      "id": "179",
-      "name": "TOD 4",
-      "description": "",
-      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
-      "url": "http://gooon.tv:8080/play/link/2b458f9b-a0b8-46b9-8b4d-4c109026afcf/eyJpdiI6IlUyQ1BwaW43N3ordFpVaXpoQ1o1Rmc9PSIsInZhbHVlIjoiSC9iTU8vMnNhN25SajRPZldUeUJwUytzZGRrcWUrcDBkTlgxY2tKQXBoM2RENzRUTHk1YXlBY3o5azltd1FqSSIsIm1hYyI6IjlmNDhmOGJhYTViMTE5MTlmZmJmMjRkYWFhYWRhZDZiMGI1MTAxYjUQDvDUxFShoWWbHougyHjr0tFz3E38fX8e0bnTUpya-P0mXW==.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://gooon.tv:8080/play/link/2b458f9b-a0b8-46b9-8b4d-4c109026afcf/eyJpdiI6IlUyQ1BwaW43N3ordFpVaXpoQ1o1Rmc9PSIsInZhbHVlIjoiSC9iTU8vMnNhN25SajRPZldUeUJwUytzZGRrcWUrcDBkTlgxY2tKQXBoM2RENzRUTHk1YXlBY3o5azltd1FqSSIsIm1hYyI6IjlmNDhmOGJhYTViMTE5MTlmZmJmMjRkYWFhYWRhZDZiMGI1MTAxYjUQDvDUxFShoWWbHougyHjr0tFz3E38fX8e0bnTUpya-P0mXW==.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460839.ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "TOD"
-    },
-    {
-      "id": "180",
-      "name": "TOD 5",
-      "description": "",
-      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
-      "url": "http://gooon.tv:8080/play/link/5bc45278-5cae-4ffa-bdb8-72ac3a5599db/eyJpdiI6Im1GbjAyZnFYMWNSeTVEbWN1dmtRSHc9PSIsInZhbHVlIjoiV1M5UlVGc3FkbWowVFUzZFllMklKTUk5ZkZOTTBCeW1SQzJWL1FmMFRtRjMxVWsveGpnN05QVlV5NUh0ZDR5MyIsIm1hYyI6IjQxYTI1YzkwN2YyNDA4MDA0ZTZjZTdlMTA2YTU4YjY5OTM2NWY2OTk1YjBjNmMyYjI5NWFhODY1N2IxNjVmYjQiLCJ0YWciOiIifQ==.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://gooon.tv:8080/play/link/5bc45278-5cae-4ffa-bdb8-72ac3a5599db/eyJpdiI6Im1GbjAyZnFYMWNSeTVEbWN1dmtRSHc9PSIsInZhbHVlIjoiV1M5UlVGc3FkbWowVFUzZFllMklKTUk5ZkZOTTBCeW1SQzJWL1FmMFRtRjMxVWsveGpnN05QVlV5NUh0ZDR5MyIsIm1hYyI6IjQxYTI1YzkwN2YyNDA4MDA0ZTZjZTdlMTA2YTU4YjY5OTM2NWY2OTk1YjBjNmMyYjI5NWFhODY1N2IxNjVmYjQiLCJ0YWciOiIifQ==.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460840.ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "TOD"
-    },
-    {
-      "id": "181",
-      "name": "TOD 6",
-      "description": "",
-      "logo": "https://mid-east.info/wp-content/uploads/2023/03/63727821-0-LOGO-TOD-Full-Color.png",
-      "url": "http://gooon.tv:8080/play/link/6aa38f85-dafa-426e-bbd3-20ca86d89ac1/eyJpdiI6Ino0ZnNJZUs3UERoUmFqclBVVDRTUFE9PSIsInZhbHVlIjoiMEpDWlRPaDlXbktiR01IUmVVTitKNW45V1kxWkxKQlVXTGtJWHRRZU1QSnFieXpOSXVKaFd1MXBJV2l4ZjhuUCIsIm1hYyI6IjhhYTljM2E4NTUyZGExZWMxNGYwNGRhNzA4ZjY5MGZiYjBkNWZjYmVhMjQwNjdjZGMyOWI0YmNhN2MyMTQ0ZDciLCJ0YWciOiIifQ==.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "http://gooon.tv:8080/play/link/6aa38f85-dafa-426e-bbd3-20ca86d89ac1/eyJpdiI6Ino0ZnNJZUs3UERoUmFqclBVVDRTUFE9PSIsInZhbHVlIjoiMEpDWlRPaDlXbktiR01IUmVVTitKNW45V1kxWkxKQlVXTGtJWHRRZU1QSnFieXpOSXVKaFd1MXBJV2l4ZjhuUCIsIm1hYyI6IjhhYTljM2E4NTUyZGExZWMxNGYwNGRhNzA4ZjY5MGZiYjBkNWZjYmVhMjQwNjdjZGMyOWI0YmNhN2MyMTQ0ZDciLCJ0YWciOiIifQ==.m3u8"
-        },
-        {
-          "label": "Server 2",
-          "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/460841.ts"
-        }
-      ],
-      "user_agent": "",
-      "referer": "",
-      "clear_key": "",
-      "category": "TOD"
-    },
-    {
-      "id": "182",
+      "id": "112",
       "name": "MBC 5",
       "description": "",
       "logo": "https://i.imgur.com/fRWaDyF.png",
@@ -3932,7 +2298,7 @@
       "category": "MBC"
     },
     {
-      "id": "183",
+      "id": "113",
       "name": "MBC Masr",
       "description": "",
       "logo": "https://i.imgur.com/o2elx0u.png",
@@ -3949,7 +2315,7 @@
       "category": "MBC"
     },
     {
-      "id": "184",
+      "id": "114",
       "name": "MBC Masr 2",
       "description": "",
       "logo": "https://i.imgur.com/KHo7Gtn.png",
@@ -3966,7 +2332,7 @@
       "category": "MBC"
     },
     {
-      "id": "185",
+      "id": "115",
       "name": "MBC Masr Drama",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8a/MBC_Maser_Drama.png/revision/latest/scale-to-width-down/1200?cb=20250711110045",
@@ -3983,7 +2349,7 @@
       "category": "MBC"
     },
     {
-      "id": "186",
+      "id": "116",
       "name": "MBC Iraq",
       "description": "",
       "logo": "https://i.imgur.com/D0LxiPE.png",
@@ -4000,7 +2366,7 @@
       "category": "MBC"
     },
     {
-      "id": "187",
+      "id": "117",
       "name": "MBC 3",
       "description": "",
       "logo": "https://i.imgur.com/PVt8OPN.png",
@@ -4021,7 +2387,7 @@
       "category": "MBC"
     },
     {
-      "id": "188",
+      "id": "118",
       "name": "MBC Action",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/vlqpeZEEiL70MsCVjCoQreKY4OHXe-rRJkRw8uuXGQYQ5RcgKFCkJEHBKy6_0K-2Yk_Cf7IFNeI=s900-c-k-c0x00ffffff-no-rj",
@@ -4038,7 +2404,7 @@
       "category": "MBC"
     },
     {
-      "id": "189",
+      "id": "119",
       "name": "MBC Drama",
       "description": "",
       "logo": "https://i.imgur.com/g5PWnqp.png",
@@ -4055,7 +2421,7 @@
       "category": "MBC"
     },
     {
-      "id": "190",
+      "id": "120",
       "name": "MBC Drama Plus",
       "description": "",
       "logo": "https://i.ibb.co/xzdqq9y/mbcdrama.png",
@@ -4072,7 +2438,7 @@
       "category": "MBC"
     },
     {
-      "id": "191",
+      "id": "121",
       "name": "MBC Thaqafiya",
       "description": "",
       "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
@@ -4097,7 +2463,7 @@
       "category": "MBC"
     },
     {
-      "id": "192",
+      "id": "122",
       "name": "MBC+ e&",
       "description": "",
       "logo": "https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.svg",
@@ -4114,7 +2480,7 @@
       "category": "MBC"
     },
     {
-      "id": "193",
+      "id": "123",
       "name": "MBC 1",
       "description": "",
       "logo": "https://i.imgur.com/CiA3plN.png",
@@ -4131,7 +2497,7 @@
       "category": "MBC"
     },
     {
-      "id": "194",
+      "id": "124",
       "name": "MBC 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/960px-MBC2_Logo.svg.png",
@@ -4152,7 +2518,7 @@
       "category": "MBC"
     },
     {
-      "id": "195",
+      "id": "125",
       "name": "MBC 4",
       "description": "",
       "logo": "https://i.imgur.com/BcXASJp.png",
@@ -4169,7 +2535,7 @@
       "category": "MBC"
     },
     {
-      "id": "196",
+      "id": "126",
       "name": "MBC Bollywood",
       "description": "",
       "logo": "https://i.imgur.com/TTAGFHG.png",
@@ -4186,7 +2552,7 @@
       "category": "MBC"
     },
     {
-      "id": "197",
+      "id": "127",
       "name": "MBC Max",
       "description": "",
       "logo": "https://i.imgur.com/A02CptP.png",
@@ -4203,7 +2569,7 @@
       "category": "MBC"
     },
     {
-      "id": "198",
+      "id": "128",
       "name": "MBC Persia",
       "description": "",
       "logo": "https://i.imgur.com/4FXiyjn.png",
@@ -4220,7 +2586,7 @@
       "category": "MBC"
     },
     {
-      "id": "199",
+      "id": "129",
       "name": "MBC Variety+",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Svg_mbc_variety_aaa60f39e8.svg/3840px-Svg_mbc_variety_aaa60f39e8.svg.png",
@@ -4237,7 +2603,7 @@
       "category": "MBC"
     },
     {
-      "id": "200",
+      "id": "130",
       "name": "MBC MOOD",
       "description": "",
       "logo": "https://play-lh.googleusercontent.com/c6nFOWxOU2PKueIzx40hvhnLlD37yeOiVDEE6N4hcIa8kYWl_dnT-98SAx5CDncKGw=w240-h480-rw",
@@ -4254,7 +2620,7 @@
       "category": "MBC"
     },
     {
-      "id": "201",
+      "id": "131",
       "name": "Medi 1 TV Arabic",
       "description": "",
       "logo": "https://i.imgur.com/3YsZPY6.jpeg",
@@ -4271,7 +2637,7 @@
       "category": "News"
     },
     {
-      "id": "202",
+      "id": "132",
       "name": "Medi 1 TV Maghreb",
       "description": "",
       "logo": "https://i.imgur.com/F5OFQsp.jpeg",
@@ -4288,7 +2654,7 @@
       "category": "News"
     },
     {
-      "id": "203",
+      "id": "133",
       "name": "Medi1TV Afrique",
       "description": "",
       "logo": "https://i.imgur.com/a20DHnj.png",
@@ -4305,7 +2671,7 @@
       "category": "News"
     },
     {
-      "id": "204",
+      "id": "134",
       "name": "M24 TV",
       "description": "",
       "logo": "https://i.imgur.com/7uv5Feu.png",
@@ -4322,7 +2688,7 @@
       "category": "News"
     },
     {
-      "id": "205",
+      "id": "135",
       "name": "ENNAHAR TV",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/3840px-Ennahar_TV_%28logo_actuel%29.svg.png",
@@ -4347,7 +2713,7 @@
       "category": "News"
     },
     {
-      "id": "206",
+      "id": "136",
       "name": "Al Ghad TV",
       "description": "",
       "logo": "https://i.imgur.com/ga6NXb9.png",
@@ -4364,7 +2730,7 @@
       "category": "News"
     },
     {
-      "id": "207",
+      "id": "137",
       "name": "AlHadath Alyoum",
       "description": "",
       "logo": "https://i.ibb.co/sd2k94pS/Final-Hadath.png",
@@ -4381,7 +2747,7 @@
       "category": "News"
     },
     {
-      "id": "208",
+      "id": "138",
       "name": "Extra Live",
       "description": "",
       "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/extra_live.jpg",
@@ -4398,7 +2764,7 @@
       "category": "News"
     },
     {
-      "id": "209",
+      "id": "139",
       "name": "Al Eshraq TV",
       "description": "",
       "logo": "https://i.imgur.com/SuACr3L.png",
@@ -4415,7 +2781,7 @@
       "category": "News"
     },
     {
-      "id": "210",
+      "id": "140",
       "name": "Al Etejah TV",
       "description": "",
       "logo": "https://i.imgur.com/TkjdGhy.png",
@@ -4432,7 +2798,7 @@
       "category": "News"
     },
     {
-      "id": "211",
+      "id": "141",
       "name": "Al Iraqia News",
       "description": "",
       "logo": "https://i.imgur.com/feQTXeZ.jpg",
@@ -4449,7 +2815,7 @@
       "category": "News"
     },
     {
-      "id": "212",
+      "id": "142",
       "name": "Al Janoub TV",
       "description": "",
       "logo": "https://i.imgur.com/rxDh6W1.png",
@@ -4466,7 +2832,7 @@
       "category": "News"
     },
     {
-      "id": "213",
+      "id": "143",
       "name": "Anwar TV2",
       "description": "",
       "logo": "https://i.imgur.com/yHZXPcn.png",
@@ -4483,7 +2849,7 @@
       "category": "News"
     },
     {
-      "id": "214",
+      "id": "144",
       "name": "Iraq 24",
       "description": "",
       "logo": "https://i.imgur.com/dsLW8ex.png",
@@ -4500,7 +2866,7 @@
       "category": "News"
     },
     {
-      "id": "215",
+      "id": "145",
       "name": "Kurdistan 24",
       "description": "",
       "logo": "https://i.imgur.com/9QWs2ms.png",
@@ -4517,7 +2883,7 @@
       "category": "News"
     },
     {
-      "id": "216",
+      "id": "146",
       "name": "Kurdsat News",
       "description": "",
       "logo": "https://i.postimg.cc/Kj94xjPP/kurdsatnews.png",
@@ -4542,7 +2908,7 @@
       "category": "News"
     },
     {
-      "id": "217",
+      "id": "147",
       "name": "NRT TV",
       "description": "",
       "logo": "https://i.imgur.com/uGKGtbW.png",
@@ -4559,7 +2925,7 @@
       "category": "News"
     },
     {
-      "id": "218",
+      "id": "148",
       "name": "Payam TV",
       "description": "",
       "logo": "https://i.postimg.cc/DZLrc9VV/payamtv.png",
@@ -4576,7 +2942,7 @@
       "category": "News"
     },
     {
-      "id": "219",
+      "id": "149",
       "name": "Rudaw TV",
       "description": "",
       "logo": "https://i.imgur.com/Zo3IWOn.png",
@@ -4593,7 +2959,7 @@
       "category": "News"
     },
     {
-      "id": "220",
+      "id": "150",
       "name": "Al Yaum TV",
       "description": "",
       "logo": "https://i.imgur.com/rBixF3P.png",
@@ -4610,7 +2976,7 @@
       "category": "News"
     },
     {
-      "id": "221",
+      "id": "151",
       "name": "CNBC Arabiya",
       "description": "",
       "logo": "https://i.imgur.com/opBXx1K.png",
@@ -4627,7 +2993,7 @@
       "category": "News"
     },
     {
-      "id": "222",
+      "id": "152",
       "name": "Al Araby TV",
       "description": "",
       "logo": "https://i.imgur.com/YMqWEe4.png",
@@ -4644,7 +3010,7 @@
       "category": "News"
     },
     {
-      "id": "223",
+      "id": "153",
       "name": "Al Jazeera",
       "description": "",
       "logo": "https://i.imgur.com/7bRVpnu.png",
@@ -4677,7 +3043,7 @@
       "category": "News"
     },
     {
-      "id": "224",
+      "id": "154",
       "name": "Al Jazeera English",
       "description": "",
       "logo": "https://i.imgur.com/7bRVpnu.png",
@@ -4694,7 +3060,7 @@
       "category": "News"
     },
     {
-      "id": "225",
+      "id": "155",
       "name": "Al Jazeera Mubasher",
       "description": "",
       "logo": "https://i.imgur.com/X80DQvF.png",
@@ -4723,7 +3089,7 @@
       "category": "News"
     },
     {
-      "id": "226",
+      "id": "156",
       "name": "Al Jazeera Mubasher 24",
       "description": "",
       "logo": "https://i.imgur.com/LMCcIZ2.png",
@@ -4748,7 +3114,7 @@
       "category": "News"
     },
     {
-      "id": "227",
+      "id": "157",
       "name": "AL ALARABY",
       "description": "",
       "logo": "https://i.ibb.co/h27qpLJ/araby1.png",
@@ -4781,7 +3147,7 @@
       "category": "News"
     },
     {
-      "id": "228",
+      "id": "158",
       "name": "AL ALARABY 2",
       "description": "",
       "logo": "https://i.ibb.co/s107QNv/araby2.png",
@@ -4814,7 +3180,7 @@
       "category": "News"
     },
     {
-      "id": "229",
+      "id": "159",
       "name": "Al Araby TV 2",
       "description": "",
       "logo": "https://i.imgur.com/Gp5mNea.png",
@@ -4831,7 +3197,7 @@
       "category": "News"
     },
     {
-      "id": "230",
+      "id": "160",
       "name": "Al Jazeera Mubasher Broadcast 2",
       "description": "",
       "logo": "https://i.imgur.com/nJmi6G6.png",
@@ -4848,7 +3214,7 @@
       "category": "News"
     },
     {
-      "id": "231",
+      "id": "161",
       "name": "Asharq News",
       "description": "",
       "logo": "https://i.imgur.com/bqRC3sl.png",
@@ -4865,7 +3231,7 @@
       "category": "News"
     },
     {
-      "id": "232",
+      "id": "162",
       "name": "Al Arabiya",
       "description": "",
       "logo": "https://i.imgur.com/NXFkYFj.png",
@@ -4894,7 +3260,7 @@
       "category": "News"
     },
     {
-      "id": "233",
+      "id": "163",
       "name": "Al Arabiya Al Hadath",
       "description": "",
       "logo": "https://i.imgur.com/De4SEWE.png",
@@ -4911,7 +3277,7 @@
       "category": "News"
     },
     {
-      "id": "234",
+      "id": "164",
       "name": "Al Saudiya Alaan",
       "description": "",
       "logo": "https://i.imgur.com/sEOjApe.png",
@@ -4928,7 +3294,7 @@
       "category": "News"
     },
     {
-      "id": "235",
+      "id": "165",
       "name": "ALWifak News TV",
       "description": "",
       "logo": "https://i.imgur.com/1vqhmNz.png",
@@ -4945,7 +3311,7 @@
       "category": "News"
     },
     {
-      "id": "236",
+      "id": "166",
       "name": "Red TV Lebanon",
       "description": "",
       "logo": "https://i.imgur.com/bWwY885.png",
@@ -4962,7 +3328,7 @@
       "category": "News"
     },
     {
-      "id": "237",
+      "id": "167",
       "name": "Voice of Lebanon",
       "description": "",
       "logo": "https://i.imgur.com/f8WcqRY.png",
@@ -4979,7 +3345,7 @@
       "category": "News"
     },
     {
-      "id": "238",
+      "id": "168",
       "name": "Al Masar TV",
       "description": "",
       "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
@@ -4996,7 +3362,7 @@
       "category": "News"
     },
     {
-      "id": "239",
+      "id": "169",
       "name": "February Channel",
       "description": "",
       "logo": "https://i.imgur.com/WdMIpsA.png",
@@ -5013,7 +3379,7 @@
       "category": "News"
     },
     {
-      "id": "240",
+      "id": "170",
       "name": "Alalam Syria",
       "description": "",
       "logo": "https://i.imgur.com/WQKYPKD.png",
@@ -5030,7 +3396,7 @@
       "category": "News"
     },
     {
-      "id": "241",
+      "id": "171",
       "name": "Welat TV",
       "description": "",
       "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
@@ -5051,7 +3417,7 @@
       "category": "News"
     },
     {
-      "id": "242",
+      "id": "172",
       "name": "Al Mamlaka TV",
       "description": "",
       "logo": "https://i.imgur.com/UeTseMV.png",
@@ -5068,7 +3434,7 @@
       "category": "News"
     },
     {
-      "id": "243",
+      "id": "173",
       "name": "Alhaqeqa Aldawlia",
       "description": "",
       "logo": "https://i.postimg.cc/DyZr1gsv/alhaqeqaaldawlia.png",
@@ -5085,7 +3451,7 @@
       "category": "News"
     },
     {
-      "id": "244",
+      "id": "174",
       "name": "Altaghier TV",
       "description": "",
       "logo": "https://i.postimg.cc/Nf6K92Cs/altaghiertv.png",
@@ -5102,7 +3468,7 @@
       "category": "News"
     },
     {
-      "id": "245",
+      "id": "175",
       "name": "Al Najah News",
       "description": "",
       "logo": "https://i.imgur.com/c2bwn4G.png",
@@ -5119,7 +3485,7 @@
       "category": "News"
     },
     {
-      "id": "246",
+      "id": "176",
       "name": "Kolalnas TV",
       "description": "",
       "logo": "https://i.imgur.com/OyMxcRG.png",
@@ -5136,7 +3502,7 @@
       "category": "News"
     },
     {
-      "id": "247",
+      "id": "177",
       "name": "Nablus TV",
       "description": "",
       "logo": "https://i.imgur.com/GoLhaDK.png",
@@ -5153,7 +3519,7 @@
       "category": "News"
     },
     {
-      "id": "248",
+      "id": "178",
       "name": "KTV 2",
       "description": "",
       "logo": "https://i.imgur.com/hB57mNh.png",
@@ -5170,7 +3536,7 @@
       "category": "News"
     },
     {
-      "id": "249",
+      "id": "179",
       "name": "KTV News",
       "description": "",
       "logo": "https://i.imgur.com/erZ0Ol1.png",
@@ -5187,7 +3553,7 @@
       "category": "News"
     },
     {
-      "id": "250",
+      "id": "180",
       "name": "Al Masirah",
       "description": "",
       "logo": "https://i.imgur.com/V055t5e.png",
@@ -5204,7 +3570,7 @@
       "category": "News"
     },
     {
-      "id": "251",
+      "id": "181",
       "name": "Al Masirah Mubacher",
       "description": "",
       "logo": "https://i.imgur.com/0xHb3XM.jpg",
@@ -5221,7 +3587,7 @@
       "category": "News"
     },
     {
-      "id": "252",
+      "id": "182",
       "name": "Adnkronos",
       "description": "",
       "logo": "https://i.imgur.com/mEoDAf1.png",
@@ -5238,7 +3604,7 @@
       "category": "News"
     },
     {
-      "id": "253",
+      "id": "183",
       "name": "Class CNBC",
       "description": "",
       "logo": "https://i.imgur.com/3Ei5VHa.png",
@@ -5259,7 +3625,7 @@
       "category": "News"
     },
     {
-      "id": "254",
+      "id": "184",
       "name": "Etna Espresso Channel",
       "description": "",
       "logo": "https://i.imgur.com/lSI5QgV.png",
@@ -5276,7 +3642,7 @@
       "category": "News"
     },
     {
-      "id": "255",
+      "id": "185",
       "name": "èTv Marche",
       "description": "",
       "logo": "https://i.imgur.com/U6OW577.png",
@@ -5293,7 +3659,7 @@
       "category": "News"
     },
     {
-      "id": "256",
+      "id": "186",
       "name": "èTv Rete 7",
       "description": "",
       "logo": "https://i.imgur.com/xYVI5OC.png",
@@ -5310,7 +3676,7 @@
       "category": "News"
     },
     {
-      "id": "257",
+      "id": "187",
       "name": "LaC News 24",
       "description": "",
       "logo": "https://www.omnys.com/media/news/lac-news24-icona.png",
@@ -5327,7 +3693,7 @@
       "category": "News"
     },
     {
-      "id": "258",
+      "id": "188",
       "name": "Lira TV",
       "description": "",
       "logo": "https://i.imgur.com/sC9ELuY.jpg",
@@ -5344,7 +3710,7 @@
       "category": "News"
     },
     {
-      "id": "259",
+      "id": "189",
       "name": "Minformo TV",
       "description": "",
       "logo": "https://i.imgur.com/9Oq6fLw.png",
@@ -5361,7 +3727,7 @@
       "category": "News"
     },
     {
-      "id": "260",
+      "id": "190",
       "name": "Rai News 24",
       "description": "",
       "logo": "https://i.imgur.com/n2u57y3.png",
@@ -5390,7 +3756,7 @@
       "category": "News"
     },
     {
-      "id": "261",
+      "id": "191",
       "name": "Telejato",
       "description": "",
       "logo": "https://i.imgur.com/2EJdCJO.png",
@@ -5407,7 +3773,7 @@
       "category": "News"
     },
     {
-      "id": "262",
+      "id": "192",
       "name": "tv9 Telemaremma",
       "description": "",
       "logo": "https://i.imgur.com/3WAyf6H.png",
@@ -5424,7 +3790,7 @@
       "category": "News"
     },
     {
-      "id": "263",
+      "id": "193",
       "name": "Zerouno TV News",
       "description": "",
       "logo": "https://i.imgur.com/wYntmOt.png",
@@ -5441,7 +3807,7 @@
       "category": "News"
     },
     {
-      "id": "264",
+      "id": "194",
       "name": "HRT 4",
       "description": "",
       "logo": "https://i.imgur.com/VcNrY0m.png",
@@ -5458,7 +3824,7 @@
       "category": "News"
     },
     {
-      "id": "265",
+      "id": "195",
       "name": "TV Jadran",
       "description": "",
       "logo": "https://i.imgur.com/UWMHnOG.png",
@@ -5475,7 +3841,7 @@
       "category": "News"
     },
     {
-      "id": "266",
+      "id": "196",
       "name": "RT DE",
       "description": "",
       "logo": "https://i.imgur.com/v1PIbB2.png",
@@ -5492,7 +3858,7 @@
       "category": "News"
     },
     {
-      "id": "267",
+      "id": "197",
       "name": "ZDFinfo",
       "description": "",
       "logo": "https://i.imgur.com/vtq1IWp.png",
@@ -5513,7 +3879,7 @@
       "category": "News"
     },
     {
-      "id": "268",
+      "id": "198",
       "name": "ABC News",
       "description": "",
       "logo": "https://i.imgur.com/BrW7gk8.png",
@@ -5554,7 +3920,7 @@
       "category": "News"
     },
     {
-      "id": "269",
+      "id": "199",
       "name": "ABC News Live 9",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
@@ -5571,7 +3937,7 @@
       "category": "News"
     },
     {
-      "id": "270",
+      "id": "200",
       "name": "AccuWeather Now",
       "description": "",
       "logo": "https://i.imgur.com/M8wbVYK.png",
@@ -5588,7 +3954,7 @@
       "category": "News"
     },
     {
-      "id": "271",
+      "id": "201",
       "name": "Bloomberg TV",
       "description": "",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png",
@@ -5605,7 +3971,7 @@
       "category": "News"
     },
     {
-      "id": "272",
+      "id": "202",
       "name": "CNBC",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
@@ -5622,7 +3988,7 @@
       "category": "News"
     },
     {
-      "id": "273",
+      "id": "203",
       "name": "CNN",
       "description": "",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",
@@ -5639,7 +4005,7 @@
       "category": "News"
     },
     {
-      "id": "274",
+      "id": "204",
       "name": "Fox Business",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",
@@ -5656,7 +4022,7 @@
       "category": "News"
     },
     {
-      "id": "275",
+      "id": "205",
       "name": "Fox News Channel",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
@@ -5673,7 +4039,7 @@
       "category": "News"
     },
     {
-      "id": "276",
+      "id": "206",
       "name": "Fox Weather",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png",
@@ -5690,7 +4056,7 @@
       "category": "News"
     },
     {
-      "id": "277",
+      "id": "207",
       "name": "MSNBC",
       "description": "",
       "logo": "https://i.imgur.com/kGUR6NE.png",
@@ -5707,7 +4073,7 @@
       "category": "News"
     },
     {
-      "id": "278",
+      "id": "208",
       "name": "The First TV",
       "description": "",
       "logo": "https://i.imgur.com/rOSlp93.png",
@@ -5724,7 +4090,7 @@
       "category": "News"
     },
     {
-      "id": "279",
+      "id": "209",
       "name": "The Weather Channel",
       "description": "",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",
@@ -5741,7 +4107,7 @@
       "category": "News"
     },
     {
-      "id": "280",
+      "id": "210",
       "name": "UN Web TV",
       "description": "",
       "logo": "https://i.imgur.com/UcAwBep.png",
@@ -5758,7 +4124,7 @@
       "category": "News"
     },
     {
-      "id": "281",
+      "id": "211",
       "name": "BBC Arabic",
       "description": "",
       "logo": "https://i.imgur.com/ScyTG6P.png",
@@ -5775,7 +4141,7 @@
       "category": "News"
     },
     {
-      "id": "282",
+      "id": "212",
       "name": "BBC NEWS ARABIA",
       "description": "",
       "logo": "https://i.ibb.co/JcP5JHq/bbcaranw.png",
@@ -5808,7 +4174,7 @@
       "category": "News"
     },
     {
-      "id": "283",
+      "id": "213",
       "name": "Afghanistan International",
       "description": "",
       "logo": "https://i.imgur.com/r8MmFRX.png",
@@ -5825,7 +4191,7 @@
       "category": "News"
     },
     {
-      "id": "284",
+      "id": "214",
       "name": "BBC News",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
@@ -5886,7 +4252,7 @@
       "category": "News"
     },
     {
-      "id": "285",
+      "id": "215",
       "name": "BBC News Asia Pacific",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
@@ -5903,7 +4269,7 @@
       "category": "News"
     },
     {
-      "id": "286",
+      "id": "216",
       "name": "BBC News Europe",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
@@ -5920,7 +4286,7 @@
       "category": "News"
     },
     {
-      "id": "287",
+      "id": "217",
       "name": "BBC Persian",
       "description": "",
       "logo": "https://i.imgur.com/4uTMnPb.png",
@@ -5941,7 +4307,7 @@
       "category": "News"
     },
     {
-      "id": "288",
+      "id": "218",
       "name": "BBC World News",
       "description": "",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",
@@ -5958,7 +4324,7 @@
       "category": "News"
     },
     {
-      "id": "289",
+      "id": "219",
       "name": "CGTN Europe",
       "description": "",
       "logo": "https://i.imgur.com/oz0FQsE.png",
@@ -5975,7 +4341,7 @@
       "category": "News"
     },
     {
-      "id": "290",
+      "id": "220",
       "name": "CNBC Europe",
       "description": "",
       "logo": "https://i.imgur.com/B6sfpDa.png",
@@ -5992,7 +4358,7 @@
       "category": "News"
     },
     {
-      "id": "291",
+      "id": "221",
       "name": "GB News",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
@@ -6029,7 +4395,7 @@
       "category": "News"
     },
     {
-      "id": "292",
+      "id": "222",
       "name": "Iran International",
       "description": "",
       "logo": "https://i.imgur.com/55RpaF3.png",
@@ -6046,7 +4412,7 @@
       "category": "News"
     },
     {
-      "id": "293",
+      "id": "223",
       "name": "IraneFarda TV",
       "description": "",
       "logo": "https://i.imgur.com/ixgcgZY.png",
@@ -6063,7 +4429,7 @@
       "category": "News"
     },
     {
-      "id": "294",
+      "id": "224",
       "name": "24 TV",
       "description": "",
       "logo": "https://i.imgur.com/8FO41es.png",
@@ -6080,7 +4446,7 @@
       "category": "News"
     },
     {
-      "id": "295",
+      "id": "225",
       "name": "Akit TV",
       "description": "",
       "logo": "https://i.imgur.com/oGto929.png",
@@ -6097,7 +4463,7 @@
       "category": "News"
     },
     {
-      "id": "296",
+      "id": "226",
       "name": "Finans Turk TV",
       "description": "",
       "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
@@ -6114,7 +4480,7 @@
       "category": "News"
     },
     {
-      "id": "297",
+      "id": "227",
       "name": "Guney TV Tarsus",
       "description": "",
       "logo": "https://i.imgur.com/solQ9nj.png",
@@ -6131,7 +4497,7 @@
       "category": "News"
     },
     {
-      "id": "298",
+      "id": "228",
       "name": "Guneydogu TV",
       "description": "",
       "logo": "https://i.imgur.com/JT5pp3Y.png",
@@ -6148,7 +4514,7 @@
       "category": "News"
     },
     {
-      "id": "299",
+      "id": "229",
       "name": "Haber Global",
       "description": "",
       "logo": "https://i.postimg.cc/fbQQPsGB/haberglobal.png",
@@ -6177,7 +4543,7 @@
       "category": "News"
     },
     {
-      "id": "300",
+      "id": "230",
       "name": "Haber61 TV",
       "description": "",
       "logo": "https://i.imgur.com/2a2XUKl.png",
@@ -6194,7 +4560,7 @@
       "category": "News"
     },
     {
-      "id": "301",
+      "id": "231",
       "name": "Habertürk TV",
       "description": "",
       "logo": "https://i.imgur.com/6Tw3rUp.png",
@@ -6211,7 +4577,7 @@
       "category": "News"
     },
     {
-      "id": "302",
+      "id": "232",
       "name": "Halk TV",
       "description": "",
       "logo": "https://i.imgur.com/xM0HA30.png",
@@ -6236,7 +4602,7 @@
       "category": "News"
     },
     {
-      "id": "303",
+      "id": "233",
       "name": "Kudüs TV",
       "description": "",
       "logo": "https://i.imgur.com/lwRA84B.png",
@@ -6253,7 +4619,7 @@
       "category": "News"
     },
     {
-      "id": "304",
+      "id": "234",
       "name": "TGRT Haber",
       "description": "",
       "logo": "https://i.imgur.com/PrxwKDw.png",
@@ -6278,7 +4644,7 @@
       "category": "News"
     },
     {
-      "id": "305",
+      "id": "235",
       "name": "TRT Arabi",
       "description": "",
       "logo": "https://i.imgur.com/dEfI2M9.png",
@@ -6295,7 +4661,7 @@
       "category": "News"
     },
     {
-      "id": "306",
+      "id": "236",
       "name": "TRT Haber",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
@@ -6320,7 +4686,7 @@
       "category": "News"
     },
     {
-      "id": "307",
+      "id": "237",
       "name": "TRT World",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
@@ -6341,7 +4707,7 @@
       "category": "News"
     },
     {
-      "id": "308",
+      "id": "238",
       "name": "BNN Bloomberg",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png",
@@ -6358,7 +4724,7 @@
       "category": "News"
     },
     {
-      "id": "309",
+      "id": "239",
       "name": "CBC News Network",
       "description": "",
       "logo": "https://i.imgur.com/SjTdhvJ.png",
@@ -6375,7 +4741,7 @@
       "category": "News"
     },
     {
-      "id": "310",
+      "id": "240",
       "name": "CityNews Calgary",
       "description": "",
       "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -6392,7 +4758,7 @@
       "category": "News"
     },
     {
-      "id": "311",
+      "id": "241",
       "name": "CityNews Edmonton",
       "description": "",
       "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -6409,7 +4775,7 @@
       "category": "News"
     },
     {
-      "id": "312",
+      "id": "242",
       "name": "CityNews Toronto",
       "description": "",
       "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -6426,7 +4792,7 @@
       "category": "News"
     },
     {
-      "id": "313",
+      "id": "243",
       "name": "CityNews Vancouver",
       "description": "",
       "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -6443,7 +4809,7 @@
       "category": "News"
     },
     {
-      "id": "314",
+      "id": "244",
       "name": "Hamdard TV",
       "description": "",
       "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
@@ -6460,7 +4826,7 @@
       "category": "News"
     },
     {
-      "id": "315",
+      "id": "245",
       "name": "ICI RDI",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",
@@ -6477,7 +4843,7 @@
       "category": "News"
     },
     {
-      "id": "316",
+      "id": "246",
       "name": "LCN",
       "description": "",
       "logo": "https://i.imgur.com/iKDLgOG.png",
@@ -6494,7 +4860,7 @@
       "category": "News"
     },
     {
-      "id": "317",
+      "id": "247",
       "name": "Aaj Tak",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
@@ -6511,7 +4877,7 @@
       "category": "News"
     },
     {
-      "id": "318",
+      "id": "248",
       "name": "ABP Sanjha",
       "description": "",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
@@ -6528,7 +4894,7 @@
       "category": "News"
     },
     {
-      "id": "319",
+      "id": "249",
       "name": "First India News",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png",
@@ -6545,7 +4911,7 @@
       "category": "News"
     },
     {
-      "id": "320",
+      "id": "250",
       "name": "WION",
       "description": "",
       "logo": "https://i.imgur.com/Wc5Z3iS.png",
@@ -6562,7 +4928,7 @@
       "category": "News"
     },
     {
-      "id": "321",
+      "id": "251",
       "name": "Jovem Pan News",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
@@ -6579,7 +4945,7 @@
       "category": "News"
     },
     {
-      "id": "322",
+      "id": "252",
       "name": "Plena TV",
       "description": "",
       "logo": "https://i.imgur.com/lH4RT7b.png",
@@ -6596,7 +4962,7 @@
       "category": "News"
     },
     {
-      "id": "323",
+      "id": "253",
       "name": "Record News",
       "description": "",
       "logo": "https://i.imgur.com/HZDRG0K.png",
@@ -6613,7 +4979,7 @@
       "category": "News"
     },
     {
-      "id": "324",
+      "id": "254",
       "name": "STZ TV",
       "description": "",
       "logo": "https://i.imgur.com/SeF2I7q.png",
@@ -6630,7 +4996,7 @@
       "category": "News"
     },
     {
-      "id": "325",
+      "id": "255",
       "name": "Times Brasil",
       "description": "",
       "logo": "https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png",
@@ -6647,7 +5013,7 @@
       "category": "News"
     },
     {
-      "id": "326",
+      "id": "256",
       "name": "TV A Folha",
       "description": "",
       "logo": "https://i.imgur.com/I7XGMhj.png",
@@ -6664,7 +5030,7 @@
       "category": "News"
     },
     {
-      "id": "327",
+      "id": "257",
       "name": "TV Brusque",
       "description": "",
       "logo": "https://i.imgur.com/J2EAZPS.png",
@@ -6681,7 +5047,7 @@
       "category": "News"
     },
     {
-      "id": "328",
+      "id": "258",
       "name": "TV do Povo",
       "description": "",
       "logo": "https://i.imgur.com/58EQ5qX.png",
@@ -6698,7 +5064,7 @@
       "category": "News"
     },
     {
-      "id": "329",
+      "id": "259",
       "name": "TV Sim Cachoeiro",
       "description": "",
       "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -6715,7 +5081,7 @@
       "category": "News"
     },
     {
-      "id": "330",
+      "id": "260",
       "name": "TV Sim Colatina",
       "description": "",
       "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -6732,7 +5098,7 @@
       "category": "News"
     },
     {
-      "id": "331",
+      "id": "261",
       "name": "TV Sim São Mateus",
       "description": "",
       "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -6749,7 +5115,7 @@
       "category": "News"
     },
     {
-      "id": "332",
+      "id": "262",
       "name": "TVídeoNews",
       "description": "",
       "logo": "https://i.imgur.com/vstHOYx.png",
@@ -6766,7 +5132,7 @@
       "category": "News"
     },
     {
-      "id": "333",
+      "id": "263",
       "name": "Cablenoticias",
       "description": "",
       "logo": "https://i.imgur.com/FfhOGR9.png",
@@ -6783,7 +5149,7 @@
       "category": "News"
     },
     {
-      "id": "334",
+      "id": "264",
       "name": "Ecotel TV",
       "description": "",
       "logo": "https://i.imgur.com/pVlZUSV.png",
@@ -6800,7 +5166,7 @@
       "category": "News"
     },
     {
-      "id": "335",
+      "id": "265",
       "name": "Mario Pinto TV",
       "description": "",
       "logo": "https://i.imgur.com/9rU6yWo.jpg",
@@ -6817,7 +5183,7 @@
       "category": "News"
     },
     {
-      "id": "336",
+      "id": "266",
       "name": "NHK World-Japan",
       "description": "",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
@@ -6834,7 +5200,7 @@
       "category": "News"
     },
     {
-      "id": "337",
+      "id": "267",
       "name": "ADN 40",
       "description": "",
       "logo": "https://i.imgur.com/Og17U9N.png",
@@ -6851,7 +5217,7 @@
       "category": "News"
     },
     {
-      "id": "338",
+      "id": "268",
       "name": "AMX Noticias",
       "description": "",
       "logo": "https://i.imgur.com/snIU1UA.jpg",
@@ -6868,7 +5234,7 @@
       "category": "News"
     },
     {
-      "id": "339",
+      "id": "269",
       "name": "Milenio Television",
       "description": "",
       "logo": "https://i.imgur.com/TG1T5Oh.png",
@@ -6885,7 +5251,7 @@
       "category": "News"
     },
     {
-      "id": "340",
+      "id": "270",
       "name": "NRT México Internacional",
       "description": "",
       "logo": "https://i.imgur.com/W2E0fSy.png",
@@ -6902,7 +5268,7 @@
       "category": "News"
     },
     {
-      "id": "341",
+      "id": "271",
       "name": "NRT México Región Carbonífera",
       "description": "",
       "logo": "https://i.imgur.com/ZqFJhAk.jpg",
@@ -6919,7 +5285,7 @@
       "category": "News"
     },
     {
-      "id": "342",
+      "id": "272",
       "name": "NRT México Región Centro",
       "description": "",
       "logo": "https://i.imgur.com/yjNUzYD.jpg",
@@ -6936,7 +5302,7 @@
       "category": "News"
     },
     {
-      "id": "343",
+      "id": "273",
       "name": "NRT México Región Sureste",
       "description": "",
       "logo": "https://i.imgur.com/rxVVrZV.jpg",
@@ -6953,7 +5319,7 @@
       "category": "News"
     },
     {
-      "id": "344",
+      "id": "274",
       "name": "PSN Canal 45.2",
       "description": "",
       "logo": "https://i.imgur.com/7i7GkSL.png",
@@ -6970,7 +5336,7 @@
       "category": "News"
     },
     {
-      "id": "345",
+      "id": "275",
       "name": "Super Express TV",
       "description": "",
       "logo": "https://i.imgur.com/HuIsALV.png",
@@ -6987,7 +5353,7 @@
       "category": "News"
     },
     {
-      "id": "346",
+      "id": "276",
       "name": "Telewizja Biznesowa",
       "description": "",
       "logo": "https://i.imgur.com/XC7i7ZL.png",
@@ -7004,7 +5370,7 @@
       "category": "News"
     },
     {
-      "id": "347",
+      "id": "277",
       "name": "TVP Info",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/512px-TVP_Info_logo.svg.png",
@@ -7033,7 +5399,7 @@
       "category": "News"
     },
     {
-      "id": "348",
+      "id": "278",
       "name": "TVP World",
       "description": "",
       "logo": "https://i.imgur.com/lB4MgRI.png",
@@ -7058,7 +5424,7 @@
       "category": "News"
     },
     {
-      "id": "349",
+      "id": "279",
       "name": "NTN 24",
       "description": "",
       "logo": "https://i.imgur.com/UoKmSAP.png",
@@ -7075,7 +5441,7 @@
       "category": "News"
     },
     {
-      "id": "350",
+      "id": "280",
       "name": "Universo",
       "description": "",
       "logo": "https://i.imgur.com/RZ8pIKe.png",
@@ -7092,7 +5458,7 @@
       "category": "News"
     },
     {
-      "id": "351",
+      "id": "281",
       "name": "STARZPLAY SPORTS 1",
       "description": "",
       "logo": "https://mena-img-cdn-lb.aws.playco.com/livechannels/STARZPLAYSPORT01AVODY2025M/STARZPLAYSPORT01AVODY2025M-title-logo-en.png",
@@ -7109,7 +5475,7 @@
       "category": "Starzplay"
     },
     {
-      "id": "352",
+      "id": "282",
       "name": "STARZPLAY SPORTS 2",
       "description": "",
       "logo": "https://mena-img-cdn-lb.aws.playco.com/livechannels/STARZPLAYSPORT02AVODY2025M/STARZPLAYSPORT02AVODY2025M-title-logo-en.png",
@@ -7126,7 +5492,7 @@
       "category": "Starzplay"
     },
     {
-      "id": "353",
+      "id": "283",
       "name": "STARZPLAY SPORTS 3",
       "description": "",
       "logo": "https://mena-img-cdn-lb.aws.playco.com/seriea/STARZPLAYSPORTSY2022M/STARZPLAYSPORTSY2022M-title-logo-en.png",
@@ -7143,7 +5509,7 @@
       "category": "Starzplay"
     },
     {
-      "id": "354",
+      "id": "284",
       "name": "ART Cinema",
       "description": "",
       "logo": "https://www.artonline.tv/images/ART_Logo/cinema-logo.png",
@@ -7160,7 +5526,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "355",
+      "id": "285",
       "name": "ART Aflam 1",
       "description": "",
       "logo": "https://www.artonline.tv/images/ART_Logo/ART_AFLAM_1w.png",
@@ -7177,7 +5543,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "356",
+      "id": "286",
       "name": "ART Aflam 2",
       "description": "",
       "logo": "https://i.imgur.com/icE2WOw.png",
@@ -7194,7 +5560,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "357",
+      "id": "287",
       "name": "ART Hekayat",
       "description": "",
       "logo": "https://www.artonline.tv/images/ART_Logo/art_hekayat.png",
@@ -7211,7 +5577,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "358",
+      "id": "288",
       "name": "ART Hekayat 2",
       "description": "",
       "logo": "https://www.artonline.tv/images/ART_Logo/art_hekayat_2.png",
@@ -7228,7 +5594,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "359",
+      "id": "289",
       "name": "Alfa Cinema 1",
       "description": "",
       "logo": "https://i.imgur.com/sfZVNMA.png",
@@ -7245,7 +5611,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "360",
+      "id": "290",
       "name": "Alfa Cinema 2",
       "description": "",
       "logo": "https://i.imgur.com/Re2LMab.png",
@@ -7262,7 +5628,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "361",
+      "id": "291",
       "name": "Alfa Alyoum",
       "description": "",
       "logo": "https://i.imgur.com/wd1Xh0X.png",
@@ -7279,7 +5645,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "362",
+      "id": "292",
       "name": "Alfa Series",
       "description": "",
       "logo": "https://i.imgur.com/0WQgwLB.png",
@@ -7296,7 +5662,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "363",
+      "id": "293",
       "name": "Alfa Series 2",
       "description": "",
       "logo": "https://i.imgur.com/22xFOXj.png",
@@ -7313,7 +5679,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "364",
+      "id": "294",
       "name": "OSNTV Mezze",
       "description": "",
       "logo": "https://i.imgur.com/QUHWvuH.png",
@@ -7330,7 +5696,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "365",
+      "id": "295",
       "name": "OSNTV Showcase",
       "description": "",
       "logo": "https://i.imgur.com/7jG1YHn.png",
@@ -7347,7 +5713,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "366",
+      "id": "296",
       "name": "OSNTV Comedy",
       "description": "",
       "logo": "https://i.imgur.com/bNmINah.png",
@@ -7364,7 +5730,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "367",
+      "id": "297",
       "name": "OSNTV Movies Hollywood",
       "description": "",
       "logo": "https://i.imgur.com/lhDoGqs.png",
@@ -7381,7 +5747,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "368",
+      "id": "298",
       "name": "OSNTV Movies Action",
       "description": "",
       "logo": "https://i.imgur.com/DWt5M7x.png",
@@ -7398,7 +5764,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "369",
+      "id": "299",
       "name": "OSNTV Movies Premiere",
       "description": "",
       "logo": "https://i.imgur.com/vCsMKCO.png",
@@ -7415,7 +5781,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "370",
+      "id": "300",
       "name": "OSNTV Movies Family",
       "description": "",
       "logo": "https://i.imgur.com/QYV7Fih.png",
@@ -7432,7 +5798,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "371",
+      "id": "301",
       "name": "OSNTV Yahala Aflam",
       "description": "",
       "logo": "https://i.imgur.com/QG50Tdu.png",
@@ -7449,7 +5815,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "372",
+      "id": "302",
       "name": "OSNTV Yahala",
       "description": "",
       "logo": "https://i.imgur.com/ygchMa0.png",
@@ -7466,7 +5832,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "373",
+      "id": "303",
       "name": "OSNTV Now",
       "description": "",
       "logo": "https://i.imgur.com/52CAst5.png",
@@ -7483,7 +5849,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "374",
+      "id": "304",
       "name": "OSNTV Kids",
       "description": "",
       "logo": "https://i.imgur.com/qVKa0UO.png",
@@ -7500,7 +5866,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "375",
+      "id": "305",
       "name": "Nickelodeon Arabic",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg",
@@ -7517,7 +5883,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "376",
+      "id": "306",
       "name": "Nicktoons Arabic",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
@@ -7534,7 +5900,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "377",
+      "id": "307",
       "name": "OSNTV History",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
@@ -7551,7 +5917,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "378",
+      "id": "308",
       "name": "OSNTV History 2",
       "description": "",
       "logo": "https://i.imgur.com/47vgnVK.png",
@@ -7568,7 +5934,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "379",
+      "id": "309",
       "name": "OSNTV Discovery",
       "description": "",
       "logo": "https://i.imgur.com/PQaF1Qy.png",
@@ -7585,7 +5951,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "380",
+      "id": "310",
       "name": "OSNTV Nat Geo Wild",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
@@ -7602,7 +5968,7 @@
       "category": "OSN TV"
     },
     {
-      "id": "381",
+      "id": "311",
       "name": "MAX SPORT 1",
       "description": "",
       "logo": "https://i.imgur.com/0ohnpql.png",
@@ -7619,7 +5985,7 @@
       "category": "Max Sports"
     },
     {
-      "id": "382",
+      "id": "312",
       "name": "MAX SPORT 2",
       "description": "",
       "logo": "https://i.imgur.com/33m1wPN.png",
@@ -7636,7 +6002,7 @@
       "category": "Max Sports"
     },
     {
-      "id": "383",
+      "id": "313",
       "name": "MAX SPORT 3",
       "description": "",
       "logo": "https://i.imgur.com/eGiGgZ2.png",
@@ -7653,7 +6019,7 @@
       "category": "Max Sports"
     },
     {
-      "id": "384",
+      "id": "314",
       "name": "MAX SPORT 4",
       "description": "",
       "logo": "https://i.imgur.com/7IxXX6f.png",
@@ -7670,7 +6036,7 @@
       "category": "Max Sports"
     },
     {
-      "id": "385",
+      "id": "315",
       "name": "TNT SPORTS 1",
       "description": "",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
@@ -7687,7 +6053,7 @@
       "category": "TNT Sports"
     },
     {
-      "id": "386",
+      "id": "316",
       "name": "TNT SPORTS 2",
       "description": "",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
@@ -7708,7 +6074,7 @@
       "category": "TNT Sports"
     },
     {
-      "id": "387",
+      "id": "317",
       "name": "TNT SPORTS 3",
       "description": "",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
@@ -7725,7 +6091,7 @@
       "category": "TNT Sports"
     },
     {
-      "id": "388",
+      "id": "318",
       "name": "TNT SPORTS 4",
       "description": "",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",
@@ -7746,7 +6112,7 @@
       "category": "TNT Sports"
     },
     {
-      "id": "389",
+      "id": "319",
       "name": "Premier Sports 1",
       "description": "",
       "logo": "https://iili.io/KWnCF1I.png",
@@ -7763,7 +6129,7 @@
       "category": "TNT Sports"
     },
     {
-      "id": "390",
+      "id": "320",
       "name": "Premier Sports 2",
       "description": "",
       "logo": "https://iili.io/KWnCF1I.png",
@@ -7780,7 +6146,7 @@
       "category": "TNT Sports"
     },
     {
-      "id": "391",
+      "id": "321",
       "name": "SKY SPORT 24 IT",
       "description": "",
       "logo": "https://freeshot.live/upload/source/SkySport24-logo.png",
@@ -7797,7 +6163,7 @@
       "category": "Sky"
     },
     {
-      "id": "392",
+      "id": "322",
       "name": "SKY SPORT GOLF DE",
       "description": "",
       "logo": "https://freeshot.live/upload/source/Sky_Sport_Golf-Logo.png",
@@ -7814,7 +6180,7 @@
       "category": "Sky"
     },
     {
-      "id": "393",
+      "id": "323",
       "name": "SKY SPORT GOLF IT",
       "description": "",
       "logo": "https://freeshot.live/upload/source/SkySportGolfIT-logo.png",
@@ -7831,7 +6197,7 @@
       "category": "Sky"
     },
     {
-      "id": "394",
+      "id": "324",
       "name": "SKY SPORT MIX DE",
       "description": "",
       "logo": "https://freeshot.live/upload/source/Sky_Sport_Mix-Logo.png",
@@ -7848,7 +6214,7 @@
       "category": "Sky"
     },
     {
-      "id": "395",
+      "id": "325",
       "name": "SKY SPORT MIX IT",
       "description": "",
       "logo": "https://freeshot.live/upload/source/Sky-Sport-Mix-logo.png",
@@ -7865,7 +6231,7 @@
       "category": "Sky"
     },
     {
-      "id": "396",
+      "id": "326",
       "name": "SKY SPORT MOTO GP IT",
       "description": "",
       "logo": "https://freeshot.live/upload/source/sky_sport_motogp_logo.png",
@@ -7882,7 +6248,7 @@
       "category": "Sky"
     },
     {
-      "id": "397",
+      "id": "327",
       "name": "SKY SPORT TENNIS IT",
       "description": "",
       "logo": "https://freeshot.live/upload/source/Sky-sport-tennis.png",
@@ -7899,7 +6265,7 @@
       "category": "Sky"
     },
     {
-      "id": "398",
+      "id": "328",
       "name": "SKY SPORTS MAIN EVENT LIVE UK",
       "description": "",
       "logo": "https://freeshot.live/upload/source/sky-sports-main-event-logo.png",
@@ -7916,7 +6282,7 @@
       "category": "Sky"
     },
     {
-      "id": "399",
+      "id": "329",
       "name": "SKY SPORTS PREMIER LEAGUE UK",
       "description": "",
       "logo": "https://freeshot.live/upload/source/sky-sports-premier-league_logo.png",
@@ -7933,7 +6299,7 @@
       "category": "Sky"
     },
     {
-      "id": "400",
+      "id": "330",
       "name": "Nova Sports Premier League GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-premier-league.png",
@@ -7950,7 +6316,7 @@
       "category": "Novasport"
     },
     {
-      "id": "401",
+      "id": "331",
       "name": "Nova Sports 1 GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-1-gr.png",
@@ -7967,7 +6333,7 @@
       "category": "Novasport"
     },
     {
-      "id": "402",
+      "id": "332",
       "name": "Nova Sports 2 GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-2-gr.png",
@@ -7984,7 +6350,7 @@
       "category": "Novasport"
     },
     {
-      "id": "403",
+      "id": "333",
       "name": "Nova Sports 3 GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-3-gr.png",
@@ -8001,7 +6367,7 @@
       "category": "Novasport"
     },
     {
-      "id": "404",
+      "id": "334",
       "name": "Nova Sports 4 GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-4-gr.png",
@@ -8018,7 +6384,7 @@
       "category": "Novasport"
     },
     {
-      "id": "405",
+      "id": "335",
       "name": "Nova Sports 5 GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-5-gr.png",
@@ -8035,7 +6401,7 @@
       "category": "Novasport"
     },
     {
-      "id": "406",
+      "id": "336",
       "name": "Nova Sports 6 GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-6-gr.png",
@@ -8052,7 +6418,7 @@
       "category": "Novasport"
     },
     {
-      "id": "407",
+      "id": "337",
       "name": "Nova Sports Start GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-start-gr.png",
@@ -8069,7 +6435,7 @@
       "category": "Novasport"
     },
     {
-      "id": "408",
+      "id": "338",
       "name": "Nova Sports Prime GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-prime-gr.png",
@@ -8086,7 +6452,7 @@
       "category": "Novasport"
     },
     {
-      "id": "409",
+      "id": "339",
       "name": "Nova Sports News GR",
       "description": "",
       "logo": "https://raw.githubusercontent.com/mohamedvabedi/r-tv/refs/heads/main/Icons/premium/nova-sports-news-gr.png",
@@ -8103,7 +6469,7 @@
       "category": "Novasport"
     },
     {
-      "id": "410",
+      "id": "340",
       "name": "Sport TV1 Portugal",
       "description": "",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
@@ -8124,7 +6490,7 @@
       "category": "SPORT TV"
     },
     {
-      "id": "411",
+      "id": "341",
       "name": "Sport TV2 Portugal",
       "description": "",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
@@ -8145,7 +6511,7 @@
       "category": "SPORT TV"
     },
     {
-      "id": "412",
+      "id": "342",
       "name": "Sport TV3 Portugal",
       "description": "",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",
@@ -8166,7 +6532,7 @@
       "category": "SPORT TV"
     },
     {
-      "id": "413",
+      "id": "343",
       "name": "Sport TV4 Portugal",
       "description": "",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",
@@ -8187,7 +6553,7 @@
       "category": "SPORT TV"
     },
     {
-      "id": "414",
+      "id": "344",
       "name": "Sport TV5 Portugal",
       "description": "",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",
@@ -8208,7 +6574,7 @@
       "category": "SPORT TV"
     },
     {
-      "id": "415",
+      "id": "345",
       "name": "Sport TV6 Portugal",
       "description": "",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
@@ -8225,7 +6591,7 @@
       "category": "SPORT TV"
     },
     {
-      "id": "416",
+      "id": "346",
       "name": "SportKlub 1 RS",
       "description": "",
       "logo": "https://freeshot.live/upload/source/SportKlub-1-logo.png",
@@ -8242,7 +6608,7 @@
       "category": "SportKlub"
     },
     {
-      "id": "417",
+      "id": "347",
       "name": "SportKlub 2 RS",
       "description": "",
       "logo": "https://freeshot.live/upload/source/SportKlub-2-logo.png",
@@ -8259,7 +6625,7 @@
       "category": "SportKlub"
     },
     {
-      "id": "418",
+      "id": "348",
       "name": "SportKlub 3 RS",
       "description": "",
       "logo": "https://freeshot.live/upload/source/SportKlub-3-logo.png",
@@ -8276,7 +6642,7 @@
       "category": "SportKlub"
     },
     {
-      "id": "419",
+      "id": "349",
       "name": "SportKlub 4 RS",
       "description": "",
       "logo": "https://freeshot.live/upload/source/SportKlub-4-logo.png",
@@ -8293,7 +6659,7 @@
       "category": "SportKlub"
     },
     {
-      "id": "420",
+      "id": "350",
       "name": "Cosmote Sport 1 HD",
       "description": "",
       "logo": "https://i.imgur.com/fn0TM6V.png",
@@ -8310,7 +6676,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "421",
+      "id": "351",
       "name": "Cosmote Sport 2 HD",
       "description": "",
       "logo": "https://i.imgur.com/fn0TM6V.png",
@@ -8327,7 +6693,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "422",
+      "id": "352",
       "name": "Cosmote Sport 3 HD",
       "description": "",
       "logo": "https://i.imgur.com/V5qKXx9.png",
@@ -8344,7 +6710,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "423",
+      "id": "353",
       "name": "Cosmote Sport 4 HD",
       "description": "",
       "logo": "https://i.imgur.com/zEdJUZU.png",
@@ -8361,7 +6727,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "424",
+      "id": "354",
       "name": "Cosmote Sport 5 HD",
       "description": "",
       "logo": "https://i.imgur.com/0GKXahH.png",
@@ -8378,7 +6744,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "425",
+      "id": "355",
       "name": "Cosmote Sport 6 HD",
       "description": "",
       "logo": "https://i.imgur.com/KG6VWN1.png",
@@ -8395,7 +6761,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "426",
+      "id": "356",
       "name": "Cosmote Sport 7 HD",
       "description": "",
       "logo": "https://i.imgur.com/p0DKcn2.png",
@@ -8412,7 +6778,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "427",
+      "id": "357",
       "name": "Cosmote Sport 8 HD",
       "description": "",
       "logo": "https://i.imgur.com/DKlW5ka.png",
@@ -8429,7 +6795,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "428",
+      "id": "358",
       "name": "Cosmote Sport 9 HD",
       "description": "",
       "logo": "https://i.imgur.com/3YwAXcH.png",
@@ -8446,7 +6812,7 @@
       "category": "Cosmote"
     },
     {
-      "id": "429",
+      "id": "359",
       "name": "ZIGGO SPORT NL",
       "description": "",
       "logo": "https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",
@@ -8463,7 +6829,7 @@
       "category": "ZIGGO SPORT"
     },
     {
-      "id": "430",
+      "id": "360",
       "name": "ZIGGO SPORT 2",
       "description": "",
       "logo": "https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",
@@ -8480,7 +6846,7 @@
       "category": "ZIGGO SPORT"
     },
     {
-      "id": "431",
+      "id": "361",
       "name": "ZIGGO SPORT 3",
       "description": "",
       "logo": "https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",
@@ -8497,7 +6863,7 @@
       "category": "ZIGGO SPORT"
     },
     {
-      "id": "432",
+      "id": "362",
       "name": "ZIGGO SPORT 4",
       "description": "",
       "logo": "https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",
@@ -8514,7 +6880,7 @@
       "category": "ZIGGO SPORT"
     },
     {
-      "id": "433",
+      "id": "363",
       "name": "ZIGGO SPORT 5",
       "description": "",
       "logo": "https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",
@@ -8531,7 +6897,7 @@
       "category": "ZIGGO SPORT"
     },
     {
-      "id": "434",
+      "id": "364",
       "name": "ZIGGO SPORT 6",
       "description": "",
       "logo": "https://freeshot.live/upload/source/ziggo-sport-6-nl-logo.png",
@@ -8548,7 +6914,7 @@
       "category": "ZIGGO SPORT"
     },
     {
-      "id": "435",
+      "id": "365",
       "name": "STC Sports 1",
       "description": "",
       "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
@@ -8565,7 +6931,7 @@
       "category": "Shahid"
     },
     {
-      "id": "436",
+      "id": "366",
       "name": "STC Sports 2",
       "description": "",
       "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
@@ -8582,7 +6948,7 @@
       "category": "Shahid"
     },
     {
-      "id": "437",
+      "id": "367",
       "name": "STC Sports 3",
       "description": "",
       "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
@@ -8599,7 +6965,7 @@
       "category": "Shahid"
     },
     {
-      "id": "438",
+      "id": "368",
       "name": "STC Sports 4",
       "description": "",
       "logo": "https://cdn.jawwy.tv/19/NEW-2-ProviderSTCtv.svg",
@@ -8616,7 +6982,7 @@
       "category": "Shahid"
     },
     {
-      "id": "439",
+      "id": "369",
       "name": "Shahid Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/mbLH9Bz.png",
@@ -8633,7 +6999,7 @@
       "category": "Shahid"
     },
     {
-      "id": "440",
+      "id": "370",
       "name": "Shahid Sports 2",
       "description": "",
       "logo": "https://i.imgur.com/mbLH9Bz.png",
@@ -8650,7 +7016,7 @@
       "category": "Shahid"
     },
     {
-      "id": "441",
+      "id": "371",
       "name": "Shahid Sports 3",
       "description": "",
       "logo": "https://i.imgur.com/mbLH9Bz.png",
@@ -8667,7 +7033,7 @@
       "category": "Shahid"
     },
     {
-      "id": "442",
+      "id": "372",
       "name": "Shahid Sports 4",
       "description": "",
       "logo": "https://i.imgur.com/mbLH9Bz.png",
@@ -8684,7 +7050,7 @@
       "category": "Shahid"
     },
     {
-      "id": "443",
+      "id": "373",
       "name": "Shahid Sports 5",
       "description": "",
       "logo": "https://i.imgur.com/mbLH9Bz.png",
@@ -8701,160 +7067,7 @@
       "category": "Shahid"
     },
     {
-      "id": "444",
-      "name": "TEST - Sky Sports Main Event UK",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "445",
-      "name": "TEST - Sky Sports Premier League UK",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "446",
-      "name": "TEST - beIN Sports 3 Turkey",
-      "description": "",
-      "logo": "",
-      "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8"
-        }
-      ],
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-      "referer": "https://www.selcuksportshd.is",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "447",
-      "name": "TEST - Cytavision Sports 3 Cyprus",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/Cyta3/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/Cyta3/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "448",
-      "name": "TEST - Arena Sport 1 Croatia",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "449",
-      "name": "TEST - Diema Sport 2 Bulgaria",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/DiemaSport2/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/DiemaSport2/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "450",
-      "name": "TEST - beIN Sports MENA 1",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/beINAR/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/beINAR/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "451",
-      "name": "TEST - Sport 1 Israel",
-      "description": "",
-      "logo": "",
-      "url": "https://wasitv-pro.site/SPORT1IL/mono.m3u8",
-      "qualities": [
-        {
-          "label": "Server 1",
-          "url": "https://wasitv-pro.site/SPORT1IL/mono.m3u8"
-        }
-      ],
-      "user_agent": "",
-      "referer": "https://lovetier.bz/",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "452",
-      "name": "Bein turkey test",
-      "description": "",
-      "logo": "",
-      "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8",
-      "qualities": [
-        {
-          "label": "HD",
-          "url": "https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8"
-        }
-      ],
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-      "referer": "https://www.selcuksportshd.is",
-      "clear_key": "",
-      "category": "Test"
-    },
-    {
-      "id": "453",
+      "id": "374",
       "name": "AL24 NEWS",
       "description": "",
       "logo": "https://i.imgur.com/vyVEXYL.png",
@@ -8871,7 +7084,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "454",
+      "id": "375",
       "name": "ECHOROUK NEWS",
       "description": "",
       "logo": "http://i.imgur.com/b2koAeh.png",
@@ -8892,7 +7105,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "455",
+      "id": "376",
       "name": "NILE Sports",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Upt8FppA-UwzshFX269HituK8xosTFCk2Q&s",
@@ -8909,7 +7122,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "456",
+      "id": "377",
       "name": "AL QAHERA NEWS",
       "description": "",
       "logo": "https://i.ibb.co/CMk8DS1/alqahera.png",
@@ -8926,7 +7139,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "457",
+      "id": "378",
       "name": "ON Sport",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
@@ -8951,7 +7164,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "458",
+      "id": "379",
       "name": "ON sport MAX",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
@@ -8972,7 +7185,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "459",
+      "id": "380",
       "name": "ON sport PLUS",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/5KXtaWB5YnPF8u39VWh-DsdvaAFEYtWIz-gzXvU3W65F3a9Um5VIMoJiyjE1H99umdpU4v3RgQ=s160-c-k-c0x00ffffff-no-rj",
@@ -8989,7 +7202,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "460",
+      "id": "381",
       "name": "Zamalek Sports",
       "description": "",
       "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/zamalek_sports.jpg",
@@ -9006,7 +7219,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "461",
+      "id": "382",
       "name": "AL SHARQIYA News",
       "description": "",
       "logo": "https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png",
@@ -9027,7 +7240,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "462",
+      "id": "383",
       "name": "INEWS IQ",
       "description": "",
       "logo": "https://i.ibb.co/m4tvbmp/inewsar.png",
@@ -9048,7 +7261,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "463",
+      "id": "384",
       "name": "Iraqia Sport",
       "description": "",
       "logo": "https://i.imgur.com/DrrlxTO.png",
@@ -9065,7 +7278,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "464",
+      "id": "385",
       "name": "Zee Alwan",
       "description": "",
       "logo": "https://i.imgur.com/OLuCox7.png",
@@ -9082,7 +7295,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "465",
+      "id": "386",
       "name": "Abu Dhabi Sports 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxg59zYTTefYh6JdK9INDBHoJHrwNVi7OICA&s",
@@ -9099,7 +7312,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "466",
+      "id": "387",
       "name": "Abu Dhabi Sports 2",
       "description": "",
       "logo": "https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-title-logo-en.png",
@@ -9116,7 +7329,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "467",
+      "id": "388",
       "name": "Sharjah Sports",
       "description": "",
       "logo": "https://i.imgur.com/CsEElsJ.png",
@@ -9133,7 +7346,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "468",
+      "id": "389",
       "name": "KSA Sports 1",
       "description": "",
       "logo": "https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png",
@@ -9154,7 +7367,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "469",
+      "id": "390",
       "name": "KSA Sports 2",
       "description": "",
       "logo": "https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png",
@@ -9175,7 +7388,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "470",
+      "id": "391",
       "name": "MBC+  Drama",
       "description": "",
       "logo": "https://i.imgur.com/lxWdjXG.png",
@@ -9192,7 +7405,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "471",
+      "id": "392",
       "name": "OMAN SPORT",
       "description": "",
       "logo": "https://i.ibb.co/GJVSFNt/oman.png",
@@ -9209,7 +7422,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "472",
+      "id": "393",
       "name": "Oman Sports TV",
       "description": "",
       "logo": "https://i.imgur.com/1omi7p8.png",
@@ -9226,7 +7439,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "473",
+      "id": "394",
       "name": "Bahrain Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/ZEUsGNl.png",
@@ -9243,7 +7456,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "474",
+      "id": "395",
       "name": "Bahrain Sports 2",
       "description": "",
       "logo": "https://i.imgur.com/ZEUsGNl.png",
@@ -9260,7 +7473,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "475",
+      "id": "396",
       "name": "LIBYA SPORT 2HD",
       "description": "",
       "logo": "https://i.imgur.com/PuslcKr.png",
@@ -9277,7 +7490,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "476",
+      "id": "397",
       "name": "HALAB TODAY",
       "description": "",
       "logo": "https://i.ibb.co/1JpfbVF6/halabtod.png",
@@ -9294,7 +7507,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "477",
+      "id": "398",
       "name": "Syria News",
       "description": "",
       "logo": "https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp",
@@ -9311,7 +7524,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "478",
+      "id": "399",
       "name": "ROYA SPORTS",
       "description": "",
       "logo": "https://i.ibb.co/84HtHzK/Roya-TV.png",
@@ -9328,7 +7541,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "479",
+      "id": "400",
       "name": "Jordan Sport",
       "description": "",
       "logo": "https://i.imgur.com/2EmrZPQ.png",
@@ -9345,7 +7558,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "480",
+      "id": "401",
       "name": "Jordan Sport 2",
       "description": "",
       "logo": "https://static.jrtv.gov.jo/resize-width/380/content/D/yH/2972/Poster.png",
@@ -9362,7 +7575,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "481",
+      "id": "402",
       "name": "ROYA NEWS",
       "description": "",
       "logo": "https://i.ibb.co/84HtHzK/Roya-TV.png",
@@ -9379,7 +7592,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "482",
+      "id": "403",
       "name": "Palestine Today",
       "description": "",
       "logo": "https://i.imgur.com/BS8XXug.png",
@@ -9396,7 +7609,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "483",
+      "id": "404",
       "name": "KTV Sport",
       "description": "",
       "logo": "https://i.imgur.com/R1hGX1d.png",
@@ -9413,7 +7626,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "484",
+      "id": "405",
       "name": "KTV Sport Plus",
       "description": "",
       "logo": "https://i.imgur.com/l4oX0gf.png",
@@ -9430,7 +7643,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "485",
+      "id": "406",
       "name": "Yemen Today TV",
       "description": "",
       "logo": "https://i.imgur.com/8TzcJu5.png",
@@ -9447,7 +7660,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "486",
+      "id": "407",
       "name": "RMC Sports 1",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/3840px-Logo_RMC_Sport_1_2018.svg.png",
@@ -9464,7 +7677,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "487",
+      "id": "408",
       "name": "RMC Sports 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/960px-Logo_RMC_Sport_2_2018.svg.png",
@@ -9481,7 +7694,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "488",
+      "id": "409",
       "name": "INFOSPORT",
       "description": "",
       "logo": "https://p7.hiclipart.com/preview/95/650/533/infosport-television-channel-logo-sky-news-sport-png.jpg",
@@ -9498,7 +7711,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "489",
+      "id": "410",
       "name": "Eurosport 2",
       "description": "",
       "logo": "https://i.imgur.com/f56dHgR.png",
@@ -9523,7 +7736,24 @@
       "category": "reezntv.com"
     },
     {
-      "id": "490",
+      "id": "411",
+      "name": "Rai Sport",
+      "description": "",
+      "logo": "https://i.imgur.com/6PEevOM.png",
+      "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "412",
       "name": "NewSignal",
       "description": "",
       "logo": "https://i.imgur.com/UnZoS95.png",
@@ -9540,7 +7770,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "491",
+      "id": "413",
       "name": "Sportitalia",
       "description": "",
       "logo": "https://i.imgur.com/0CJGGgd.png",
@@ -9557,7 +7787,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "492",
+      "id": "414",
       "name": "Sportitalia 24",
       "description": "",
       "logo": "https://i.imgur.com/RSwnoLn.png",
@@ -9574,7 +7804,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "493",
+      "id": "415",
       "name": "Sportitalia Motori",
       "description": "",
       "logo": "https://i.imgur.com/hu56Ya5.png",
@@ -9591,7 +7821,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "494",
+      "id": "416",
       "name": "Sportitalia Solocalcio",
       "description": "",
       "logo": "https://i.imgur.com/hu56Ya5.png",
@@ -9608,7 +7838,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "495",
+      "id": "417",
       "name": "TR Sport",
       "description": "",
       "logo": "https://i.imgur.com/ELXmaqg.png",
@@ -9625,7 +7855,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "496",
+      "id": "418",
       "name": "3Cat Exclusiu 1",
       "description": "",
       "logo": "https://i.imgur.com/YQvLPT1.png",
@@ -9642,7 +7872,7 @@
       "category": "News;Public"
     },
     {
-      "id": "497",
+      "id": "419",
       "name": "3Cat Exclusiu 2",
       "description": "",
       "logo": "https://i.imgur.com/YQvLPT1.png",
@@ -9659,7 +7889,7 @@
       "category": "News;Public"
     },
     {
-      "id": "498",
+      "id": "420",
       "name": "3Cat Exclusiu 3",
       "description": "",
       "logo": "https://i.imgur.com/YQvLPT1.png",
@@ -9676,7 +7906,7 @@
       "category": "News;Public"
     },
     {
-      "id": "499",
+      "id": "421",
       "name": "3CatInfo",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png",
@@ -9693,7 +7923,7 @@
       "category": "News;Public"
     },
     {
-      "id": "500",
+      "id": "422",
       "name": "101tv Malaga",
       "description": "",
       "logo": "https://i.imgur.com/GzI3RC4.png",
@@ -9710,7 +7940,7 @@
       "category": "News"
     },
     {
-      "id": "501",
+      "id": "423",
       "name": "Actualidad 360",
       "description": "",
       "logo": "https://i.imgur.com/3YeTu0n.png",
@@ -9727,7 +7957,7 @@
       "category": "News"
     },
     {
-      "id": "502",
+      "id": "424",
       "name": "Barca TV",
       "description": "",
       "logo": "https://i.imgur.com/d8x7c8i.png",
@@ -9744,7 +7974,7 @@
       "category": "Sports"
     },
     {
-      "id": "503",
+      "id": "425",
       "name": "BDNCOM",
       "description": "",
       "logo": "https://i.imgur.com/ktasO33.png",
@@ -9761,7 +7991,7 @@
       "category": "News"
     },
     {
-      "id": "504",
+      "id": "426",
       "name": "Canal 1 Mar Menor-Torre Pacheco",
       "description": "",
       "logo": "https://i.imgur.com/MQOwCdZ.png",
@@ -9778,7 +8008,7 @@
       "category": "General;News"
     },
     {
-      "id": "505",
+      "id": "427",
       "name": "Canal 24 Horas",
       "description": "",
       "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
@@ -9799,7 +8029,7 @@
       "category": "News;Public"
     },
     {
-      "id": "506",
+      "id": "428",
       "name": "Canal 24 Horas Canarias",
       "description": "",
       "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
@@ -9816,7 +8046,7 @@
       "category": "News;Public"
     },
     {
-      "id": "507",
+      "id": "429",
       "name": "Canal 24 Horas Catalunya",
       "description": "",
       "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
@@ -9833,7 +8063,7 @@
       "category": "News;Public"
     },
     {
-      "id": "508",
+      "id": "430",
       "name": "Canal Sur Noticias",
       "description": "",
       "logo": "https://i.imgur.com/A3JscwS.png",
@@ -9850,7 +8080,7 @@
       "category": "News;Public"
     },
     {
-      "id": "509",
+      "id": "431",
       "name": "Esport3",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
@@ -9871,7 +8101,7 @@
       "category": "Public;Sports"
     },
     {
-      "id": "510",
+      "id": "432",
       "name": "FIFA+ Spain",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
@@ -9888,7 +8118,7 @@
       "category": "Sports"
     },
     {
-      "id": "511",
+      "id": "433",
       "name": "Gol Classics",
       "description": "",
       "logo": "https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",
@@ -9905,7 +8135,7 @@
       "category": "Sports"
     },
     {
-      "id": "512",
+      "id": "434",
       "name": "M95 Televisión Marbella",
       "description": "",
       "logo": "https://i.imgur.com/RzAkP1V.png",
@@ -9922,7 +8152,7 @@
       "category": "News"
     },
     {
-      "id": "513",
+      "id": "435",
       "name": "Mírame TV",
       "description": "",
       "logo": "https://i.imgur.com/LK4pLgT.png",
@@ -9939,7 +8169,7 @@
       "category": "News"
     },
     {
-      "id": "514",
+      "id": "436",
       "name": "Olympic Channel",
       "description": "",
       "logo": "https://i.imgur.com/wPQVVtj.png",
@@ -9956,7 +8186,7 @@
       "category": "Sports"
     },
     {
-      "id": "515",
+      "id": "437",
       "name": "Onda 15 TV",
       "description": "",
       "logo": "https://i.imgur.com/mUrZz9O.png",
@@ -9973,7 +8203,7 @@
       "category": "Music;News"
     },
     {
-      "id": "516",
+      "id": "438",
       "name": "Onda Valencia",
       "description": "",
       "logo": "https://i.imgur.com/6HxLUQd.png",
@@ -9990,7 +8220,7 @@
       "category": "Music;News"
     },
     {
-      "id": "517",
+      "id": "439",
       "name": "Realmadrid TV",
       "description": "",
       "logo": "https://i.imgur.com/5pMo7dL.png",
@@ -10007,7 +8237,7 @@
       "category": "Sports"
     },
     {
-      "id": "518",
+      "id": "440",
       "name": "Red Bull TV ES",
       "description": "",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
@@ -10024,7 +8254,7 @@
       "category": "Outdoor;Sports"
     },
     {
-      "id": "519",
+      "id": "441",
       "name": "RNE para todos",
       "description": "",
       "logo": "https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png",
@@ -10049,7 +8279,7 @@
       "category": "General"
     },
     {
-      "id": "520",
+      "id": "442",
       "name": "RT en Español",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
@@ -10066,7 +8296,7 @@
       "category": "News"
     },
     {
-      "id": "521",
+      "id": "443",
       "name": "Teledeporte",
       "description": "",
       "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
@@ -10083,7 +8313,7 @@
       "category": "Sports"
     },
     {
-      "id": "522",
+      "id": "444",
       "name": "Art Sport 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
@@ -10100,7 +8330,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "523",
+      "id": "445",
       "name": "Art Sport 2",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
@@ -10117,7 +8347,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "524",
+      "id": "446",
       "name": "Art Sport 3",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
@@ -10134,7 +8364,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "525",
+      "id": "447",
       "name": "Art Sport 4",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
@@ -10151,7 +8381,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "526",
+      "id": "448",
       "name": "Art Sport 5",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
@@ -10168,7 +8398,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "527",
+      "id": "449",
       "name": "Art Sport 6",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYG3g_FUBydAarvCXVjFiIghqRCZpK4iAvXA&s",
@@ -10185,7 +8415,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "528",
+      "id": "450",
       "name": "Sportdigital",
       "description": "",
       "logo": "https://i.imgur.com/NDbWxqF.png",
@@ -10202,7 +8432,28 @@
       "category": "reezntv.com"
     },
     {
-      "id": "529",
+      "id": "451",
+      "name": "FOX Sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png",
+      "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://84.17.50.102/fox/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+      "category": "Undefined"
+    },
+    {
+      "id": "452",
       "name": "CBS SPORTS HQ",
       "description": "",
       "logo": "https://i1.sndcdn.com/artworks-000367577007-ikrm5a-t500x500.jpg",
@@ -10219,7 +8470,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "530",
+      "id": "453",
       "name": "Adventure Sports TV",
       "description": "",
       "logo": "https://i.imgur.com/9oyc88J.png",
@@ -10236,7 +8487,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "531",
+      "id": "454",
       "name": "Altitude Sports",
       "description": "",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png",
@@ -10253,7 +8504,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "532",
+      "id": "455",
       "name": "Revry News",
       "description": "",
       "logo": "https://i.imgur.com/lKMYCkb.png",
@@ -10274,7 +8525,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "533",
+      "id": "456",
       "name": "USA TODAY",
       "description": "",
       "logo": "https://i.ibb.co/nDJHCWt/Usatod.png",
@@ -10299,7 +8550,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "534",
+      "id": "457",
       "name": "Vice News",
       "description": "",
       "logo": "https://i.imgur.com/QWPJQnr.png",
@@ -10316,7 +8567,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "535",
+      "id": "458",
       "name": "Eleven Sports 2 PL",
       "description": "",
       "logo": "https://i.imgur.com/bTIRgqG.png",
@@ -10333,7 +8584,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "536",
+      "id": "459",
       "name": "Eleven Sports 3 PL",
       "description": "",
       "logo": "https://i.imgur.com/bWjGol4.png",
@@ -10350,7 +8601,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "537",
+      "id": "460",
       "name": "Eleven Sports 4 PL",
       "description": "",
       "logo": "https://i.imgur.com/SEKXaAW.png",
@@ -10367,7 +8618,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "538",
+      "id": "461",
       "name": "talkSPORT",
       "description": "",
       "logo": "https://i.postimg.cc/G2n8bztd/talksport.png",
@@ -10384,7 +8635,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "539",
+      "id": "462",
       "name": "Alanya Posta TV",
       "description": "",
       "logo": "https://i.imgur.com/a3w9eFe.png",
@@ -10405,7 +8656,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "540",
+      "id": "463",
       "name": "Deniz Postası TV",
       "description": "",
       "logo": "https://i.imgur.com/Mm8hdfx.png",
@@ -10422,7 +8673,24 @@
       "category": "reezntv.com"
     },
     {
-      "id": "541",
+      "id": "464",
+      "name": "TSN SPORTS FHD",
+      "description": "",
+      "logo": "https://i.imgur.com/eRFE0jZ.png",
+      "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Stream 1",
+          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "465",
       "name": "Stingray Today's Latin Pop",
       "description": "",
       "logo": "https://i.imgur.com/Os3kRRP.png",
@@ -10439,7 +8707,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "542",
+      "id": "466",
       "name": "Today's Shopping Choice",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/512px-TSC_logo.svg.png",
@@ -10456,7 +8724,83 @@
       "category": "reezntv.com"
     },
     {
-      "id": "543",
+      "id": "467",
+      "name": "UNITE8 SPORTS 1",
+      "description": "",
+      "logo": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/bmi/media/media_files/2026/06/02/unite8-sports-logo-2026-06-02-11-18-06.jpg",
+      "url": "http://103.204.43.87:8080/live/1/1/266.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://103.204.43.87:8080/live/1/1/266.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "468",
+      "name": "UNITE8 SPORTS 2",
+      "description": "",
+      "logo": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/bmi/media/media_files/2026/06/02/unite8-sports-logo-2026-06-02-11-18-06.jpg",
+      "url": "http://103.204.43.87:8080/live/1/1/264.m3u8",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://103.204.43.87:8080/live/1/1/264.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://66.102.126.10:8000/play/a022/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "469",
+      "name": "Zee Hindustan",
+      "description": "",
+      "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be",
+      "category": "News"
+    },
+    {
+      "id": "470",
+      "name": "Zee Business",
+      "description": "",
+      "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png",
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae",
+      "category": "News"
+    },
+    {
+      "id": "471",
       "name": "Sony Sports Ten 2",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
@@ -10473,7 +8817,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "544",
+      "id": "472",
       "name": "Sony Sports Ten 5",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
@@ -10490,7 +8834,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "545",
+      "id": "473",
       "name": "Star Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/E5jjKHI.png",
@@ -10507,7 +8851,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "546",
+      "id": "474",
       "name": "Star Sports 2",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
@@ -10524,7 +8868,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "547",
+      "id": "475",
       "name": "Star Sports 2 Hindi",
       "description": "",
       "logo": "https://i.imgur.com/kHerF19.png",
@@ -10541,7 +8885,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "548",
+      "id": "476",
       "name": "Star Sports 3",
       "description": "",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
@@ -10558,7 +8902,82 @@
       "category": "reezntv.com"
     },
     {
-      "id": "549",
+      "id": "477",
+      "name": "D SPORTS",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/960px-DSports_logo_2022.svg.png?_=20240702054322",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 7",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd"
+        },
+        {
+          "label": "Server 6",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd"
+        },
+        {
+          "label": "Server 1",
+          "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
+        },
+        {
+          "label": "Server 5",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+        },
+        {
+          "label": "Server 2",
+          "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
+        },
+        {
+          "label": "Server 3",
+          "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
+        },
+        {
+          "label": "Server 4",
+          "url": "http://8.243.126.131:8000/play/a05a/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "478",
+      "name": "D SPORTS+",
+      "description": "",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest?cb=20191025185801",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "479",
+      "name": "D SPORTS 2",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "480",
       "name": "24/7 Canal de Noticias",
       "description": "",
       "logo": "https://i.imgur.com/4hDCB1M.png",
@@ -10575,7 +8994,7 @@
       "category": "News"
     },
     {
-      "id": "550",
+      "id": "481",
       "name": "A24",
       "description": "",
       "logo": "https://i.imgur.com/LnXQkIU.png",
@@ -10592,7 +9011,7 @@
       "category": "News"
     },
     {
-      "id": "551",
+      "id": "482",
       "name": "ATV Argentina",
       "description": "",
       "logo": "https://i.ibb.co/rMBVDmZ/atvargentina-x1.png",
@@ -10609,7 +9028,7 @@
       "category": "News"
     },
     {
-      "id": "552",
+      "id": "483",
       "name": "Canal 26",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
@@ -10626,7 +9045,7 @@
       "category": "News"
     },
     {
-      "id": "553",
+      "id": "484",
       "name": "Canal E",
       "description": "",
       "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
@@ -10643,7 +9062,7 @@
       "category": "Business;News"
     },
     {
-      "id": "554",
+      "id": "485",
       "name": "Catamarca TV",
       "description": "",
       "logo": "https://i.imgur.com/CEuPoqG.png",
@@ -10660,7 +9079,7 @@
       "category": "Culture;News"
     },
     {
-      "id": "555",
+      "id": "486",
       "name": "DirecTV Sports",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
@@ -10677,7 +9096,7 @@
       "category": "Sports"
     },
     {
-      "id": "556",
+      "id": "487",
       "name": "FIFA+ Hispanic America",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
@@ -10694,7 +9113,7 @@
       "category": "Sports"
     },
     {
-      "id": "557",
+      "id": "488",
       "name": "Multivision Federal",
       "description": "",
       "logo": "https://i.imgur.com/jX0lqy3.png",
@@ -10711,7 +9130,7 @@
       "category": "News"
     },
     {
-      "id": "558",
+      "id": "489",
       "name": "TN",
       "description": "",
       "logo": "https://i.imgur.com/vFwPhPS.png",
@@ -10728,7 +9147,7 @@
       "category": "News"
     },
     {
-      "id": "559",
+      "id": "490",
       "name": "TyC Sports",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
@@ -10745,7 +9164,7 @@
       "category": "Sports"
     },
     {
-      "id": "560",
+      "id": "491",
       "name": "Premiere Sports 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
@@ -10762,7 +9181,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "561",
+      "id": "492",
       "name": "Premiere Sports 2",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
@@ -10779,7 +9198,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "562",
+      "id": "493",
       "name": "Premiere Sports 3",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
@@ -10796,7 +9215,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "563",
+      "id": "494",
       "name": "Premiere Sports 4",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
@@ -10813,7 +9232,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "564",
+      "id": "495",
       "name": "Premiere Sports 5",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbuVWHJYrrTydYdDTutj7IFrnAjsuVgquFg&s",
@@ -10830,7 +9249,36 @@
       "category": "Uncategorized"
     },
     {
-      "id": "565",
+      "id": "496",
+      "name": "Fox Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/LHtxKI8.png",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 4",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
+        },
+        {
+          "label": "SD",
+          "url": "https://tvpass.org/live/FoxSports2/sd"
+        },
+        {
+          "label": "720p HD",
+          "url": "https://tvpass.org/live/FoxSports2/hd"
+        },
+        {
+          "label": "Stream 3",
+          "url": "http://23.237.104.106:8080/USA_FS2/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "497",
       "name": "Eleven Sports 1 PL",
       "description": "",
       "logo": "https://i.imgur.com/bTIRgqG.png",
@@ -10847,7 +9295,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "566",
+      "id": "498",
       "name": "EURONEWS PL",
       "description": "",
       "logo": "https://i.ibb.co/VxLFYSj/euronews.png",
@@ -10864,7 +9312,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "567",
+      "id": "499",
       "name": "TVP Sport",
       "description": "",
       "logo": "https://i.imgur.com/JUZDOCO.png",
@@ -10885,7 +9333,41 @@
       "category": "reezntv.com"
     },
     {
-      "id": "568",
+      "id": "500",
+      "name": "ERT Sports 1",
+      "description": "",
+      "logo": "https://i.imgur.com/EsczO2H.png",
+      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "501",
+      "name": "ERT Sports 2",
+      "description": "",
+      "logo": "https://i.imgur.com/b2SNQPi.png",
+      "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Sports"
+    },
+    {
+      "id": "502",
       "name": "ERT News HD",
       "description": "",
       "logo": "https://i.imgur.com/HXbsPfB.png",
@@ -10902,7 +9384,7 @@
       "category": "News"
     },
     {
-      "id": "569",
+      "id": "503",
       "name": "Prima Sport 1",
       "description": "",
       "logo": "https://logo.m3uassets.com/primasport1.png",
@@ -10919,7 +9401,7 @@
       "category": "Romania Sports"
     },
     {
-      "id": "570",
+      "id": "504",
       "name": "Prima Sport 2",
       "description": "",
       "logo": "https://logo.m3uassets.com/primasport2.png",
@@ -10936,7 +9418,7 @@
       "category": "Romania Sports"
     },
     {
-      "id": "571",
+      "id": "505",
       "name": "Prima Sport 3",
       "description": "",
       "logo": "https://logo.m3uassets.com/primasport3.png",
@@ -10953,7 +9435,96 @@
       "category": "Romania Sports"
     },
     {
-      "id": "572",
+      "id": "506",
+      "name": "CT Sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Multi",
+          "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "507",
+      "name": "Nova Sports 2 SK",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "reezntv.com"
+    },
+    {
+      "id": "508",
+      "name": "Setanta Sports HD",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/1280px-Setanta_Sports.svg.png",
+      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "509",
+      "name": "QAZSPORT",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/1280px-Qazsport_logo.svg.png",
+      "url": "http://stream.mcquack.net/72/index.m3u8",
+      "qualities": [
+        {
+          "label": "Server 2",
+          "url": "http://stream.mcquack.net/72/index.m3u8"
+        },
+        {
+          "label": "Server 1",
+          "url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "510",
+      "name": "joj sports",
+      "description": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Joj-sport-logo.png",
+      "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "511",
       "name": "Dubai Sports 1",
       "description": "",
       "logo": "https://i.imgur.com/Poxw8lG.png",
@@ -10970,7 +9541,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "573",
+      "id": "512",
       "name": "Dubai Sports 2",
       "description": "",
       "logo": "https://i.imgur.com/Poxw8lG.png",
@@ -10987,7 +9558,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "574",
+      "id": "513",
       "name": "Eurosport 1",
       "description": "",
       "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-symbol.png",
@@ -11004,7 +9575,7 @@
       "category": "Sports"
     },
     {
-      "id": "575",
+      "id": "514",
       "name": "BFM2",
       "description": "",
       "logo": "https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg",
@@ -11021,7 +9592,7 @@
       "category": "News"
     },
     {
-      "id": "576",
+      "id": "515",
       "name": "BFM Business",
       "description": "",
       "logo": "https://i.imgur.com/psqIHn4.png",
@@ -11038,7 +9609,7 @@
       "category": "Business;News"
     },
     {
-      "id": "577",
+      "id": "516",
       "name": "BFM DICI Alpes du Sud",
       "description": "",
       "logo": "https://i.imgur.com/bV77l68.png",
@@ -11055,7 +9626,7 @@
       "category": "News"
     },
     {
-      "id": "578",
+      "id": "517",
       "name": "BFM DICI Haute-Provence",
       "description": "",
       "logo": "https://i.imgur.com/bV77l68.png",
@@ -11072,7 +9643,7 @@
       "category": "News"
     },
     {
-      "id": "579",
+      "id": "518",
       "name": "BFM Grand Lille",
       "description": "",
       "logo": "https://i.imgur.com/HE5xP0r.png",
@@ -11089,7 +9660,7 @@
       "category": "News"
     },
     {
-      "id": "580",
+      "id": "519",
       "name": "BFM Grand Littoral",
       "description": "",
       "logo": "https://i.imgur.com/j7F9MwH.png",
@@ -11106,7 +9677,7 @@
       "category": "News"
     },
     {
-      "id": "581",
+      "id": "520",
       "name": "BFM Lyon",
       "description": "",
       "logo": "https://i.imgur.com/0uiiZRo.png",
@@ -11123,7 +9694,7 @@
       "category": "News"
     },
     {
-      "id": "582",
+      "id": "521",
       "name": "BFM Marseille",
       "description": "",
       "logo": "https://i.imgur.com/h7t0l6q.png",
@@ -11140,7 +9711,7 @@
       "category": "News"
     },
     {
-      "id": "583",
+      "id": "522",
       "name": "BFM Nice Côte d'Azur",
       "description": "",
       "logo": "https://i.imgur.com/iiVFvIw.png",
@@ -11157,7 +9728,7 @@
       "category": "News"
     },
     {
-      "id": "584",
+      "id": "523",
       "name": "BFM Normandie",
       "description": "",
       "logo": "https://i.imgur.com/WWWQ44G.png",
@@ -11174,7 +9745,7 @@
       "category": "News"
     },
     {
-      "id": "585",
+      "id": "524",
       "name": "BFM Tech & Co",
       "description": "",
       "logo": "https://i.imgur.com/FQ0FpXV.png",
@@ -11191,7 +9762,7 @@
       "category": "News;Science"
     },
     {
-      "id": "586",
+      "id": "525",
       "name": "BFM Toulon Var",
       "description": "",
       "logo": "https://i.imgur.com/vp1oVj3.png",
@@ -11208,7 +9779,7 @@
       "category": "News"
     },
     {
-      "id": "587",
+      "id": "526",
       "name": "BFM TV",
       "description": "",
       "logo": "https://i.imgur.com/YJCcczD.png",
@@ -11225,7 +9796,7 @@
       "category": "News"
     },
     {
-      "id": "588",
+      "id": "527",
       "name": "CNews",
       "description": "",
       "logo": "https://i.imgur.com/sSNhk2g.png",
@@ -11242,7 +9813,7 @@
       "category": "News"
     },
     {
-      "id": "589",
+      "id": "528",
       "name": "Equidia",
       "description": "",
       "logo": "https://i.imgur.com/QPpbRcZ.png",
@@ -11259,7 +9830,7 @@
       "category": "Sports"
     },
     {
-      "id": "590",
+      "id": "529",
       "name": "Euronews French",
       "description": "",
       "logo": "https://i.imgur.com/8t9mdg9.png",
@@ -11276,7 +9847,7 @@
       "category": "News"
     },
     {
-      "id": "591",
+      "id": "530",
       "name": "FIFA+ French",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
@@ -11293,7 +9864,7 @@
       "category": "Sports"
     },
     {
-      "id": "592",
+      "id": "531",
       "name": "France 24 French",
       "description": "",
       "logo": "https://i.imgur.com/u8N6uoj.png",
@@ -11310,7 +9881,7 @@
       "category": "News"
     },
     {
-      "id": "593",
+      "id": "532",
       "name": "Franceinfo",
       "description": "",
       "logo": "https://i.imgur.com/eITXz6A.png",
@@ -11327,7 +9898,7 @@
       "category": "News"
     },
     {
-      "id": "594",
+      "id": "533",
       "name": "KOZOOM TV",
       "description": "",
       "logo": "https://i.imgur.com/M1Ee79b.png",
@@ -11344,7 +9915,7 @@
       "category": "Sports"
     },
     {
-      "id": "595",
+      "id": "534",
       "name": "L'Equipe",
       "description": "",
       "logo": "https://i.imgur.com/t35zhM9.png",
@@ -11361,7 +9932,7 @@
       "category": "Sports"
     },
     {
-      "id": "596",
+      "id": "535",
       "name": "LCI HD",
       "description": "",
       "logo": "https://i.imgur.com/DED8EXs.png",
@@ -11378,7 +9949,7 @@
       "category": "News"
     },
     {
-      "id": "597",
+      "id": "536",
       "name": "RT France",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
@@ -11395,7 +9966,7 @@
       "category": "News"
     },
     {
-      "id": "598",
+      "id": "537",
       "name": "Trace Sport Stars",
       "description": "",
       "logo": "https://i.imgur.com/FabFP5A.png",
@@ -11412,7 +9983,7 @@
       "category": "Sports"
     },
     {
-      "id": "599",
+      "id": "538",
       "name": "TV5Monde Info",
       "description": "",
       "logo": "https://i.imgur.com/AJx5Fy2.png",
@@ -11429,7 +10000,7 @@
       "category": "News"
     },
     {
-      "id": "600",
+      "id": "539",
       "name": "sky sports bundesliga test",
       "description": "",
       "logo": "",
@@ -11446,7 +10017,7 @@
       "category": "Uncategorized"
     },
     {
-      "id": "601",
+      "id": "540",
       "name": "Nova Sports 1 SK",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png",
@@ -11463,7 +10034,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "602",
+      "id": "541",
       "name": "LIBYA SPORT 1 HD",
       "description": "",
       "logo": "https://i.imgur.com/8pPhlQr.png",
@@ -11480,7 +10051,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "603",
+      "id": "542",
       "name": "Persiana Sports",
       "description": "",
       "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
@@ -11497,7 +10068,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "604",
+      "id": "543",
       "name": "Sharjah Sport 2",
       "description": "",
       "logo": "https://i.imgur.com/CsEElsJ.png",
