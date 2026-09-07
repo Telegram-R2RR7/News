@@ -1,5 +1,5 @@
 {
-  "version": "81",
+  "version": "82",
   "channels": [
     {
       "id": "1",
@@ -665,7 +665,7 @@
           "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -682,7 +682,7 @@
           "url": "http://99.27.51.147:8080/BeinSport2/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -699,7 +699,7 @@
           "url": "http://99.27.51.147:8080/BeinSport3/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -853,7 +853,7 @@
           "url": "https://183.bozztv.com/giatv/giatv-fake/beinsports1my/chunks.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -870,7 +870,7 @@
           "url": "https://183.bozztv.com/giatv/giatv-fake/beinsports2my/chunks.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -887,7 +887,7 @@
           "url": "https://183.bozztv.com/giatv/giatv-fake/beinsports3my/chunks.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -908,7 +908,7 @@
           "url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -929,7 +929,7 @@
           "url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -950,7 +950,7 @@
           "url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -967,7 +967,7 @@
           "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "beIN Sports"
@@ -2344,7 +2344,7 @@
           "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "CANAL+"
@@ -2395,7 +2395,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=CNPLSP3AF.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "CANAL+"
@@ -2412,7 +2412,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=CNPLSP4AF.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "CANAL+"
@@ -2429,7 +2429,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=CNPLSP5AF.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "CANAL+"
@@ -2450,7 +2450,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_arena_sport_1_premium_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2471,7 +2471,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_arena_sport_2_premium_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2488,7 +2488,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_arena_sport_3_premium_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2539,7 +2539,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=arena_sport_1_bh.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2611,7 +2611,7 @@
           "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR1.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2632,7 +2632,7 @@
           "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR2.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2653,7 +2653,7 @@
           "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR3.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2674,7 +2674,7 @@
           "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR4.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2733,7 +2733,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=arena_sport_1_SR.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2750,7 +2750,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=arena_sport_2_SR.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2767,7 +2767,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=arena_sport_3_SR.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2788,7 +2788,7 @@
           "url": "https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR4.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2805,7 +2805,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=arena_sport_5_SR.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2822,7 +2822,7 @@
           "url": "http://143.244.62.109/as6/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2839,7 +2839,7 @@
           "url": "http://143.244.62.109/as7/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2856,7 +2856,7 @@
           "url": "http://143.244.62.109/as8/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2873,7 +2873,7 @@
           "url": "http://143.244.62.109/as9/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2890,7 +2890,7 @@
           "url": "http://143.244.62.109/as10/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -4213,7 +4213,7 @@
           "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -4419,7 +4419,7 @@
           "url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -4453,7 +4453,7 @@
           "url": "http://41.205.93.154/MSNBC/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -4487,7 +4487,7 @@
           "url": "http://mytvstream.net:8080/live/bn80NG/909467/18926.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -4572,7 +4572,7 @@
           "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -5571,7 +5571,7 @@
           "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpin.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -6588,7 +6588,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=bg:_max_sport_1_fhd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Max Sports"
@@ -6613,7 +6613,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=bg:_max_sport_2_fhd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Max Sports"
@@ -6638,7 +6638,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=bg:_max_sport_3_fhd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Max Sports"
@@ -6663,7 +6663,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=bg:_max_sport_4_fhd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Max Sports"
@@ -6735,7 +6735,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportF1DE.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6752,7 +6752,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportMixDE.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6773,7 +6773,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportTopEvent.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6790,7 +6790,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportsTennisDE.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6811,7 +6811,7 @@
           "url": "https://tmaxapp.site/ligue6sc6/skybundesliga1.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6832,7 +6832,7 @@
           "url": "https://tmaxapp.site/ligue6sc6/skybundesliga2.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6853,7 +6853,7 @@
           "url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6874,7 +6874,7 @@
           "url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6895,7 +6895,7 @@
           "url": "https://tmaxapp.site/ligue6sc6/skybundesliga5.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6941,7 +6941,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6970,7 +6970,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportsF1.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -6995,7 +6995,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportsFootballUK.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7016,7 +7016,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=skysportsgolfuk.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7037,7 +7037,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=skysportsmixuk.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7062,7 +7062,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=skysportsnews.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7083,7 +7083,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7100,7 +7100,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=skysportstennisuk.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7117,7 +7117,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=skysportsplus.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7151,7 +7151,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySport24IT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7168,7 +7168,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportArenaIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7189,7 +7189,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportCalcioIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7206,7 +7206,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportF1IT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7227,7 +7227,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportMaxIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7244,7 +7244,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportMotoGPIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7265,7 +7265,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportTennisIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7282,7 +7282,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportUnoIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7311,7 +7311,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=skysportscricketuk.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7328,7 +7328,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=SkySportGolfIT.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7357,7 +7357,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7382,7 +7382,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7399,7 +7399,7 @@
           "url": "https://183.bozztv.com/giatv/giatv-fake/skyselectnz/chunks.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7428,7 +7428,7 @@
           "url": "http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7457,7 +7457,7 @@
           "url": "http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7486,7 +7486,7 @@
           "url": "http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7515,7 +7515,7 @@
           "url": "http://45.12.32.190:8080/UK-SkySport4NZ/video.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7536,7 +7536,7 @@
           "url": "http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7561,7 +7561,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7582,7 +7582,7 @@
           "url": "http://45.12.32.190:8080/UK-SkySport7NZ/video.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7607,7 +7607,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7632,7 +7632,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sky"
@@ -7653,7 +7653,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_1_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7674,7 +7674,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_2_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7695,7 +7695,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_3_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7716,7 +7716,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_4_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7737,7 +7737,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_5_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7754,7 +7754,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=NOVASPORTS6.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7775,7 +7775,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_start.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7796,7 +7796,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_prime.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7817,7 +7817,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=gr:_nova_sport_news_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Novasport"
@@ -7850,7 +7850,7 @@
           "url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SPORT TV"
@@ -7879,7 +7879,7 @@
           "url": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SPORT TV"
@@ -7908,7 +7908,7 @@
           "url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SPORT TV"
@@ -7937,7 +7937,7 @@
           "url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SPORT TV"
@@ -7966,7 +7966,7 @@
           "url": "https://tmaxapp.site/pt658svs/sporttv5.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SPORT TV"
@@ -7995,7 +7995,7 @@
           "url": "https://tmaxapp.site/pt658svs/sporttv6.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SPORT TV"
@@ -8131,7 +8131,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=ElevenSports1PL.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Eleven"
@@ -8148,7 +8148,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=ElevenSports2PL.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Eleven"
@@ -8165,7 +8165,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=ElevenSports3PL.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Eleven"
@@ -8182,7 +8182,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=ElevenSports4PL.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Eleven"
@@ -8211,7 +8211,7 @@
           "url": "https://xemzi.short.gy/2000021"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "TNT"
@@ -8244,7 +8244,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "TNT"
@@ -8273,7 +8273,7 @@
           "url": "https://xemzi.short.gy/2000023"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "TNT"
@@ -8302,7 +8302,7 @@
           "url": "https://xemzi.short.gy/2000024"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "TNT"
@@ -8344,7 +8344,7 @@
           "url": "https://redperch.space/embedsportscardinal.php?id=tnt-sports-hd-chile/642"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "TNT"
@@ -8403,7 +8403,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_sport_klub_1_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SportKlub"
@@ -8420,7 +8420,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_sport_klub_2_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SportKlub"
@@ -8437,7 +8437,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_sport_klub_3_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "SportKlub"
@@ -8479,7 +8479,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8500,7 +8500,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT2.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8521,7 +8521,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT3.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8546,7 +8546,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8567,7 +8567,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT5.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8588,7 +8588,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT6.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8609,7 +8609,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT7.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8630,7 +8630,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT8.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8651,7 +8651,7 @@
           "url": "https://redperch.space/lovecardinal.php?id=COSMOTESPORT9.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Cosmote"
@@ -8668,7 +8668,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=nl:_ziggo_sport_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ZIGGO SPORT"
@@ -8689,7 +8689,7 @@
           "url": "http://193.47.62.44/hls/DAAAA.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ZIGGO SPORT"
@@ -8706,7 +8706,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=nl:_ziggo_sport_golf_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ZIGGO SPORT"
@@ -8723,7 +8723,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=nl:_ziggo_sport_racing_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ZIGGO SPORT"
@@ -8740,7 +8740,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=nl:_ziggo_sport_docu_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ZIGGO SPORT"
@@ -8757,7 +8757,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=nl:_ziggo_sport_tennis_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ZIGGO SPORT"
@@ -8774,7 +8774,7 @@
           "url": "http://41.205.93.154/ESPNNEWS/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ESPN"
@@ -8961,7 +8961,7 @@
           "url": "http://193.47.62.52/hls/DFFFFRRAAA.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Supersport"
@@ -10451,7 +10451,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=fr:_rmc_sport_1_4k.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -10468,7 +10468,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=fr:_rmc_sport_2_fhd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -10527,7 +10527,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "reezntv.com"
@@ -10731,7 +10731,7 @@
           "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sports"
@@ -11371,7 +11371,7 @@
           "url": "http://mytvstream.net:8080/live/bn80NG/909467/79545.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -11388,7 +11388,7 @@
           "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -11413,7 +11413,7 @@
           "url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -11438,7 +11438,7 @@
           "url": "https://cdn.telecloud.tv/CH3223/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -11459,7 +11459,7 @@
           "url": "https://cdn.telecloud.tv/CH3225/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -11476,7 +11476,7 @@
           "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Uncategorized"
@@ -12435,7 +12435,7 @@
           "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "reezntv.com"
@@ -12486,7 +12486,7 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ARGENTINA"
@@ -12503,7 +12503,7 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ARGENTINA"
@@ -12520,7 +12520,7 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ARGENTINA"
@@ -12807,7 +12807,7 @@
           "url": "http://177.52.24.163/SPORTV-1-HD/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "BRAZIL"
@@ -12824,7 +12824,7 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "BRAZIL"
@@ -12841,7 +12841,7 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "BRAZIL"
@@ -12943,7 +12943,7 @@
           "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "reezntv.com"
@@ -12994,7 +12994,7 @@
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "MEXICO"
@@ -13036,7 +13036,7 @@
           "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "reezntv.com"
@@ -13104,7 +13104,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/76/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "BULGARIA"
@@ -13176,7 +13176,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ROMANIA"
@@ -13197,7 +13197,7 @@
           "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ROMANIA"
@@ -13214,7 +13214,7 @@
           "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ROMANIA"
@@ -13231,7 +13231,7 @@
           "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "ROMANIA"
@@ -13248,7 +13248,7 @@
           "url": "https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Romania Sports"
@@ -13265,7 +13265,7 @@
           "url": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Romania Sports"
@@ -13282,7 +13282,7 @@
           "url": "https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Romania Sports"
@@ -13299,7 +13299,7 @@
           "url": "https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Romania Sports"
@@ -13358,7 +13358,7 @@
           "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "reezntv.com"
@@ -13379,7 +13379,7 @@
           "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "reezntv.com"
@@ -13981,7 +13981,7 @@
           "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "",
       "clear_key": "",
       "category": "Sports"
@@ -15893,7 +15893,7 @@
           "url": "https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "POLAND"
@@ -16173,7 +16173,7 @@
           "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "News"
@@ -16274,7 +16274,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=fr:_la_chaine_L_equipe_hd.ts"
         }
       ],
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "user_agent": "Rplayerv2.0.16",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Sports"
