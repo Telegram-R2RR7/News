@@ -1,8 +1,13 @@
 {
   "enabled": true,
-  "text": "هل تريد مشاهدة كاس العالم ؟",
-  "image": "https://b.top4top.io/p_3814r571s0.png",
-  "image_position": "start",
-  "target_category": "FIFA 2026",
-  "screen_title": "بث كاس العالم"
+  "text": test only",
+  "is_new_link": true,
+  "import_url": "https://dl.dropboxusercontent.com/scl/fi/j19jvmtlbod5sqrteyn69/azd-tv?rlkey=s7a0ojy1jlwdqbchxcv5h3eud",
+  "field_map": {
+    "logo": "tvg-logo=",
+    "category": "group-title=",
+    "referer": "referer=",
+    "user_agent": "user-agent=",
+    "clear_key": "clearkey="
+  }
 }
