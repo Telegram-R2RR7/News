@@ -1,5 +1,5 @@
 {
-  "version": "82",
+  "version": "84",
   "channels": [
     {
       "id": "1",
@@ -2450,7 +2450,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_arena_sport_1_premium_4k.ts"
         }
       ],
-      "user_agent": "Rplayerv2.0.16",
+      "user_agent": "mm",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
@@ -2488,7 +2488,7 @@
           "url": "https://redperch.space/neocardinalv2.php?id=sr:_arena_sport_3_premium_4k.ts"
         }
       ],
-      "user_agent": "Rplayerv2.0.16",
+      "user_agent": "mm",
       "referer": "https://hamis.romponalis.st/",
       "clear_key": "",
       "category": "Arena Sports"
