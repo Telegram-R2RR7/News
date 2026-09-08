@@ -3,6 +3,7 @@
   "Accept": "*/*",
   "User-Agent": "Rplayerv2.0.16",
   "Icy-MetaData": "1",
+  "hosts": ["redperch.space"],
   "X-Media-Access-Token": "StreamAuthorized_Native_App",
   "Accept-Encoding": "identity"
 }
