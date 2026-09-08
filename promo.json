@@ -8,6 +8,18 @@
     "category": "group-title=",
     "referer": "referer=",
     "user_agent": "user-agent=",
+    "name_filter": [
+  "iraq",
+  "bein",
+  "fifa",
+  "news",
+  "post",
+  "alwan",
+  "tod",
+  "mbc",
+  "osn",
+  "sport"
+    ],
     "clear_key": "clearkey="
   }
 }
