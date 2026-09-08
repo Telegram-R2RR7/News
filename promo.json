@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "text": "best Channels!",
+  "text": "Best channels ",
   "is_new_link": true,
   "import_url": "https://dl.dropboxusercontent.com/scl/fi/j19jvmtlbod5sqrteyn69/azd-tv?rlkey=s7a0ojy1jlwdqbchxcv5h3eud",
   "field_map": {
@@ -9,17 +9,5 @@
     "referer": "referer=",
     "user_agent": "user-agent=",
     "clear_key": "clearkey="
-  },
-  "name_filter": [
-    "iraq",
-    "bein",
-    "fifa",
-    "news",
-    "post",
-    "alwan",
-    "tod",
-    "mbc",
-    "osn",
-    "sport"
-  ]
+  }
 }
