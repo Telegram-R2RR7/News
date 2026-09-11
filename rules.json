@@ -11,7 +11,7 @@
   },
   "dlive_rule": {
     "prefix": "dcardinal@",
-    "stream_base": "https://dlive.sx/stream/stream-{code}.php",
+    "stream_base": "https://hamis.romponalis.st/premiumtv/daddy3.php?id={code}",
     "referer_base": "https://dlive.sx/watch.php?id={code}"
   }
 }
