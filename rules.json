@@ -1,0 +1,17 @@
+{
+  "vcardinal_rule": {
+    "prefix": "vcardinal@",
+    "resolver_url": "https://www.vavoo.to/mediahubmx-resolve.json",
+    "headers": {
+      "origin": "https://vavoo.to",
+      "referer": "https://vavoo.to/",
+      "Content-Type": "application/json"
+    },
+    "payload_template": "{\"language\":\"de\",\"region\":\"DE\",\"url\":\"https://vavoo.to/vavoo-iptv/play/{code}\"}"
+  },
+  "dlive_rule": {
+    "prefix": "dcardinal@",
+    "stream_base": "https://dlive.sx/stream/stream-{code}.php",
+    "referer_base": "https://dlive.sx/watch.php?id={code}"
+  }
+}
