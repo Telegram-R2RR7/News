@@ -1,5 +1,15 @@
 {
+  "app_update": {
+    "latest_version_code": 14,
+    "latest_version_name": "14.0",
+    "force_update": true,
+    "download_url": "https://github.com/Telegram-R2RR7/News/raw/refs/heads/main/app-debug.apk",
+    "release_notes": "تم إصلاح بعض المشاكل وتحسين الأداء احذف النسخة القديمة."
+  },
   "virtual_app": {
+    "id": "rplayer",
+    "name": "R Player",
+    "image_url": "",
     "package_name": "com.rmedia.rplayer",
     "activity": "com.rmedia.rplayer.features.player.ReeznPlayer",
     "latest_version_code": 1,
