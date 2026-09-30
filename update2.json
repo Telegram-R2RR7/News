@@ -1,9 +1,15 @@
 {
-  "virtual_app": {
-    "package_name": "com.rmedia.rplayer",
-    "activity": "",
-    "latest_version_code": 1,
-    "download_url": "https://github.com/bedevlab/rdownload/releases/download/update/Reezn.apk",
-    "sha256": ""
-  }
+  "apps": [
+    {
+      "id": "rplayer",
+      "name": "RPlayer",
+      "package_name": "com.rmedia.rplayer",
+      "activity": "",
+      "latest_version_code": 2,
+      "download_url": "https://github.com/bedevlab/rdownload/releases/download/update/Reezn.apk",
+      "sha256": "",
+      "icon_url": "",
+      "order": 1
+    }
+  ]
 }
