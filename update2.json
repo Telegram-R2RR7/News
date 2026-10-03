@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "id": "rplayer",
+      "id": "Rizen TV ",
       "name": "RPlayer",
       "package_name": "com.rmedia.rplayer",
       "activity": "",
       "latest_version_code": 2,
       "download_url": "https://github.com/bedevlab/rdownload/releases/download/update/Reezn.apk",
       "sha256": "",
-      "icon_url": "",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReasvkkzT1AleL5Bkm6Nu7KmnTnW5ozzyRbD0JkGvgDkd2ApscETaTG-8&s=10",
       "order": 1
     }
   ]
