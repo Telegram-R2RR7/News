@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "id": "Rizen TV ",
+      "id": "rizen_tv",
       "name": "RPlayer",
       "package_name": "com.rmedia.rplayer",
-      "activity": "",
+      "activity": "com.rmedia.rplayer.activities.MainActivity",
       "latest_version_code": 3,
       "download_url": "https://github.com/Telegram-R2RR7/New/releases/download/1.0.0/rezzn.apk",
       "sha256": "",
