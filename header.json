@@ -1,7 +1,7 @@
 {
   "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606",
   "Accept": "*/*",
-  "User-Agent": "Rplayerv2.0.16",
+  "User-Agent": "okhttp/4.12.0",
   "Icy-MetaData": "1",
   "hosts": ["redperch.space"],
   "X-Media-Access-Token": "StreamAuthorized_Native_App",
