@@ -1,48 +1,40 @@
 {
-  "version": "100",
+  "version": "8.0",
   "channels": [
     {
       "id": "1",
       "name": "beIN Sports 1",
       "description": "بث مباشر للمباريات",
       "logo": "https://i.imgur.com/Vtk2cGI.png",
-      "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/1023969.ts",
+      "url": "https://redperch.space/dramacardinalv2.php?id=beinsport1_sd",
       "qualities": [
         {
-          "label": "Server 14",
-          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/1023969.ts"
-        },
-        {
-          "label": "Server 15",
-          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/977115.ts"
+          "label": "Reezn SD",
+          "url": "https://redperch.space/dramacardinalv2.php?id=beinsport1_sd"
         },
         {
           "label": "Reezn FHD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport1_4K"
         },
         {
-          "label": "Reezn SD",
-          "url": "https://redperch.space/dramacardinalv2.php?id=beinsport1_sd"
-        },
-        {
-          "label": "VA",
-          "url": "Rget@https://vavoo.to/live/resolve?region=US&language=en&url=https%3A%2F%2Fvavoo.to%2Flive%2Fplay%2F679604721|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F154.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fvavoo.to%2F"
-        },
-        {
-          "label": "Server 13",
-          "url": "http://ok.ru/videoembed/16341370871412"
-        },
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal1|h.WeAre=rtvcardinal"
-        },
-        {
-          "label": "VIP 2",
-          "url": "Rget@https://wideiptv.top/player/beINAR|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR"
-        },
-        {
           "label": "Reezn HD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport1_hd"
+        },
+        {
+          "label": "alwan 1",
+          "url": "https://hls-test.cardinal-kingd.store/sd/event01/index.html"
+        },
+        {
+          "label": "alwan hd",
+          "url": "http://smar55cob.site/live/co0508509282/536808532368/772278.ts"
+        },
+        {
+          "label": "TOD",
+          "url": "http://mair346.click:80/tGaSB89ynf/97310/89262"
+        },
+        {
+          "label": "IP SD 2",
+          "url": "https://re00.new-redirect.online/live/lb2/bs1-multi.m3u8"
         },
         {
           "label": "Reezn SD 2",
@@ -53,23 +45,31 @@
           "url": "Rget@https://man1ted.com/get.php?ch=beee1"
         },
         {
+          "label": "VA",
+          "url": "Rget@https://vavoo.to/live/resolve?region=US&language=en&url=https%3A%2F%2Fvavoo.to%2Flive%2Fplay%2F679604721|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F154.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fvavoo.to%2F"
+        },
+        {
+          "label": "Server 14",
+          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/1023969.ts"
+        },
+        {
+          "label": "Server 15",
+          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/977115.ts"
+        },
+        {
+          "label": "VIP 2",
+          "url": "Rget@https://wideiptv.top/player/beINAR|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR"
+        },
+        {
           "label": "IP SD",
           "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652372?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         },
         {
-          "label": "IP SD 2",
-          "url": "https://re00.new-redirect.online/live/lb2/bs1-multi.m3u8"
-        },
-        {
           "label": "SD",
           "url": "https://cp11.adabmedia.com/hls2/bein1.m3u8"
-        },
-        {
-          "label": "balance",
-          "url": "https://balance.footballii.ir/hls2/bein1.m3u8"
         }
       ],
-      "user_agent": "",
+      "user_agent": "okhttp/4.12.0",
       "referer": "",
       "clear_key": "",
       "category": "ايرثلنك"
@@ -88,10 +88,6 @@
         {
           "label": "Server 10",
           "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/551242.ts"
-        },
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal2|h.WeAre=rtvcardinal"
         },
         {
           "label": "Reezn HD",
@@ -144,10 +140,6 @@
           "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/986975.ts"
         },
         {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal3|h.WeAre=rtvcardinal"
-        },
-        {
           "label": "Reezn HD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport3_hd"
         },
@@ -195,10 +187,6 @@
         {
           "label": "Server 9",
           "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/986976.ts"
-        },
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal4|h.WeAre=rtvcardinal"
         },
         {
           "label": "Reezn HD",
@@ -266,12 +254,8 @@
       "name": "beIN SPORTS 5",
       "description": "",
       "logo": "https://i.imgur.com/2Rha5aY.png",
-      "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal5|h.WeAre=rtvcardinal",
+      "url": "https://redperch.space/dramacardinalv2.php?id=beinsport5_4k",
       "qualities": [
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal5|h.WeAre=rtvcardinal"
-        },
         {
           "label": "Reezn FHD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport5_4k"
@@ -301,7 +285,7 @@
           "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652376?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         }
       ],
-      "user_agent": "",
+      "user_agent": "okhttp/4.12.0",
       "referer": "",
       "clear_key": "",
       "category": "beIN Sports"
@@ -311,12 +295,8 @@
       "name": "beIN SPORTS 6",
       "description": "",
       "logo": "https://i.imgur.com/0wBdLYb.png",
-      "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal6|h.WeAre=rtvcardinal",
+      "url": "https://redperch.space/dramacardinalv2.php?id=beinsport6_4k",
       "qualities": [
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal6|h.WeAre=rtvcardinal"
-        },
         {
           "label": "Reezn FHD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport6_4k"
@@ -346,7 +326,7 @@
           "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652377?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
         }
       ],
-      "user_agent": "",
+      "user_agent": "okhttp/4.12.0",
       "referer": "",
       "clear_key": "",
       "category": "beIN Sports"
@@ -356,12 +336,8 @@
       "name": "beIN SPORTS 7",
       "description": "",
       "logo": "https://i.imgur.com/iODFwZi.png",
-      "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal7|h.WeAre=rtvcardinal",
+      "url": "https://redperch.space/dramacardinalv2.php?id=beinsport7",
       "qualities": [
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal7|h.WeAre=rtvcardinal"
-        },
         {
           "label": "REEZN HD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport7"
@@ -371,7 +347,7 @@
           "url": "Rget@https://wideiptv.top/player/beINAR7|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR7"
         }
       ],
-      "user_agent": "",
+      "user_agent": "okhttp/4.12.0",
       "referer": "",
       "clear_key": "",
       "category": "beIN Sports"
@@ -381,12 +357,8 @@
       "name": "beIN SPORTS 8",
       "description": "",
       "logo": "https://i.imgur.com/CaFEyVn.png",
-      "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal8|h.WeAre=rtvcardinal",
+      "url": "https://redperch.space/dramacardinalv2.php?id=beinsport8",
       "qualities": [
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal8|h.WeAre=rtvcardinal"
-        },
         {
           "label": "REEZN HD",
           "url": "https://redperch.space/dramacardinalv2.php?id=beinsport8"
@@ -396,7 +368,7 @@
           "url": "Rget@https://wideiptv.top/player/beINAR8|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR8"
         }
       ],
-      "user_agent": "",
+      "user_agent": "okhttp/4.12.0",
       "referer": "",
       "clear_key": "",
       "category": "beIN Sports"
@@ -406,19 +378,15 @@
       "name": "beIN SPORTS 9",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
-      "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal9|h.WeAre=rtvcardinal",
+      "url": "Rget@https://wideiptv.top/player/beINAR9|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR9",
       "qualities": [
-        {
-          "label": "AP",
-          "url": "Rget@https://live.alwan.live/api_v3/service/getcardinal/becardinal9|h.WeAre=rtvcardinal"
-        },
         {
           "label": "VIP2",
           "url": "Rget@https://wideiptv.top/player/beINAR9|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR9"
         }
       ],
-      "user_agent": "",
-      "referer": "",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+      "referer": "https://wideiptv.top/",
       "clear_key": "",
       "category": "beIN Sports"
     },
@@ -469,15 +437,15 @@
       "name": "beIN 4K",
       "description": "",
       "logo": "https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png",
-      "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/331736.ts",
+      "url": "http://yasin88.xyz/live/00546D4405AF290/cfm9gsq09o/1441959.ts",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/331736.ts"
+          "url": "http://yasin88.xyz/live/00546D4405AF290/cfm9gsq09o/1441959.ts"
         },
         {
           "label": "Server 2",
-          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/1441958.ts"
+          "url": "http://wawawiwa.otts.pro/live/weq3GAydZMnV6LE/8ytpKD9ZYXfcUYY/1127989.ts"
         },
         {
           "label": "Server 3",
@@ -549,12 +517,8 @@
       "name": "TOD 2",
       "description": "",
       "logo": "https://support.tod.tv/hc/theming_assets/01HZPJMT0TREGKG9PR1Z23NV3T",
-      "url": "http://mair346.click:80/tGaSB89ynf/97310/68967",
+      "url": "http://mair346.click:80/tGaSB89ynf/97310/89267",
       "qualities": [
-        {
-          "label": "Server 3",
-          "url": "http://mair346.click:80/tGaSB89ynf/97310/68967"
-        },
         {
           "label": "Server 1",
           "url": "http://mair346.click:80/tGaSB89ynf/97310/89267"
@@ -1344,8 +1308,8 @@
           "url": "https://redperch.space/dramacardinalv2.php?id=alwan1"
         },
         {
-          "label": "Server 5",
-          "url": "https://ultra4k.gamerdz1517.com/live/ultra4k/gamerdz1517/1339213.ts"
+          "label": "FHD",
+          "url": "https://hls-test.cardinal-kingd.store/sd/event01/index.html"
         },
         {
           "label": "Server 6",
@@ -6933,8 +6897,12 @@
       "name": "Persiana Junior",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/junior.png",
-      "url": "https://junhls.persiana.live/hls/stream.m3u8",
+      "url": "https://hls-test.cardinal-kingd.store/sd/event01/index.html",
       "qualities": [
+        {
+          "label": "Server 2",
+          "url": "https://hls-test.cardinal-kingd.store/sd/event01/index.html"
+        },
         {
           "label": "Stream 1",
           "url": "https://junhls.persiana.live/hls/stream.m3u8"
@@ -9074,8 +9042,12 @@
       "name": "Al Mamlaka TV",
       "description": "",
       "logo": "https://i.imgur.com/UeTseMV.png",
-      "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MAM_HEVC/wv-pr/manifest.mpd",
+      "url": "https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/playlist-hls-dvr.m3u8",
       "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/playlist-hls-dvr.m3u8"
+        },
         {
           "label": "Server 2",
           "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MAM_HEVC/wv-pr/manifest.mpd"
@@ -9083,7 +9055,7 @@
       ],
       "user_agent": "",
       "referer": "",
-      "clear_key": "f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43",
+      "clear_key": "",
       "category": "News"
     },
     {
@@ -24426,11 +24398,11 @@
       "name": "Maspero Zaman",
       "description": "",
       "logo": "https://i.ibb.co/Tqr4q5wd/Maspero.png",
-      "url": "https://dailymotion.eishha.com/hls?url=https%3A%2F%2Flive.eu-north-1a.cf.dmcdn.net%2Fsec2(EJAiI45IGQOzliAlD9f_NTDNo3sCqPITWdaB2KJGW7XBxwwfLJF3gV-v5dtaoCvzZzQHai2c7ZfcDiMRHFUubBx-OmQ0G5QgCdMbn-V7MgBy24skCIiK305KG6TZe5K7IZwbuOUEBl8QuHC27UCv5jcGY6XMuw8mwn7XbnpM4z8I57zrdQXE6vy0EeaMcohU)%2Fdm%2F4%2Fx8n6e4h%2Flive-h264-480.m3u8%23cell%3Dlcf-eu-north-1a",
+      "url": "Rget@https://dailymotion.eishha.com/stream?id=x8n6e4h|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://dailymotion.eishha.com/hls?url=https%3A%2F%2Flive.eu-north-1a.cf.dmcdn.net%2Fsec2(EJAiI45IGQOzliAlD9f_NTDNo3sCqPITWdaB2KJGW7XBxwwfLJF3gV-v5dtaoCvzZzQHai2c7ZfcDiMRHFUubBx-OmQ0G5QgCdMbn-V7MgBy24skCIiK305KG6TZe5K7IZwbuOUEBl8QuHC27UCv5jcGY6XMuw8mwn7XbnpM4z8I57zrdQXE6vy0EeaMcohU)%2Fdm%2F4%2Fx8n6e4h%2Flive-h264-480.m3u8%23cell%3Dlcf-eu-north-1a"
+          "url": "Rget@https://dailymotion.eishha.com/stream?id=x8n6e4h|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36"
         },
         {
           "label": "Server 2",
@@ -73317,11 +73289,15 @@
       "name": "TESTY",
       "description": "",
       "logo": "",
-      "url": "https://ok.ru/videoembed/16951316324040",
+      "url": "sss",
       "qualities": [
         {
           "label": "Server 1",
-          "url": "https://ok.ru/videoembed/16951316324040"
+          "url": "sss"
+        },
+        {
+          "label": "Server 2",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vahyju4gzo/out/v1/64009b2146ff4ccdbc36d13c463ace73/d4c6b7ac-0fc5-4ba6-bd82-5472fa215d7b-cenc.mpd?aws_sessionId=d4cb712d-e328-4b2a-9a9e-1e33b3177744"
         }
       ],
       "user_agent": "",
@@ -79896,6 +79872,23 @@
     },
     {
       "id": "4306",
+      "name": "Reezn HLS TEST",
+      "description": "",
+      "logo": "",
+      "url": "https://hls-test.cardinal-kingd.store/sd/event01/index.html",
+      "qualities": [
+        {
+          "label": "Server 1",
+          "url": "https://hls-test.cardinal-kingd.store/sd/event01/index.html"
+        }
+      ],
+      "user_agent": "",
+      "referer": "",
+      "clear_key": "",
+      "category": "TEST"
+    },
+    {
+      "id": "4307",
       "name": "Al Taghier",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8ujBks76McFfeQ-3f66e-qw0l2Jrq0qR1rolSyIQ_vGKi8keyZW4pqQ&s=10",
@@ -79912,7 +79905,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4307",
+      "id": "4308",
       "name": "Dijlah Zaman TV",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7dgCJjZZECUKFRwglff80rYrctwNycj8N-7BJhIUeQ&s=10",
@@ -79929,7 +79922,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4308",
+      "id": "4309",
       "name": "Zitouna",
       "description": "",
       "logo": "https://i.imgur.com/cZX28lw.png",
@@ -79950,7 +79943,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4309",
+      "id": "4310",
       "name": "Novela TV",
       "description": "",
       "logo": "https://i.imgur.com/qgqS2vy.png",
@@ -79967,7 +79960,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4310",
+      "id": "4311",
       "name": "PNC Food",
       "description": "",
       "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/pnc_food.jpg",
@@ -79984,7 +79977,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4311",
+      "id": "4312",
       "name": "Zamalek Sports",
       "description": "",
       "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Arabic/zamalek_sports.jpg",
@@ -80005,7 +79998,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4312",
+      "id": "4313",
       "name": "Mix Bel Araby",
       "description": "",
       "logo": "https://media0098.elcinema.com/tvguide/1371_1.png",
@@ -80026,7 +80019,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4313",
+      "id": "4314",
       "name": "ON Drama",
       "description": "",
       "logo": "https://i.imgur.com/qpaKDtL.png",
@@ -80047,7 +80040,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4314",
+      "id": "4315",
       "name": "5 Movies",
       "description": "",
       "logo": "https://i.imgur.com/Sqgixom.jpeg",
@@ -80064,7 +80057,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4315",
+      "id": "4316",
       "name": "El Sharq",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/qGi1tqimgJDHHATnUIxl99Y_Uuqg4TVAl9SGzTKr_oZA63yeZ5Ez-sWgFsU8t1FgAv0fqzGV=s900-c-k-c0x00ffffff-no-rj",
@@ -80081,7 +80074,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4316",
+      "id": "4317",
       "name": "Majestic Cinema",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80098,7 +80091,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4317",
+      "id": "4318",
       "name": "Majestic Aflam 1",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80115,7 +80108,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4318",
+      "id": "4319",
       "name": "Majestic Aflam 2",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80132,7 +80125,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4319",
+      "id": "4320",
       "name": "Majestic Classic",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80149,7 +80142,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4320",
+      "id": "4321",
       "name": "Majestic Zaman",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80166,7 +80159,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4321",
+      "id": "4322",
       "name": "Majestic Masrah",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80183,7 +80176,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4322",
+      "id": "4323",
       "name": "Majestic Hindi",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80200,7 +80193,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4323",
+      "id": "4324",
       "name": "Majestic Action",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80217,7 +80210,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4324",
+      "id": "4325",
       "name": "Majestic Crime",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80234,7 +80227,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4325",
+      "id": "4326",
       "name": "Majestic Fantasy",
       "description": "",
       "logo": "https://i.imgur.com/4z0YaQS.png",
@@ -80251,7 +80244,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4326",
+      "id": "4327",
       "name": "Ktv Aflam",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80268,7 +80261,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4327",
+      "id": "4328",
       "name": "Ktv Comedy",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80285,7 +80278,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4328",
+      "id": "4329",
       "name": "Ktv Cinema",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80302,7 +80295,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4329",
+      "id": "4330",
       "name": "Ktv Som3a",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80319,7 +80312,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4330",
+      "id": "4331",
       "name": "Ktv Classic",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80336,7 +80329,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4331",
+      "id": "4332",
       "name": "Ktv Masr7yat",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80353,7 +80346,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4332",
+      "id": "4333",
       "name": "Ktv Masr7 Masr",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80370,7 +80363,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4333",
+      "id": "4334",
       "name": "Ktv Kids 1",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80387,7 +80380,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4334",
+      "id": "4335",
       "name": "Ktv Documentary",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80404,7 +80397,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4335",
+      "id": "4336",
       "name": "Ktv Hindi",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80421,7 +80414,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4336",
+      "id": "4337",
       "name": "Ktv Hindi 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80438,7 +80431,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4337",
+      "id": "4338",
       "name": "Ktv Super Hero",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80455,7 +80448,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4338",
+      "id": "4339",
       "name": "Ktv Thriller",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80472,7 +80465,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4339",
+      "id": "4340",
       "name": "Home Cinema 01",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80489,7 +80482,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4340",
+      "id": "4341",
       "name": "Home Cinema 02",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80506,7 +80499,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4341",
+      "id": "4342",
       "name": "Home Cinema 03",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80523,7 +80516,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4342",
+      "id": "4343",
       "name": "Home Cinema 04",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80540,7 +80533,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4343",
+      "id": "4344",
       "name": "Home Cinema 05",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80557,7 +80550,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4344",
+      "id": "4345",
       "name": "Home Cinema 06",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80574,7 +80567,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4345",
+      "id": "4346",
       "name": "Home Cinema 07",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80591,7 +80584,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4346",
+      "id": "4347",
       "name": "Home Cinema 08",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80608,7 +80601,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4347",
+      "id": "4348",
       "name": "Home Cinema 09",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80625,7 +80618,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4348",
+      "id": "4349",
       "name": "Box Office 01",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80642,7 +80635,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4349",
+      "id": "4350",
       "name": "Box Office 02",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80659,7 +80652,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4350",
+      "id": "4351",
       "name": "Box Office 03",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80676,7 +80669,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4351",
+      "id": "4352",
       "name": "Box Office 04",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80693,7 +80686,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4352",
+      "id": "4353",
       "name": "Box Office 05",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80710,7 +80703,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4353",
+      "id": "4354",
       "name": "Box Office 06",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80727,7 +80720,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4354",
+      "id": "4355",
       "name": "Box Office 07",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80744,7 +80737,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4355",
+      "id": "4356",
       "name": "Box Office 08",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80761,7 +80754,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4356",
+      "id": "4357",
       "name": "Box Office 09",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80778,7 +80771,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4357",
+      "id": "4358",
       "name": "Box Office 10",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80795,7 +80788,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4358",
+      "id": "4359",
       "name": "Box Premium 1",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80812,7 +80805,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4359",
+      "id": "4360",
       "name": "Box Premium 2",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80829,7 +80822,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4360",
+      "id": "4361",
       "name": "Box Premium 3",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80846,7 +80839,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4361",
+      "id": "4362",
       "name": "Box Premium 4",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80863,7 +80856,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4362",
+      "id": "4363",
       "name": "Box Premium 5",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80880,7 +80873,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4363",
+      "id": "4364",
       "name": "Box Premium 6",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80897,7 +80890,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4364",
+      "id": "4365",
       "name": "Box Premium 7",
       "description": "",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Sky_Box_Office_NZ.svg/revision/latest?cb=20230831112742",
@@ -80914,7 +80907,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4365",
+      "id": "4366",
       "name": "Home Premium 1",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80931,7 +80924,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4366",
+      "id": "4367",
       "name": "Home Premium 2",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80948,7 +80941,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4367",
+      "id": "4368",
       "name": "Home Premium 3",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80965,7 +80958,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4368",
+      "id": "4369",
       "name": "Home Cinema 10",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGnN3LNaEthPeW9AF-a6ntwwR8y_K-AAhog&s",
@@ -80982,7 +80975,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4369",
+      "id": "4370",
       "name": "Ktv Kids 2",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_KTV.jpg",
@@ -80999,7 +80992,7 @@
       "category": "Majestic"
     },
     {
-      "id": "4370",
+      "id": "4371",
       "name": "Persiana Cinema",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/cinema.png",
@@ -81016,7 +81009,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4371",
+      "id": "4372",
       "name": "Persiana Comedy",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/comedy.png",
@@ -81033,7 +81026,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4372",
+      "id": "4373",
       "name": "Persiana Docs",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/docs.png",
@@ -81050,7 +81043,7 @@
       "category": "Discovery"
     },
     {
-      "id": "4373",
+      "id": "4374",
       "name": "Persiana Family",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/family.png",
@@ -81067,7 +81060,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4374",
+      "id": "4375",
       "name": "Persiana Fight",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/fight.png",
@@ -81084,7 +81077,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4375",
+      "id": "4376",
       "name": "Persiana Folk",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/folk.png",
@@ -81101,7 +81094,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4376",
+      "id": "4377",
       "name": "Persiana Iranian",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/iranian.png",
@@ -81118,7 +81111,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4377",
+      "id": "4378",
       "name": "Persiana Korea",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/korea.png",
@@ -81135,7 +81128,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4378",
+      "id": "4379",
       "name": "Persiana Latino",
       "description": "",
       "logo": "https://www.rzrzrzcom/logo/tv/pp/persiana-latino-fr.png",
@@ -81152,7 +81145,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4379",
+      "id": "4380",
       "name": "Persiana Music",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/music.png",
@@ -81169,7 +81162,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4380",
+      "id": "4381",
       "name": "Persiana Nostalgia",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/nostalgia.png",
@@ -81186,7 +81179,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4381",
+      "id": "4382",
       "name": "Persiana Plus",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/plus.png",
@@ -81203,7 +81196,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4382",
+      "id": "4383",
       "name": "Persiana Reality",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/reality.png",
@@ -81220,7 +81213,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4383",
+      "id": "4384",
       "name": "Persiana Series",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/series.png",
@@ -81237,7 +81230,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4384",
+      "id": "4385",
       "name": "Persiana Travel",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/travel.png",
@@ -81254,7 +81247,7 @@
       "category": "Discovery"
     },
     {
-      "id": "4385",
+      "id": "4386",
       "name": "Persiana Turkiye",
       "description": "",
       "logo": "https://persianagroup.tv/assets/logos/turkey.png",
@@ -81271,7 +81264,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4386",
+      "id": "4387",
       "name": "Persiana Vibe",
       "description": "",
       "logo": "https://www.rzrzrzcom/logo/tv/pp/persiana-vibe-fr.png",
@@ -81288,7 +81281,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4387",
+      "id": "4388",
       "name": "Persiana Sports",
       "description": "",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJXOuMDyn0YI2n8m55ikEXsfy3PyoGhZmErEiSlhjTwRMppQ67NlpGXo&s=10",
@@ -81305,7 +81298,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4388",
+      "id": "4389",
       "name": "Dr Pal",
       "description": "",
       "logo": "https://drpal.ai/images/drpal-darkblue.png",
@@ -81322,7 +81315,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4389",
+      "id": "4390",
       "name": "El Djazair N1",
       "description": "",
       "logo": "https://yt3.googleusercontent.com/D-fil8d7VGYk2Q3KADkPN8p4bI7xOEHCO8zhcHHWaQeeXUon5aNedOKfT92bX_gCu0kUxoT7=s900-c-k-c0x00ffffff-no-rj",
@@ -81339,7 +81332,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4390",
+      "id": "4391",
       "name": "Water Planet",
       "description": "",
       "logo": "https://i.imgur.com/ZKczKhD.png",
@@ -81356,7 +81349,7 @@
       "category": "Discovery"
     },
     {
-      "id": "4391",
+      "id": "4392",
       "name": "Polsat Viasat Nature",
       "description": "",
       "logo": "https://i.imgur.com/TUcM0oS.png",
@@ -81373,7 +81366,7 @@
       "category": "Discovery"
     },
     {
-      "id": "4392",
+      "id": "4393",
       "name": "Polsat Viasat History",
       "description": "",
       "logo": "https://i.imgur.com/X16UGUf.png",
@@ -81390,7 +81383,7 @@
       "category": "Discovery"
     },
     {
-      "id": "4393",
+      "id": "4394",
       "name": "Polsat Viasat Explore",
       "description": "",
       "logo": "https://i.imgur.com/gDlqO9h.png",
@@ -81407,7 +81400,7 @@
       "category": "Discovery"
     },
     {
-      "id": "4394",
+      "id": "4395",
       "name": "Zoom TV",
       "description": "",
       "logo": "https://i.imgur.com/UtZM4zm.png",
@@ -81424,7 +81417,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4395",
+      "id": "4396",
       "name": "TVP Sport",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo-s-tvp-sport.svg/3840px-Logo-s-tvp-sport.svg.png",
@@ -81441,7 +81434,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4396",
+      "id": "4397",
       "name": "Polsat Film Poland",
       "description": "",
       "logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/polsat-film-poland.png",
@@ -81458,7 +81451,7 @@
       "category": "POLAND"
     },
     {
-      "id": "4397",
+      "id": "4398",
       "name": "TVP Info",
       "description": "",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/3840px-TVP_Info_logo.svg.png",
@@ -81479,7 +81472,7 @@
       "category": "reezntv.com"
     },
     {
-      "id": "4398",
+      "id": "4399",
       "name": "Twitch Live 1",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81496,7 +81489,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4399",
+      "id": "4400",
       "name": "Twitch Live 2",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81513,7 +81506,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4400",
+      "id": "4401",
       "name": "Twitch Live 3",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81530,7 +81523,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4401",
+      "id": "4402",
       "name": "Twitch Live 4",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81547,7 +81540,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4402",
+      "id": "4403",
       "name": "Twitch Live 5",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81564,7 +81557,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4403",
+      "id": "4404",
       "name": "Twitch Live 6",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81581,7 +81574,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4404",
+      "id": "4405",
       "name": "Twitch Live 7",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81598,7 +81591,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4405",
+      "id": "4406",
       "name": "Twitch Live 8",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81615,7 +81608,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4406",
+      "id": "4407",
       "name": "Twitch Live 9",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81632,7 +81625,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4407",
+      "id": "4408",
       "name": "Twitch Live 10",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81649,7 +81642,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4408",
+      "id": "4409",
       "name": "Twitch Live 11",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81666,7 +81659,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4409",
+      "id": "4410",
       "name": "Twitch Live 12",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81683,7 +81676,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4410",
+      "id": "4411",
       "name": "Twitch Live 13",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81700,7 +81693,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4411",
+      "id": "4412",
       "name": "Twitch Live 14",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81717,7 +81710,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4412",
+      "id": "4413",
       "name": "Twitch Live 15",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81734,7 +81727,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4413",
+      "id": "4414",
       "name": "Twitch Live 16",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81751,7 +81744,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4414",
+      "id": "4415",
       "name": "Twitch Live 17",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81768,7 +81761,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4415",
+      "id": "4416",
       "name": "Twitch Live 18",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81785,7 +81778,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4416",
+      "id": "4417",
       "name": "Twitch Live 19",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
@@ -81802,7 +81795,7 @@
       "category": "Twitch"
     },
     {
-      "id": "4417",
+      "id": "4418",
       "name": "Twitch Live 20",
       "description": "",
       "logo": "https://1000logos.net/wp-content/uploads/2018/10/Twitch-logo.png",
